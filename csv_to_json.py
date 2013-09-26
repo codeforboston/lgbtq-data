@@ -39,7 +39,7 @@
 #       county: "String",
 #       services_offered: ["String"],
 #       website_url: "String",
-#       phone_number: "String", #some have multiples
+#       phone_numbers: ["String"],
 #       contact_names: ["String"],
 #       contact_emails: ["String"],
 #       target_populations: ["String"],
@@ -69,7 +69,7 @@ def parse(f, geocode=False):
       county = row[6]
       services = filter_out_empty(row[7:15])
       url = row[16]
-      phone = row[17]
+      phones = [row[17]]
       names = filter_out_empty([row[18], row[20]])
       emails = filter_out_empty([row[19], row[21]])
       service_classes = filter_out_empty(row[22:24])
@@ -87,9 +87,9 @@ def parse(f, geocode=False):
           "county": county,
           "services_offered": services,
           "web_url": url,
-          "phone_number": phone,
-          "contact_names": names,
-          "contact_emails": emails,
+          "phone_numbers": expand_all(phones),
+          "contact_names": expand_all(names),
+          "contact_emails": expand_all(emails),
           "service_classes": service_classes,
           "target_populations": target_populations,
           "age_range": age_range,
@@ -111,14 +111,27 @@ def parse(f, geocode=False):
           print "~~~failed to geocode"
           print full_address
           print ex
+        sys.stdout.flush()
 
       locations.append(loc)
   return locations
 
-#takes a list with "" and nulls in some fields
+# takes a list with "" and nulls in some fields
 # returns a shortened list with only good data
 def filter_out_empty(l):
   return filter(lambda x: x != None and x != "", l)
+
+# takes a lit of strings, ["a", "b", "c;d;e"]
+# splits any elements separated by semicolons
+# -> ["a", "b", "c", "d", "e"]
+def expand_all(l):
+  new = []
+  for element in l:
+    if ';' in element:
+      new += map(lambda x: x.strip(), element.split(';'))
+    else:
+      new.append(element)
+  return new
 
 
 if __name__ == "__main__":
