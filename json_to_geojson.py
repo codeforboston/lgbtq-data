@@ -3,6 +3,23 @@
 import sys, json
 from collections import OrderedDict
 
+ORDERED_KEYS = ["organization_name",
+    "address",
+    "unit_number",
+    "county",
+    "state",
+    "zipcode",
+    "community",
+    "services_offered",
+    "web_url",
+    "phone_numbers",
+    "contact_names",
+    "contact_emails",
+    "service_classes",
+    "target_populations",
+    "age_range",
+    "additional_notes"]
+
 if __name__ == "__main__":
   if len(sys.argv) == 3:
     inp = open(sys.argv[1], 'r')
@@ -19,9 +36,8 @@ if __name__ == "__main__":
         geometry["coordinates"] = [d["lng"], d["lat"]]
 
         properties = OrderedDict()
-        for key in d.keys():
-          if key != "lat" and key != "lng":
-            properties[key] = d[key]
+        for key in ORDERED_KEYS:
+          properties[key] = d[key]
 
         feature = OrderedDict()
         feature["type"] = "Feature"
