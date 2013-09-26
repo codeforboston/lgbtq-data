@@ -52,6 +52,8 @@
 
 import sys, json, csv, time
 from geopy import geocoders
+from collections import OrderedDict
+
 geocoder = geocoders.GoogleV3()
 
 def parse(f, geocode=False):
@@ -77,24 +79,23 @@ def parse(f, geocode=False):
       age_range = row[28]
       notes = filter_out_empty(row[29:])
 
-      loc = {
-          "organization_name": org,
-          "address": address,
-          "unit_number": unit_num,
-          "community": community,
-          "state": state,
-          "zipcode": zipcode,
-          "county": county,
-          "services_offered": services,
-          "web_url": url,
-          "phone_numbers": expand_all(phones),
-          "contact_names": expand_all(names),
-          "contact_emails": expand_all(emails),
-          "service_classes": service_classes,
-          "target_populations": target_populations,
-          "age_range": age_range,
-          "additional_notes": notes
-        }
+      loc = OrderedDict()
+      loc["organization_name"] = org
+      loc["address"] = address
+      loc["unit_number"] = unit_num
+      loc["county"] = county
+      loc["state"] = state
+      loc["zipcode"] = zipcode
+      loc["community"] = community
+      loc["services_offered"] = services
+      loc["web_url"] = url
+      loc["phone_numbers"] = expand_all(phones)
+      loc["contact_names"] = expand_all(names)
+      loc["contact_emails"] = expand_all(emails)
+      loc["service_classes"] = service_classes
+      loc["target_populations"] = target_populations
+      loc["age_range"] = age_range
+      loc["additional_notes"] = notes
 
                       #empty string is false-y
       if (geocode and address and county and state): 
