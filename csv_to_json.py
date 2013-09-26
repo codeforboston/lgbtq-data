@@ -3,6 +3,9 @@
 # To convert Geomapping...xls
 # Export as .csv with a , separator
 # run ./csv_to_json.py Geomapping...csv output.json
+# or
+# run ./csv_to_json.py Geomapping...csv output.json --geocode
+
 
 # Data formats:
 # .xls
@@ -36,20 +39,22 @@
 #       county: "String",
 #       services_offered: ["String"],
 #       website_url: "String",
-#       phone_number: "String",
-#       contacts: [ { name: "String",
-#                     email: "String" }
-#                 ],
+#       phone_number: "String", #some have multiples
+#       contact_names: ["String"],
+#       contact_emails: ["String"],
 #       target_populations: ["String"],
 #       age_range: "String", #worth splitting into lower/upper bound?
 #       notes: ["String"]
+#       loc: {lat: Number, lng, Number}
 #     }
 #   ]
 # }
 
-import sys, json, csv
+import sys, json, csv, time
+from geopy import geocoders
+geocoder = geocoders.GoogleV3()
 
-def parse(f):
+def parse(f, geocode=False):
   locations = []
 
   reader = csv.reader(f)
@@ -65,16 +70,12 @@ def parse(f):
       services = filter_out_empty(row[7:15])
       url = row[16]
       phone = row[17]
-      contact_name1 = row[18]
-      contact_email1 = row[19]
-      contact_name2 = row[20]
-      contact_email2 = row[21]
+      names = filter_out_empty([row[18], row[20]])
+      emails = filter_out_empty([row[19], row[21]])
       service_classes = filter_out_empty(row[22:24])
       target_populations = filter_out_empty(row[25:27])
       age_range = row[28]
       notes = filter_out_empty(row[29:])
-
-      contacts = []
 
       loc = {
           "organization_name": org,
@@ -87,12 +88,29 @@ def parse(f):
           "services_offered": services,
           "web_url": url,
           "phone_number": phone,
-          "contacts": contacts,
+          "contact_names": names,
+          "contact_emails": emails,
           "service_classes": service_classes,
           "target_populations": target_populations,
           "age_range": age_range,
           "additional_notes": notes
         }
+
+                      #empty string is false-y
+      if (geocode and address and county and state): 
+        time.sleep(1) #rate limit
+        try:
+          full_address = address + "\n" + county + ", " + state +  " " + zipcode
+          place, (lat, lng) = geocoder.geocode(full_address)
+          loc["lat"] = lat
+          loc["lng"] = lng
+          print "~~~Geocoded"
+          print full_address
+          print (lat, lng)
+        except Exception as ex:
+          print "~~~failed to geocode"
+          print full_address
+          print ex
 
       locations.append(loc)
   return locations
@@ -104,12 +122,16 @@ def filter_out_empty(l):
 
 
 if __name__ == "__main__":
-  if len(sys.argv) == 3:
+  if len(sys.argv) >= 3:
     inp = open(sys.argv[1], 'r')
     out = open(sys.argv[2], 'w')
 
-    data = parse(inp)
-    j = json.dumps(data)
+    g = False
+    if (len(sys.argv) >= 4 and sys.argv[3] == "--geocode"):
+      g=True
+
+    data = parse(inp, geocode=g)
+    j = json.dumps(data, indent=2)
     out.write(j)
 
     inp.close()
