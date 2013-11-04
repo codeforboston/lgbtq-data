@@ -4,11 +4,11 @@ import sys, json
 from collections import OrderedDict
 
 ORDERED_KEYS = ["organization_name",
-    "address",
-    "unit_number",
-    "county",
-    "state",
-    "zipcode",
+    #"address",
+    #"unit_number",
+    #"county",
+    #"state",
+    #"zipcode",
     "community",
     "services_offered",
     "web_url",
@@ -31,14 +31,25 @@ if __name__ == "__main__":
     for d in data:
       if "lat" in d.keys() and "lng" in d.keys():
 
+        # geo point
         geometry = OrderedDict()
         geometry["type"] = "Point"
         geometry["coordinates"] = [d["lng"], d["lat"]]
 
         properties = OrderedDict()
+
+        # address
+        full_address = d["address"] + '\n';
+        if ("unit_number" in d and d["unit_number"] != ""):
+          full_address += d["unit_number"] + '\n'
+        full_address += d["county"] + ", " + d["state"] + " " + d["zipcode"]
+        properties["address"] = full_address
+
+        # other properties
         for key in ORDERED_KEYS:
           properties[key] = d[key]
 
+        # format full feature object
         feature = OrderedDict()
         feature["type"] = "Feature"
         feature["geometry"] = geometry
