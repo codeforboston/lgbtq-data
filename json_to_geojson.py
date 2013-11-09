@@ -15,6 +15,9 @@ ORDERED_KEYS = ["organization_name",
     "phone_numbers",
     "contact_names",
     "contact_emails",
+    "youth_category",
+    "service_class_level_1",
+    "service_class_level_2",
     "service_classes",
     "target_populations",
     "age_range",
@@ -61,7 +64,7 @@ if __name__ == "__main__":
     collection["type"] = "FeatureCollection"
     collection["features"] = features
 
-    out.write(json.dumps(collection))
+    out.write(json.dumps(collection, indent=2))
 
   else:
     print "./json_to_json.py input.json output.geojson"

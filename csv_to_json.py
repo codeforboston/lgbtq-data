@@ -10,6 +10,12 @@
 # Data formats:
 # .xls
 #   Organization Name
+#   Erica's Categories
+#   Revised Service Class Level 1
+#   Revised Service Class Level 2
+#   blank column
+#   Service Class 1...3
+#   Website URL
 #   Address
 #   Unit Number
 #   Community
@@ -17,13 +23,11 @@
 #   Zip Code
 #   County
 #   Services Offered 1...9
-#   Website URL
 #   Phone Number
 #   Contact Name 1
 #   Contact Email 1
 #   Contact Name 2
 #   Contact Email 2
-#   Service Class 1...3
 #   Target Population 1...3
 #   Age Range
 #   Additional Notes
@@ -63,21 +67,35 @@ def parse(f, geocode=False):
   for i, row in enumerate(reader):
     if i > 0:
       org = row[0]
-      address = row[1]
-      unit_num = row[2]
-      community = row[3]
-      state = row[4]
-      zipcode = row[5]
-      county = row[6]
-      services = filter_out_empty(row[7:15])
-      url = row[16]
-      phones = [row[17]]
-      names = filter_out_empty([row[18], row[20]])
-      emails = filter_out_empty([row[19], row[21]])
-      service_classes = filter_out_empty(row[22:24])
-      target_populations = filter_out_empty(row[25:27])
-      age_range = row[28]
-      notes = filter_out_empty(row[29:])
+
+      youth_category = row[1]
+      service_class_L1 = row[2]
+      service_class_L2 = row[3]
+
+      blank = row[4]
+
+      service_classes = filter_out_empty(row[4:7])
+
+      url = row[8]
+
+      address = row[9]
+      unit_num = row[10]
+      community = row[11]
+      state = row[12]
+      zipcode = row[13]
+      county = row[14]
+
+      services = filter_out_empty(row[15:23])
+
+      phones = [row[24]]
+      names = filter_out_empty([row[25], row[27]])
+      emails = filter_out_empty([row[26], row[28]])
+
+      target_populations = filter_out_empty(row[29:30])
+      age_range = row[31]
+
+      notes = filter_out_empty(row[32:])
+
 
       loc = OrderedDict()
       loc["organization_name"] = org
@@ -92,6 +110,9 @@ def parse(f, geocode=False):
       loc["phone_numbers"] = expand_all(phones)
       loc["contact_names"] = expand_all(names)
       loc["contact_emails"] = expand_all(emails)
+      loc["youth_category"] = youth_category
+      loc["service_class_level_1"] = service_class_L1
+      loc["service_class_level_2"] = service_class_L2
       loc["service_classes"] = service_classes
       loc["target_populations"] = target_populations
       loc["age_range"] = age_range
