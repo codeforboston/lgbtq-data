@@ -30,14 +30,15 @@ def compare_keys(x, y):
 
 #main
 
-inp = open("data.json")
+inp = open("data.geojson")
 data = json.loads("".join(inp.readlines()))
 
 all_service_classes = {}
 all_target_populations = {}
 all_services_offered = {}
 
-for d in data:
+for item in data["features"]:
+  d = item['properties']
   for sc in d.get("service_classes"):
     add_to_map(all_service_classes, sc)
   for tp in d.get("target_populations"):

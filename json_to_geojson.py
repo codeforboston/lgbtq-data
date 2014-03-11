@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import sys, json
+import sys, json, re
 from collections import OrderedDict
 
 ORDERED_KEYS = ["organization_name",
@@ -22,6 +22,39 @@ ORDERED_KEYS = ["organization_name",
     "target_populations",
     "age_range",
     "additional_notes"]
+
+#labels to title case
+TITLES = ["community",
+          "services_offered",
+          "youth_category",
+          "service_class_level_1",
+          "service_class_level_2",
+          "service_classes",
+          "target_populations",
+          "age_range"]
+
+articles = ['a', 'an', 'of', 'the', 'is', 'and', 'lgbtq']
+
+def title_case(s):
+  word_list = re.split(' ', s)       #re.split behaves as expected
+
+  if word_list[0].isupper():
+    final = [word_list[0]]
+  else:
+    final = [word_list[0].capitalize()]
+
+  for word in word_list[1:]:
+    if word in articles: #don't capitalize articles
+      final.append(word)
+    elif word.isupper(): #don't capitalize acronyms
+      print(word)
+      final.append(word)
+    else:
+      final.append(word.capitalize())
+  return " ".join(final)
+
+def clean_string(s):
+  return title_case(s.strip())
 
 if __name__ == "__main__":
   if len(sys.argv) == 3:
@@ -50,7 +83,15 @@ if __name__ == "__main__":
 
         # other properties
         for key in ORDERED_KEYS:
-          properties[key] = d[key]
+          if key in TITLES:
+            value = d[key]
+
+            if isinstance(value, basestring): #single element
+              properties[key] = clean_string(value)
+            else: #list
+              properties[key] = map(clean_string, value)
+          else:
+            properties[key] = d[key] #just do a normal assignment
 
         # format full feature object
         feature = OrderedDict()
