@@ -10,7 +10,6 @@ ORDERED_KEYS = ["organization_name",
     #"state",
     #"zipcode",
     "community",
-    "services_offered",
     "web_url",
     "phone_numbers",
     "contact_names",
@@ -18,18 +17,15 @@ ORDERED_KEYS = ["organization_name",
     "youth_category",
     "service_class_level_1",
     "service_class_level_2",
-    "service_classes",
     "target_populations",
     "age_range",
     "additional_notes"]
 
 #labels to title case
 TITLES = ["community",
-          "services_offered",
           "youth_category",
           "service_class_level_1",
           "service_class_level_2",
-          "service_classes",
           "target_populations",
           "age_range"]
 
