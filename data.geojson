@@ -16,11 +16,11 @@
         "community": "Leominster", 
         "web_url": "http://www.firstchurchuu.org/outreach.html#glbt", 
         "phone_numbers": [
-          "978.537.0310  "
+          "978.537.0310"
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:GLBTalliance@gmail.com"
+          "GLBTalliance@gmail.com"
         ], 
         "youth_category": [
           "Community Group", 
@@ -30,7 +30,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -54,11 +54,11 @@
         "community": "Fitchburg", 
         "web_url": "http://www.firstchurchuu.org/outreach.html#glbt", 
         "phone_numbers": [
-          "978.537.0310  "
+          "978.537.0310"
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:GLBTalliance@gmail.com"
+          "GLBTalliance@gmail.com"
         ], 
         "youth_category": [
           "Community Group", 
@@ -68,7 +68,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -104,7 +104,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -146,7 +146,8 @@
           "Behavioral Health Services"
         ], 
         "service_class_level_2": [
-          "Clinical Counseling; Other Professional Counseling and Therapy"
+          "Clinical Counseling", 
+          "Other Professional Counseling and Therapy"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -218,7 +219,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:info@aidsprojectworcester.org"
+          "info@aidsprojectworcester.org"
         ], 
         "youth_category": [
           "Health and Mental Health", 
@@ -271,7 +272,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -308,7 +309,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -345,7 +346,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -423,7 +424,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "Parent"
@@ -454,7 +455,7 @@
         ], 
         "contact_emails": [
           "info@aclum.org", 
-          "mailto:crobarge@aclum.org"
+          "crobarge@aclum.org"
         ], 
         "youth_category": [
           "Legal Services"
@@ -576,7 +577,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -615,7 +616,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -629,8 +630,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.0536424, 
-          42.3427576
+          -71.05360399999999, 
+          42.34301199999999
         ]
       }, 
       "properties": {
@@ -693,7 +694,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -724,14 +725,13 @@
           "info@bagly.org"
         ], 
         "youth_category": [
-          "Community Group", 
-          "Counseling, Therapy, Psychological and Psychiatric Services"
+          "Community Group"
         ], 
         "service_class_level_1": [
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -872,7 +872,7 @@
           "Ismael Rivera"
         ], 
         "contact_emails": [
-          "mailto:irivera@jri.org"
+          "irivera@jri.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -882,7 +882,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth Under 13-25"
@@ -912,7 +912,7 @@
           "Larry Kessler, Boston Living Center Director"
         ], 
         "contact_emails": [
-          "mailto:lkessler@vpi.org"
+          "lkessler@vpi.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -934,8 +934,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.0544962, 
-          42.05523609999999
+          -71.0545933, 
+          42.054851
         ]
       }, 
       "properties": {
@@ -961,7 +961,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
         "age_range": "", 
@@ -987,7 +987,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:bridge@bridgeotw.org"
+          "bridge@bridgeotw.org"
         ], 
         "youth_category": [
           "Health and Mental Health", 
@@ -1035,7 +1035,7 @@
           "Jovan Zuniga"
         ], 
         "contact_emails": [
-          "mailto:btgboston@gmail.com"
+          "btgboston@gmail.com"
         ], 
         "youth_category": [
           "Community Group", 
@@ -1046,7 +1046,7 @@
           "Employment"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support", 
+          "Para-professional Counseling, Therapy and Support", 
           "Job Development and Placement"
         ], 
         "target_populations": [
@@ -1054,6 +1054,42 @@
         ], 
         "age_range": "", 
         "additional_notes": "12-17"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.044775, 
+          42.409085
+        ]
+      }, 
+      "properties": {
+        "address": "20 Nichols St\nMiddlesex, MA 02149", 
+        "organization_name": "Cambridge Health Alliance - Anna May Powers Center", 
+        "community": "Everett", 
+        "web_url": "http://www.challiance.org/Main/Home.aspx", 
+        "phone_numbers": [
+          "617-575-5660"
+        ], 
+        "contact_names": [], 
+        "contact_emails": [], 
+        "youth_category": [
+          "Health and Mental Health", 
+          "Primary Care Services"
+        ], 
+        "service_class_level_1": [
+          "Health Care"
+        ], 
+        "service_class_level_2": [
+          "Primary Care Services"
+        ], 
+        "target_populations": [
+          "LGBTQ Youth"
+        ], 
+        "age_range": "", 
+        "additional_notes": ""
       }
     }, 
     {
@@ -1082,7 +1118,7 @@
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Dental Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -1109,8 +1145,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.10147169999999, 
-          42.3742732
+          -71.10104299999999, 
+          42.3740069
         ]
       }, 
       "properties": {
@@ -1469,8 +1505,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.01149989999999, 
-          42.4113993
+          -71.0115785, 
+          42.4115004
         ]
       }, 
       "properties": {
@@ -1685,8 +1721,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.08169, 
-          42.391507
+          -71.0820257, 
+          42.3906141
         ]
       }, 
       "properties": {
@@ -1699,7 +1735,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:youth@casparinc.org%22"
+          "youth@casparinc.org%22"
         ], 
         "youth_category": [
           "Drop-in Center", 
@@ -1716,7 +1752,7 @@
           "Short-term Stabilization", 
           "Intermediate-term Stabilization", 
           "Drop-in Center", 
-          "Job Development & Placement", 
+          "Job Development and Placement", 
           "Substance Abuse Services"
         ], 
         "target_populations": [
@@ -1741,7 +1777,7 @@
         "community": "Plymouth", 
         "web_url": "http://child-familyservices.org/cape-cod/", 
         "phone_numbers": [
-          " (800) 469-9888"
+          "(800) 469-9888"
         ], 
         "contact_names": [
           "SAME PHONE NUM AS BELOW"
@@ -1819,7 +1855,7 @@
         "community": "Lawrence", 
         "web_url": "http://child-familyservices.org/cape-cod/", 
         "phone_numbers": [
-          " (800) 469-9888"
+          "(800) 469-9888"
         ], 
         "contact_names": [], 
         "contact_emails": [], 
@@ -1971,7 +2007,7 @@
         "community": "New Bedford", 
         "web_url": "http://child-familyservices.org/cape-cod/", 
         "phone_numbers": [
-          " (508) 996-8572"
+          "(508) 996-8572"
         ], 
         "contact_names": [], 
         "contact_emails": [], 
@@ -2088,7 +2124,7 @@
         "community": "Boston", 
         "web_url": "http://www.childrenshospital.org/centers-and-services/division-of-adolescent-medicine/overview", 
         "phone_numbers": [
-          " 617-355-7181"
+          "617-355-7181"
         ], 
         "contact_names": [], 
         "contact_emails": [], 
@@ -2182,7 +2218,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -2306,8 +2342,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.1240274, 
-          42.3783946
+          -71.1240344, 
+          42.37836050000001
         ]
       }, 
       "properties": {
@@ -2320,7 +2356,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:drnicoleissa@yahoo.com"
+          "drnicoleissa@yahoo.com"
         ], 
         "youth_category": [
           "Health and Mental Health", 
@@ -2362,13 +2398,13 @@
           "Eileen Hughes"
         ], 
         "contact_emails": [
-          " patientrelations@bidmc.harvard.edu  (email sent April 7)", 
+          "patientrelations@bidmc.harvard.edu", 
           "ehughes@bidmc.harvard.edu"
         ], 
         "youth_category": [
           "Health and Mental Health", 
           "Other Specialist: OB/GYN", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care"
@@ -2451,7 +2487,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -2573,7 +2609,7 @@
         ], 
         "youth_category": [
           "Health and Mental Health", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services", 
           "Dental Services", 
           "Screening and Testing"
@@ -2619,7 +2655,7 @@
         "contact_emails": [], 
         "youth_category": [
           "Health and Mental Health", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services", 
           "Dental Services", 
           "Screening and Testing"
@@ -2665,7 +2701,7 @@
         "contact_emails": [], 
         "youth_category": [
           "Health and Mental Health", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services", 
           "Dental Services", 
           "Screening and Testing"
@@ -2718,7 +2754,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -2745,7 +2781,7 @@
           "413-774-7028"
         ], 
         "contact_names": [
-          "SAME PHONE "
+          "SAME PHONE"
         ], 
         "contact_emails": [
           "GenQ@communityaction.us"
@@ -2758,7 +2794,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
         "age_range": "", 
@@ -2794,7 +2830,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -2808,8 +2844,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.06145169999999, 
-          42.3556777
+          -71.061595, 
+          42.355726
         ]
       }, 
       "properties": {
@@ -2868,7 +2904,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -2948,7 +2984,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -2987,7 +3023,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "Parent"
@@ -3028,7 +3064,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3067,7 +3103,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3100,7 +3136,7 @@
         "youth_category": [
           "Health and Mental Health", 
           "Screening and Testing", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services"
         ], 
         "service_class_level_1": [
@@ -3124,8 +3160,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.067706, 
-          42.7761611
+          -71.06778040000002, 
+          42.776022
         ]
       }, 
       "properties": {
@@ -3143,7 +3179,7 @@
         "youth_category": [
           "Health and Mental Health", 
           "Screening and Testing", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services"
         ], 
         "service_class_level_1": [
@@ -3186,7 +3222,7 @@
         "youth_category": [
           "Health and Mental Health", 
           "Screening and Testing", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services"
         ], 
         "service_class_level_1": [
@@ -3224,7 +3260,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:Info@HBGC-Boston.org"
+          "Info@HBGC-Boston.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -3234,7 +3270,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3274,7 +3310,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3304,7 +3340,7 @@
         "contact_emails": [], 
         "youth_category": [
           "Health and Mental Health", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Primary Care Services", 
           "Screening and Testing", 
           "Dental Services"
@@ -3348,7 +3384,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:info@hydesquare.org"
+          "info@hydesquare.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -3358,7 +3394,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3442,7 +3478,7 @@
         ], 
         "service_class_level_2": [
           "Case Management", 
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "Homeless Youth"
@@ -3507,8 +3543,8 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:chairperson@k-street.com", 
-          "mailto:secretary@k-street.com"
+          "chairperson@k-street.com", 
+          "secretary@k-street.com"
         ], 
         "youth_category": [
           "Health and Mental Health", 
@@ -3518,7 +3554,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3556,7 +3592,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3791,7 +3827,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:boston@lhi.org"
+          "boston@lhi.org"
         ], 
         "youth_category": [
           "Health and Mental Health", 
@@ -3847,7 +3883,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3861,8 +3897,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -72.5267902, 
-          42.2545594
+          -72.52684409999999, 
+          42.2545476
         ]
       }, 
       "properties": {
@@ -3875,7 +3911,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:thebeemyns@gogtt.net", 
+          "thebeemyns@gogtt.net", 
           "info@masstherapist.com"
         ], 
         "youth_category": [
@@ -3924,7 +3960,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3963,7 +3999,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -3977,8 +4013,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -72.585262, 
-          42.114131
+          -72.5853566, 
+          42.1141525
         ]
       }, 
       "properties": {
@@ -4049,7 +4085,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4083,7 +4119,7 @@
           "Health and Mental Health", 
           "Primary Care  Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -4129,7 +4165,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4164,7 +4200,7 @@
           "Government Entity", 
           "Primary Care Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -4212,7 +4248,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4250,7 +4286,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4291,7 +4327,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4322,7 +4358,7 @@
         "youth_category": [
           "Health and Mental Health", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -4345,8 +4381,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -72.5921272, 
-          42.10599089999999
+          -72.5920664, 
+          42.1059829
         ]
       }, 
       "properties": {
@@ -4408,7 +4444,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4476,7 +4512,7 @@
           "SAME PHONE"
         ], 
         "contact_emails": [
-          "mailto:info@mtwyouth.org"
+          "info@mtwyouth.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -4500,8 +4536,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.0636263, 
-          42.3433993
+          -71.0636071, 
+          42.3434029
         ]
       }, 
       "properties": {
@@ -4514,7 +4550,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:info@mtwyouth.org"
+          "info@mtwyouth.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -4646,8 +4682,8 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support", 
-          "Community Outreach, Education, and Engagement"
+          "Para-professional Counseling, Therapy and Support", 
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4683,7 +4719,7 @@
         ], 
         "youth_category": [
           "Health and Mental Health", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Case Management", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Primary Care Services"
@@ -4693,7 +4729,7 @@
           "Health Care"
         ], 
         "service_class_level_2": [
-          "Case Managementnull", 
+          "Case Management", 
           "Clinical Counseling", 
           "Primary Care Services", 
           "Other Health Care Provider Services"
@@ -4767,7 +4803,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
         "age_range": "", 
@@ -4805,7 +4841,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4845,7 +4881,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4919,7 +4955,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -4957,7 +4993,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "Parent of LGBTQ Youth"
@@ -4996,7 +5032,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5036,7 +5072,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "Parent"
@@ -5076,7 +5112,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5115,7 +5151,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ BCC Students, Faculty and Staff"
@@ -5155,7 +5191,7 @@
         ], 
         "service_class_level_2": [
           "Recreation Services", 
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "Youth Interested In Hip Hop"
@@ -5169,8 +5205,42 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.06444700000002, 
-          42.3176439
+          -72.3096094, 
+          42.5901534
+        ]
+      }, 
+      "properties": {
+        "address": "13 South Main Street\nFranklin, MA 01364", 
+        "organization_name": "Quabbin Mediation", 
+        "community": "Orange", 
+        "web_url": "http://www.quabbinmediation.org/", 
+        "phone_numbers": [
+          "978-544-6142"
+        ], 
+        "contact_names": [
+          "Lani Sherlock"
+        ], 
+        "contact_emails": [
+          "quabbinmediationlani@gmail.com"
+        ], 
+        "youth_category": [
+          "Education, Training and Employment", 
+          "Awareness and Advocacy"
+        ], 
+        "service_class_level_1": [], 
+        "service_class_level_2": [], 
+        "target_populations": [], 
+        "age_range": "", 
+        "additional_notes": ""
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.0645282, 
+          42.3176396
         ]
       }, 
       "properties": {
@@ -5193,7 +5263,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5232,7 +5302,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5270,7 +5340,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5305,7 +5375,9 @@
         ], 
         "youth_category": [
           "Community Group", 
-          "Domestic and Sexual Violence Services"
+          "Domestic and Sexual Violence Services", 
+          "Counseling, Therapy, Psychological and Psychiatric Services", 
+          "Legal Services"
         ], 
         "service_class_level_1": [
           "Para-professional Support Services"
@@ -5343,7 +5415,7 @@
         ], 
         "youth_category": [
           "Health and Mental Health", 
-          "Sexual Health", 
+          "Sexual Health Services", 
           "Screening and Testing", 
           "Primary Care Services", 
           "Screening and Testing"
@@ -5369,8 +5441,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.062792, 
-          42.3549501
+          -71.0627468, 
+          42.3549465
         ]
       }, 
       "properties": {
@@ -5379,7 +5451,7 @@
         "community": "Boston", 
         "web_url": "http://samaritanshope.org/", 
         "phone_numbers": [
-          "617.536.2460 "
+          "617.536.2460"
         ], 
         "contact_names": [], 
         "contact_emails": [], 
@@ -5494,14 +5566,14 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:%20information@fenwayhealth.org"
+          "%20information@fenwayhealth.org"
         ], 
         "youth_category": [
           "Health and Mental Health", 
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Substance Abuse Services", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -5542,7 +5614,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:lgbtissues@somervillema.gov"
+          "lgbtissues@somervillema.gov"
         ], 
         "youth_category": [
           "Government Entity", 
@@ -5553,7 +5625,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5619,8 +5691,8 @@
           "George Lee, Youth Programs"
         ], 
         "contact_emails": [
-          "mailto:admin@spontaneouscelebrations.org", 
-          "mailto:george@spontaneouscelebrations.org"
+          "admin@spontaneouscelebrations.org", 
+          "george@spontaneouscelebrations.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -5631,7 +5703,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5671,7 +5743,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
         "age_range": "", 
@@ -5707,7 +5779,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5784,7 +5856,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5814,7 +5886,7 @@
           "Luis Cantres"
         ], 
         "contact_emails": [
-          "mailto:swagly@aidsprojectworcester.org"
+          "swagly@aidsprojectworcester.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -5824,7 +5896,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -5857,7 +5929,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -5865,7 +5937,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -5901,7 +5973,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -5909,7 +5981,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -5945,7 +6017,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -5953,7 +6025,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -5989,7 +6061,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -5997,7 +6069,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6033,7 +6105,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6041,7 +6113,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6077,7 +6149,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6085,7 +6157,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6102,8 +6174,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -73.2529445, 
-          42.4445258
+          -73.2530195, 
+          42.444807
         ]
       }, 
       "properties": {
@@ -6121,7 +6193,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6129,7 +6201,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6165,7 +6237,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6173,7 +6245,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6209,7 +6281,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6217,7 +6289,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6253,7 +6325,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6261,7 +6333,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6297,7 +6369,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6305,7 +6377,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6341,7 +6413,7 @@
           "Primary Care  Services", 
           "Counseling, Therapy, Psychological and Psychiatric Services", 
           "Screening and Testing", 
-          "Sexual Health"
+          "Sexual Health Services"
         ], 
         "service_class_level_1": [
           "Health Care", 
@@ -6349,7 +6421,7 @@
           "Diagnostics"
         ], 
         "service_class_level_2": [
-          "Primary Care Servicesnull", 
+          "Primary Care Services", 
           "Other Health Care Provider Services", 
           "Clinical Counseling", 
           "Medical Screening and Testing"
@@ -6380,7 +6452,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:samantha@teenempowerment.org"
+          "samantha@teenempowerment.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -6392,7 +6464,7 @@
           "Employment"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement", 
+          "Community Outreach, Education and Engagement", 
           "Job Development and Placement"
         ], 
         "target_populations": [
@@ -6407,8 +6479,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.0819257, 
-          42.3179562
+          -71.0818652, 
+          42.3179226
         ]
       }, 
       "properties": {
@@ -6433,7 +6505,7 @@
           "Employment"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement", 
+          "Community Outreach, Education and Engagement", 
           "Job Development and Placement"
         ], 
         "target_populations": [
@@ -6472,7 +6544,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6512,7 +6584,7 @@
         ], 
         "service_class_level_2": [
           "Case Management", 
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6526,8 +6598,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.0544962, 
-          42.05523609999999
+          -71.0545933, 
+          42.054851
         ]
       }, 
       "properties": {
@@ -6592,7 +6664,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6623,7 +6695,7 @@
         ], 
         "contact_emails": [
           "info@thetheateroffensive.org", 
-          "mailto:evelyn@thetheateroffensive.org"
+          "evelyn@thetheateroffensive.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -6633,7 +6705,7 @@
           "Awareness"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement"
+          "Community Outreach, Education and Engagement"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6647,8 +6719,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.24574919999999, 
-          42.3806795
+          -71.24357069999999, 
+          42.3805768
         ]
       }, 
       "properties": {
@@ -6671,7 +6743,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6699,7 +6771,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:transcend@aac.org"
+          "transcend@aac.org"
         ], 
         "youth_category": [
           "Community Group", 
@@ -6709,7 +6781,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6752,7 +6824,7 @@
           "Training and Educational Activities"
         ], 
         "service_class_level_2": [
-          "Community Outreach, Education, and Engagement", 
+          "Community Outreach, Education and Engagement", 
           "Group Para-professional Counseling, Therapy and Support", 
           "Other Training and Education"
         ], 
@@ -6794,7 +6866,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6832,7 +6904,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6943,7 +7015,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -6974,7 +7046,7 @@
         ], 
         "contact_emails": [
           "lgbt@tufts.edu", 
-          "mailto:Tom.Bourdon@tufts.edu"
+          "Tom.Bourdon@tufts.edu"
         ], 
         "youth_category": [
           "Higher Education Organization", 
@@ -6984,7 +7056,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -7024,7 +7096,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
         "age_range": "", 
@@ -7060,7 +7132,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -7178,7 +7250,7 @@
         "community": "Framingham", 
         "web_url": "http://www.waysideyouth.org/", 
         "phone_numbers": [
-          " 508-879-1424"
+          "508-879-1424"
         ], 
         "contact_names": [], 
         "contact_emails": [], 
@@ -7215,8 +7287,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.2344684, 
-          42.3750353
+          -71.2342895, 
+          42.3749876
         ]
       }, 
       "properties": {
@@ -7356,8 +7428,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.0674703, 
-          42.4263877
+          -71.0674726, 
+          42.4263885
         ]
       }, 
       "properties": {
@@ -7464,7 +7536,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "wscpridalliance@Worcester.edu"
+          "wscpridealliance@Worcester.edu"
         ], 
         "youth_category": [
           "Higher Education Organization", 
@@ -7474,7 +7546,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -7488,8 +7560,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -71.122041, 
-          42.3954696
+          -71.1220778, 
+          42.395465
         ]
       }, 
       "properties": {
@@ -7502,7 +7574,7 @@
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:youngblissboston@gmail.com"
+          "youngblissboston@gmail.com"
         ], 
         "youth_category": [
           "Community Group", 
@@ -7512,7 +7584,7 @@
           "Para-professional Support Services"
         ], 
         "service_class_level_2": [
-          "Para-professional Counseling, Therapy, and Support"
+          "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [
           "LGBTQ Youth"
@@ -7536,11 +7608,11 @@
         "community": "Cambridge", 
         "web_url": "http://www.aac.org/about/our-work/youth-on-fire.html", 
         "phone_numbers": [
-          " 617.661.2508"
+          "617.661.2508"
         ], 
         "contact_names": [], 
         "contact_emails": [
-          "mailto:yof@aac.org"
+          "yof@aac.org"
         ], 
         "youth_category": [
           "Health and Mental Health", 
