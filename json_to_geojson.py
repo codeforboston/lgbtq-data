@@ -82,10 +82,10 @@ if __name__ == "__main__":
           if key in TITLES:
             value = d[key]
 
-            if isinstance(value, basestring): #single element
+            if isinstance(value, str): #single element
               properties[key] = clean_string(value)
             else: #list
-              properties[key] = map(clean_string, value)
+              properties[key] = [clean_string(v) for v in value]
           else:
             properties[key] = d[key] #just do a normal assignment
 
@@ -104,6 +104,6 @@ if __name__ == "__main__":
     out.write(json.dumps(collection, indent=2))
 
   else:
-    print "./json_to_json.py input.json output.geojson"
+    print("./json_to_json.py input.json output.geojson")
 
 
