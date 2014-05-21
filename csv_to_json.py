@@ -90,7 +90,7 @@ def parse(f, geocode=False):
 
       phones = [row[29]]
       names = filter_out_empty([row[30], row[32]])
-      emails = filter_out_empty([row[31], row[33]])
+      emails = cleanup_emails(filter_out_empty([row[31], row[33]]))
 
       target_populations = filter_out_empty(row[34:35])
       age_range = row[36]
@@ -172,6 +172,30 @@ def expand_all(l):
     else:
       new.append(element)
   return new
+
+
+def cleanup_emails(s):
+  """
+  Remove any 'mailto:' at the beginning of an email addresses
+
+  Parameters
+  ----------
+  s: sequence of strings representing email addresses
+
+  Returns
+  -------
+  Sequence of cleaned up emails
+
+  """
+  lookfor = 'mailto:'
+  fixed = []
+  for email in s:
+    if email.startswith(lookfor):
+      email = email[len(lookfor):]
+    fixed.append(email)
+
+  return fixed
+  
 
 '''
 def unicode_csv_reader(utf8_data, **kwargs):
