@@ -90,7 +90,7 @@ def parse(f, geocode=False):
 
       phones = [row[29]]
       names = filter_out_empty([row[30], row[32]])
-      emails = filter_out_empty([row[31], row[33]])
+      emails = cleanup_emails(filter_out_empty([row[31], row[33]]))
 
       target_populations = filter_out_empty(row[34:35])
       age_range = row[36]
@@ -173,6 +173,30 @@ def expand_all(l):
       new.append(element)
   return new
 
+
+def cleanup_emails(s):
+  """
+  Remove any 'mailto:' at the beginning of an email addresses
+
+  Parameters
+  ----------
+  s: sequence of strings representing email addresses
+
+  Returns
+  -------
+  Sequence of cleaned up emails
+
+  """
+  lookfor = 'mailto:'
+  fixed = []
+  for email in s:
+    if email.startswith(lookfor):
+      email = email[len(lookfor):]
+    fixed.append(email)
+
+  return fixed
+  
+
 '''
 def unicode_csv_reader(utf8_data, **kwargs):
   csv_reader = csv.reader(utf8_data, **kwargs)
@@ -180,14 +204,13 @@ def unicode_csv_reader(utf8_data, **kwargs):
     yield [cell for cell in row]
 '''
 
-
-if __name__ == "__main__":
-  if len(sys.argv) >= 3:
-    inp = open(sys.argv[1], 'r')
-    out = open(sys.argv[2], 'w')
+def main(argv):
+  if len(argv) >= 3:
+    inp = open(argv[1], 'r')
+    out = open(argv[2], 'w')
 
     g = False
-    if (len(sys.argv) >= 4 and sys.argv[3] == "--geocode"):
+    if (len(argv) >= 4 and argv[3] == "--geocode"):
       g=True
 
     data = parse(inp, geocode=g)
@@ -199,3 +222,6 @@ if __name__ == "__main__":
   else:
     print("./csv_to_json.py input.csv output.json")
 
+if __name__ == "__main__":
+  import sys
+  main(sys.argv)

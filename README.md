@@ -3,6 +3,7 @@ lgbtq-data
 
 Data for the MA Commission for LGBTQ
 
+This uses **Python3**
 
 The workflow for converting the Cambridge data from an excel file into a usable geojson format.
 
