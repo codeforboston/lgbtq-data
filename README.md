@@ -5,7 +5,7 @@ Data for the MA Commission for LGBTQ
 
 This uses **Python3**
 
-The workflow for converting the Cambridge data from an excel file into a usable geojson format.
+The workflow for converting the Mass. data from an excel file into a usable geojson format.
 
 Steps:
 * resource.xlsx, save as a .csv file, comma and newline seperated

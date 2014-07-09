@@ -155,22 +155,21 @@ def clean(l):
         #print(("not str", value))
 
 
-
 # takes a list with "" and nulls in some fields
 # returns a shortened list with only good data
 def filter_out_empty(l):
   return list(filter(lambda x: x != None and x != "", l))
 
-# takes a lit of strings, ["a", "b", "c;d;e"]
-# splits any elements separated by semicolons
-# -> ["a", "b", "c", "d", "e"]
 def expand_all(l):
+  """
+  takes a list of strings, ["a", "b", "c;d;e"]
+  splits any elements separated by semicolons
+  -> ["a", "b", "c", "d", "e"]
+
+  """
   new = []
   for element in l:
-    if ';' in element:
-      new += map(lambda x: x.strip(), element.split(';'))
-    else:
-      new.append(element)
+    new.extend([x.strip() for x in element.split(';')])
   return new
 
 
