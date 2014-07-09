@@ -33,26 +33,26 @@ def compare_keys(x, y):
 inp = open("data.geojson")
 data = json.loads("".join(inp.readlines()))
 
-all_service_classes = {}
+service_class = {}
 all_target_populations = {}
-all_services_offered = {}
+youth_category = {}
 
 for item in data["features"]:
   d = item['properties']
-  for sc in d.get("service_classes"):
-    add_to_map(all_service_classes, sc)
+  for sc in d.get("service_class_level_2"):
+    add_to_map(service_class, sc)
   for tp in d.get("target_populations"):
     add_to_map(all_target_populations, tp)
-  for so in d.get("services_offered"):
-    add_to_map(all_services_offered, so)
+  for so in d.get("youth_category"):
+    add_to_map(youth_category, so)
 
-print "\nSERVICE CLASSES"
-print_alphabetic(all_service_classes)
+print "\nSSERVICE CLASS"
+print_alphabetic(service_class)
 
 print "\nTARGET POPULATIONS"
 print_alphabetic(all_target_populations)
 
-print "\nSERVICES OFFERED"
-print_alphabetic(all_services_offered)
+print "\nYOUTH CATEGORY"
+print_alphabetic(youth_category)
 
 

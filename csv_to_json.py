@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 
 # To convert Geomapping...xls
 # Export as .csv with a , separator
@@ -70,7 +70,7 @@ def parse(f, geocode=False):
   reader = csv.reader(f, delimiter='\t')
   for i, row in enumerate(reader):
     if i > 0:
-      pprint(row)
+      #pprint(row)
       org = row[0]
 
       search_class = filter_out_empty(row[1:6])
@@ -92,10 +92,10 @@ def parse(f, geocode=False):
       names = filter_out_empty([row[30], row[32]])
       emails = cleanup_emails(filter_out_empty([row[31], row[33]]))
 
-      target_populations = filter_out_empty(row[34:35])
-      age_range = row[36]
+      target_populations = filter_out_empty(row[34:37])
+      age_range = row[37]
 
-      notes = row[37]
+      notes = row[38]
 
 
       loc = OrderedDict()
