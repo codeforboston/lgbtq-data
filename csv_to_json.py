@@ -83,7 +83,7 @@ def parse(f, geocode=False):
 
       address = row[23]
       unit_num = row[24]
-      community = row[25]
+      city = row[25]
       state = row[26]
       zipcode = row[27]
       county = row[28]
@@ -105,7 +105,7 @@ def parse(f, geocode=False):
       loc["county"] = county
       loc["state"] = state
       loc["zipcode"] = zipcode
-      loc["community"] = community
+      loc["city"] = city
       loc["web_url"] = url
       loc["phone_numbers"] = expand_all(phones)
       loc["contact_names"] = expand_all(names)
@@ -118,10 +118,10 @@ def parse(f, geocode=False):
       loc["additional_notes"] = notes
 
                       #empty string is false-y
-      if (geocode and address and county and state): 
+      if (geocode and address and city and state): 
         time.sleep(1) #rate limit
         try:
-          full_address = address + "\n" + county + ", " + state +  " " + zipcode
+          full_address = address + "\n" + city + ", " + state +  " " + zipcode
           place, (lat, lng) = geocoder.geocode(full_address)
           loc["lat"] = lat
           loc["lng"] = lng

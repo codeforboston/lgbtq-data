@@ -6,7 +6,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01453", 
-    "community": "Fitchburg", 
+    "city": "Fitchburg", 
     "web_url": "http://www.firstchurchuu.org/outreach.html#glbt", 
     "phone_numbers": [
       "(978) 537-0310"
@@ -40,7 +40,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01453", 
-    "community": "Leominster", 
+    "city": "Leominster", 
     "web_url": "http://www.firstchurchuu.org/outreach.html#glbt", 
     "phone_numbers": [
       "(978) 537-0310"
@@ -74,7 +74,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "02301", 
-    "community": "Brockton", 
+    "city": "Brockton", 
     "web_url": "http://healthimperatives.org/anewday/", 
     "phone_numbers": [
       "(508) 588-2045"
@@ -98,7 +98,9 @@
     ], 
     "target_populations": [], 
     "age_range": "", 
-    "additional_notes": ""
+    "additional_notes": "", 
+    "lat": 42.0548546, 
+    "lng": -71.0548709
   }, 
   {
     "organization_name": "AA Central Service Committee of Eastern Mass", 
@@ -107,7 +109,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02210", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.aaboston.org/", 
     "phone_numbers": [
       "(617) 426-9444"
@@ -137,7 +139,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Athol", 
+    "city": "Athol", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 249-2248"
@@ -169,7 +171,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01606", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 854-8400"
@@ -201,7 +203,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02111", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "www.afcmentoring.org", 
     "phone_numbers": [
       "(617) 224-1300"
@@ -228,7 +230,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02142", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://adoptara.org/", 
     "phone_numbers": [
       "(617) 492-8888"
@@ -259,7 +261,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://adoptara.org/", 
     "phone_numbers": [
       "(617) 492-8888"
@@ -288,7 +290,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Truro", 
+    "city": "Truro", 
     "web_url": "http://adoptara.org/", 
     "phone_numbers": [
       "(617) 492-8888"
@@ -317,7 +319,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01201", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "www.affirmativecounseling.net", 
     "phone_numbers": [
       "(413) 358-3038, (413) 358-5697"
@@ -358,7 +360,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.aac.org/about/", 
     "phone_numbers": [
       "(617) 437-6200"
@@ -398,7 +400,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.aac.org/about/  ", 
     "phone_numbers": [
       "(617) 661-3040"
@@ -438,7 +440,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://aidsfoundationwm.org/?page_id=10", 
     "phone_numbers": [
       "(413) 301-0955"
@@ -462,8 +464,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.244418, 
-    "lng": -71.837864
+    "lat": 42.1006216, 
+    "lng": -72.58660379999999
   }, 
   {
     "organization_name": "AIDS Project Worcester", 
@@ -472,7 +474,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01604", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.aidsprojectworcester.org/", 
     "phone_numbers": [
       "(508) 755-3773"
@@ -518,7 +520,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02657", 
-    "community": "Provincetown", 
+    "city": "Provincetown", 
     "web_url": "http://www.asgcc.org/", 
     "phone_numbers": [
       "(508) 487-6440"
@@ -549,7 +551,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02610", 
-    "community": "Hyannis", 
+    "city": "Hyannis", 
     "web_url": "http://www.asgcc.org/", 
     "phone_numbers": [
       "(508) 778-1954"
@@ -582,7 +584,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02657", 
-    "community": "Provincetown", 
+    "city": "Provincetown", 
     "web_url": "http://www.asgcc.org/", 
     "phone_numbers": [
       "(508) 487-8311"
@@ -615,7 +617,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02657", 
-    "community": "Provincetown", 
+    "city": "Provincetown", 
     "web_url": "http://www.asgcc.org/", 
     "phone_numbers": [
       "(508) 487-9445"
@@ -648,7 +650,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01109", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://baystatehealth.com/Baystate/Main+Nav/ch.Find+a+Doctor.Print", 
     "phone_numbers": [
       "(413) 794-2511"
@@ -680,7 +682,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.allsaintsw.org", 
     "phone_numbers": [
       "(508) 752-3766"
@@ -709,7 +711,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01104", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 736-6803, (413) 592-8670"
@@ -748,7 +750,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02110", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.aclum.org/", 
     "phone_numbers": [
       "(617) 482-3170"
@@ -781,7 +783,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.aclum.org/", 
     "phone_numbers": [
       "(413) 586-9115"
@@ -814,7 +816,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01608", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.aclum.org/", 
     "phone_numbers": [
       "(508) 444-2258"
@@ -850,7 +852,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "https://www.amherst.edu/campuslife/rainbow", 
     "phone_numbers": [
       "(413) 542-5114"
@@ -885,7 +887,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01801", 
-    "community": "Woburn", 
+    "city": "Woburn", 
     "web_url": "", 
     "phone_numbers": [
       "(718) 646-0500"
@@ -916,7 +918,7 @@
     "county": "", 
     "state": " MA", 
     "zipcode": "02038", 
-    "community": "Franklin", 
+    "city": "Franklin", 
     "web_url": "www.arbourhealth.com/organizations/ arbour-counseling-services/ ", 
     "phone_numbers": [
       "(508) 528-6037"
@@ -936,7 +938,9 @@
     ], 
     "target_populations": [], 
     "age_range": "", 
-    "additional_notes": ""
+    "additional_notes": "", 
+    "lat": 42.091785, 
+    "lng": -71.426598
   }, 
   {
     "organization_name": "Arlington Street Church Youth Outreach", 
@@ -945,7 +949,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.ascboston.org/", 
     "phone_numbers": [
       "(617) 536-7050"
@@ -980,7 +984,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02127", 
-    "community": "South Boston", 
+    "city": "South Boston", 
     "web_url": "http://afhboston.org/", 
     "phone_numbers": [
       "(617) 268-7620"
@@ -1016,7 +1020,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 767-7275"
@@ -1047,7 +1051,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.hcs.harvard.edu/~bagels/", 
     "phone_numbers": [
       ""
@@ -1085,7 +1089,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02108", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.bagly.org/", 
     "phone_numbers": [
       "(617) 227-4313"
@@ -1124,7 +1128,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02110", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.matthewbarison.com/", 
     "phone_numbers": [
       ""
@@ -1155,7 +1159,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.becker.edu/student-life/student-activities/clubs-organizations/opportunities-to-get-involved/", 
     "phone_numbers": [
       "(508) 373-9529"
@@ -1190,7 +1194,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01201", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "http://www.berkshireahec.org/page.php?PageID=2067&PageName=Youth+Suicide+Prevention+Project", 
     "phone_numbers": [
       "(413) 447-2417"
@@ -1228,7 +1232,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01202", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "http://berkshirestonewall.org/", 
     "phone_numbers": [
       "(413) 822-7268"
@@ -1259,7 +1263,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02125", 
-    "community": "Dorchester ", 
+    "city": "Dorchester ", 
     "web_url": "www.birdstreet.org", 
     "phone_numbers": [
       "(617) 282-6110"
@@ -1292,7 +1296,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02117", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.biresource.net/index.shtml", 
     "phone_numbers": [
       "(617) 424-9595"
@@ -1326,7 +1330,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02215", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.barcc.org", 
     "phone_numbers": [
       "(617) 492-8306"
@@ -1367,7 +1371,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.barcc.org/join/about", 
     "phone_numbers": [
       "(617) 492-8306"
@@ -1398,8 +1402,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3658328, 
-    "lng": -71.1022681
+    "lat": 42.3659304, 
+    "lng": -71.1020496
   }, 
   {
     "organization_name": "Boston Bisexual Women's Network (Bi Women Boston) ", 
@@ -1408,7 +1412,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "www.biwomenboston.org", 
     "phone_numbers": [
       ""
@@ -1437,7 +1441,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02115", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.childrenshospital.org/clinicalservices/Site2280/mainpageS2280P0.html", 
     "phone_numbers": [
       "(617) 355-2420"
@@ -1470,7 +1474,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02115", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.childrenshospital.org/centers-and-services/department-of-psychiatry/overview", 
     "phone_numbers": [
       "617-355-6680"
@@ -1501,7 +1505,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02467", 
-    "community": "Chestnut Hill", 
+    "city": "Chestnut Hill", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -1538,7 +1542,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02467", 
-    "community": "Chestnut Hill", 
+    "city": "Chestnut Hill", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -1575,7 +1579,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.bgmc.org/", 
     "phone_numbers": [
       "(617) 542-SING"
@@ -1606,7 +1610,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02111", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.jri.org/services/health-hiv-lgbtq-services/health-and-prevention-services/boston-glass", 
     "phone_numbers": [
       "(617) 266-3349"
@@ -1634,8 +1638,8 @@
     ], 
     "age_range": "13", 
     "additional_notes": "25", 
-    "lat": 42.3546825, 
-    "lng": -71.0623323
+    "lat": 42.35484659999999, 
+    "lng": -71.06241360000001
   }, 
   {
     "organization_name": "Boston Living Center and Victory Programs", 
@@ -1644,7 +1648,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.vpi.org/boston/", 
     "phone_numbers": [
       "(617) 236-1012"
@@ -1683,7 +1687,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02118", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.bostonprojecttrust.com/", 
     "phone_numbers": [
       ""
@@ -1713,7 +1717,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02118", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.bmc.org/infectious-diseases/services/prevention-programs.htm", 
     "phone_numbers": [
       ""
@@ -1744,7 +1748,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02215", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.bu.edu/cgsa/", 
     "phone_numbers": [
       "(617) 358-5575"
@@ -1782,7 +1786,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -1817,7 +1821,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -1853,7 +1857,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -1888,7 +1892,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "02301", 
-    "community": "Brockton", 
+    "city": "Brockton", 
     "web_url": "http://www.healthimperatives.org/glys/bragly", 
     "phone_numbers": [
       "(800) 530-2770 ext. 229"
@@ -1922,7 +1926,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02111", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://bridgeotw.org/\"http://bridgeotw.org/", 
     "phone_numbers": [
       "(617) 423-9575"
@@ -1954,8 +1958,8 @@
     ], 
     "age_range": "14", 
     "additional_notes": "24", 
-    "lat": 42.3550439, 
-    "lng": -71.0630474
+    "lat": 42.3551429, 
+    "lng": -71.06300110000001
   }, 
   {
     "organization_name": "Bridging the Gap", 
@@ -1964,7 +1968,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02125", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://btgboston.wordpress.com/", 
     "phone_numbers": [
       "(617) 318-6917"
@@ -2002,7 +2006,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 799-3300"
@@ -2035,7 +2039,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.casparinc.org", 
     "phone_numbers": [
       "(617) 592-6896"
@@ -2081,7 +2085,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "www.casparinc.org", 
     "phone_numbers": [
       "(617) 628-3859"
@@ -2125,7 +2129,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.cambridgema.gov/glbt.aspx", 
     "phone_numbers": [
       "(617) 349-3355"
@@ -2154,8 +2158,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3667166, 
-    "lng": -71.10585619999999
+    "lat": 42.36718459999999, 
+    "lng": -71.10571190000002
   }, 
   {
     "organization_name": "Cambridge Health Alliance - Anna May Powers Center", 
@@ -2164,7 +2168,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02149", 
-    "community": "Everett", 
+    "city": "Everett", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 575-5660"
@@ -2196,7 +2200,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2240,7 +2244,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2272,7 +2276,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02140", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2304,7 +2308,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2336,7 +2340,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2368,7 +2372,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2400,7 +2404,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02143", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 591-6033"
@@ -2432,7 +2436,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02141", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2464,7 +2468,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02149", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2486,8 +2490,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.4054001, 
-    "lng": -71.0564125
+    "lat": 42.37151470000001, 
+    "lng": -71.1065514
   }, 
   {
     "organization_name": "Cambridge Health Alliance - Everett Teen Health Center", 
@@ -2496,7 +2500,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02149", 
-    "community": "Everett", 
+    "city": "Everett", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2528,7 +2532,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02148", 
-    "community": "Malden", 
+    "city": "Malden", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2560,7 +2564,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02151", 
-    "community": "Revere", 
+    "city": "Revere", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2592,7 +2596,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02143", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2624,7 +2628,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02143", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2656,7 +2660,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02143", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2688,7 +2692,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2720,7 +2724,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.challiance.org/Main/Home.aspx", 
     "phone_numbers": [
       "(617) 665-1606"
@@ -2752,7 +2756,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "cambridgewomenscenter.org", 
     "phone_numbers": [
       "(617) 354-6304"
@@ -2782,7 +2786,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02657", 
-    "community": "Provincetown", 
+    "city": "Provincetown", 
     "web_url": "www.camplightbulb.org", 
     "phone_numbers": [
       "(508) 237-7651"
@@ -2813,7 +2817,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02601", 
-    "community": "Hyannis", 
+    "city": "Hyannis", 
     "web_url": "http://www.cigsya.org/CIGSYA_House_-_English/Welcome.html", 
     "phone_numbers": [
       "(508) 778-7744"
@@ -2849,7 +2853,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01852", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "www.centerforhopeandhealing.org", 
     "phone_numbers": [
       "(978) 452-7721"
@@ -2888,7 +2892,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01089", 
-    "community": "West Springfield", 
+    "city": "West Springfield", 
     "web_url": "http://www.chd.org/index.php/hivaids-law-consortium.html", 
     "phone_numbers": [
       "(413) 732-0011"
@@ -2918,7 +2922,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "", 
     "phone_numbers": [
       "(857) 523-8268"
@@ -2949,7 +2953,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01843", 
-    "community": "Lawrence", 
+    "city": "Lawrence", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(800) 469-9888"
@@ -2985,7 +2989,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02740", 
-    "community": "New Bedford", 
+    "city": "New Bedford", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(508) 996-3154"
@@ -3021,7 +3025,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "02360", 
-    "community": "Plymouth", 
+    "city": "Plymouth", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(800) 469-9888"
@@ -3059,7 +3063,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02601", 
-    "community": "Hyannis", 
+    "city": "Hyannis", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(508) 778-1839"
@@ -3085,8 +3089,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 41.6723195, 
-    "lng": -70.30352529999999
+    "lat": 41.6715866, 
+    "lng": -70.303319
   }, 
   {
     "organization_name": "Child and Family Services (Headquarters)", 
@@ -3095,7 +3099,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02745", 
-    "community": "New Bedford", 
+    "city": "New Bedford", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(508) 742-1040"
@@ -3131,7 +3135,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02646", 
-    "community": "Harwich Port", 
+    "city": "Harwich Port", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(800) 576-9444"
@@ -3167,7 +3171,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02740", 
-    "community": "New Bedford", 
+    "city": "New Bedford", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(508) 996-8572"
@@ -3203,7 +3207,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02740", 
-    "community": "New Bedford", 
+    "city": "New Bedford", 
     "web_url": "http://child-familyservices.org/cape-cod/", 
     "phone_numbers": [
       "(508) 676-5708"
@@ -3229,8 +3233,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 41.700381, 
-    "lng": -71.152301
+    "lat": 41.6381659, 
+    "lng": -70.93684689999999
   }, 
   {
     "organization_name": "Child Guidance Clinic", 
@@ -3239,7 +3243,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://bhninc.org/content/child-guidance-clinic", 
     "phone_numbers": [
       "(413) 732-7419"
@@ -3267,8 +3271,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.060266, 
-    "lng": -72.520336
+    "lat": 42.1010642, 
+    "lng": -72.5811464
   }, 
   {
     "organization_name": "Children's Hospital Boston, Adolescent Medicine", 
@@ -3277,7 +3281,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02115", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.childrenshospital.org/centers-and-services/division-of-adolescent-medicine/overview", 
     "phone_numbers": [
       "(617) 355-7181"
@@ -3313,7 +3317,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01903", 
-    "community": "Lynn", 
+    "city": "Lynn", 
     "web_url": "http://www.clcm.org/index.html", 
     "phone_numbers": [
       "(888) 543-5298"
@@ -3346,7 +3350,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Tewksbury", 
+    "city": "Tewksbury", 
     "web_url": "", 
     "phone_numbers": [
       "(781) 862-6170"
@@ -3375,7 +3379,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "clarendonhillchurch.org", 
     "phone_numbers": [
       "(617) 645-4823"
@@ -3404,7 +3408,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -3436,7 +3440,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01105", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 747-5566"
@@ -3469,7 +3473,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -3502,7 +3506,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 793-2617"
@@ -3535,7 +3539,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01604", 
-    "community": " Worcester", 
+    "city": " Worcester", 
     "web_url": "http://www.communitylegal.org/home", 
     "phone_numbers": [
       "(508) 752-3718"
@@ -3566,7 +3570,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "clsacc.org/immigration.html", 
     "phone_numbers": [
       "(617) 661-1010"
@@ -3600,7 +3604,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02111", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "crine.org", 
     "phone_numbers": [
       ""
@@ -3632,7 +3636,7 @@
     "county": "", 
     "state": "", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -3655,7 +3659,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "compassftm.org", 
     "phone_numbers": [
       ""
@@ -3684,7 +3688,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02446", 
-    "community": "Brookline", 
+    "city": "Brookline", 
     "web_url": "amtikva.org", 
     "phone_numbers": [
       "(617) 383-9539"
@@ -3705,8 +3709,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3419957, 
-    "lng": -71.1188501
+    "lat": 42.3421289, 
+    "lng": -71.119136
   }, 
   {
     "organization_name": "Congregation Beth Israel", 
@@ -3715,7 +3719,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.bethisraelworc.org", 
     "phone_numbers": [
       "(508) 756-6204"
@@ -3742,7 +3746,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02465", 
-    "community": "West Newton", 
+    "city": "West Newton", 
     "web_url": "dorsheitzedek.org", 
     "phone_numbers": [
       "(617) 965-0330"
@@ -3771,7 +3775,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "connexionumc.org", 
     "phone_numbers": [
       "(617) 776-4172"
@@ -3800,7 +3804,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Turners Falls", 
+    "city": "Turners Falls", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 863-9576"
@@ -3831,7 +3835,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://www.holyokepediatrics.com/_providers/_norton/index.html", 
     "phone_numbers": [
       "(413) 536-2393"
@@ -3865,7 +3869,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://dsfamilypractice.com/transgender.php", 
     "phone_numbers": [
       "(617) 666-9577"
@@ -3898,7 +3902,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01701", 
-    "community": "Framingham", 
+    "city": "Framingham", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 788-7761"
@@ -3929,7 +3933,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02114", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "dignityboston.org", 
     "phone_numbers": [
       "(617) 421-1915"
@@ -3960,7 +3964,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 799-3270"
@@ -3993,7 +3997,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138 ", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://drnicoleissa.com/", 
     "phone_numbers": [
       "(617) 396-4201"
@@ -4030,7 +4034,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.childrenshospital.org/directory/physicians/s/norman-spack", 
     "phone_numbers": [
       "(617) 355-7476"
@@ -4060,7 +4064,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02215", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://services.bidmc.org/Find_a_doc/doc_detail.asp?sid=41414642504443", 
     "phone_numbers": [
       "(617) 667-2952"
@@ -4098,7 +4102,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://pages.emerson.edu/Organizations/EAGLE/index.html", 
     "phone_numbers": [
       ""
@@ -4134,7 +4138,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 584-7616"
@@ -4168,7 +4172,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://euniceaviles.com/", 
     "phone_numbers": [
       "(413) 657-6104"
@@ -4209,7 +4213,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01105", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://euniceaviles.com/", 
     "phone_numbers": [
       "(413) 657-6105"
@@ -4250,7 +4254,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01004", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://familydiv.org/about", 
     "phone_numbers": [
       "(413) 256-1611"
@@ -4280,7 +4284,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02215", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.fenwayhealth.org/", 
     "phone_numbers": [
       "(617) 267-0900"
@@ -4327,7 +4331,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02215", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.fenwayhealth.org/", 
     "phone_numbers": [
       "(617) 267-0159"
@@ -4369,7 +4373,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02216", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.fenwayhealth.org/", 
     "phone_numbers": [
       "(617) 247-7555"
@@ -4411,7 +4415,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.fbc-worc.org", 
     "phone_numbers": [
       "(508) 756-6143"
@@ -4440,7 +4444,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.firstchurchcambridge.org/", 
     "phone_numbers": [
       "(617) 547-2724"
@@ -4467,7 +4471,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "firstchurchsomerville.org", 
     "phone_numbers": [
       "(617) 625-6485"
@@ -4496,7 +4500,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01824", 
-    "community": "Chelmsford", 
+    "city": "Chelmsford", 
     "web_url": "uuchelmsford.org", 
     "phone_numbers": [
       "(978) 256-5133"
@@ -4525,7 +4529,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01608", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.firstunitarian.com", 
     "phone_numbers": [
       "(508) 757-2708"
@@ -4554,7 +4558,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://www.foodforthoughtbooks.com/", 
     "phone_numbers": [
       "(413) 253-5432"
@@ -4587,7 +4591,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Framingham", 
+    "city": "Framingham", 
     "web_url": "Part of AGLY network?", 
     "phone_numbers": [
       "(508) 655-7183"
@@ -4617,7 +4621,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Franklin", 
+    "city": "Franklin", 
     "web_url": "Is this in the network? http://www.bagly.org/programs/youth-group/find-an-agly", 
     "phone_numbers": [
       "(508)-528-6412"
@@ -4647,7 +4651,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "friendsofglbtyouth.org", 
     "phone_numbers": [
       ""
@@ -4679,7 +4683,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 582-0743"
@@ -4709,7 +4713,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02125", 
-    "community": "Dorchester ", 
+    "city": "Dorchester ", 
     "web_url": "http://www.hhsi.us/metro-boston/ geiger-gibson-community-health-center/", 
     "phone_numbers": [
       "(617) 288-1140"
@@ -4746,7 +4750,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.communityaction.us/our-groups-programs.html", 
     "phone_numbers": [
       "(413) 774-7028"
@@ -4776,8 +4780,8 @@
     ], 
     "age_range": "14", 
     "additional_notes": "21", 
-    "lat": 42.5762305, 
-    "lng": -72.4968074
+    "lat": 42.3173199, 
+    "lng": -72.6339517
   }, 
   {
     "organization_name": "Community Action Youth Programs: Generation Q and T.R.E.E. (Trans Rights Education Empowerment)", 
@@ -4786,7 +4790,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01301", 
-    "community": "Greenfield", 
+    "city": "Greenfield", 
     "web_url": "http://www.communityaction.us/our-groups-programs.html", 
     "phone_numbers": [
       "(413) 774-7028"
@@ -4826,7 +4830,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02108", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.glad.org/", 
     "phone_numbers": [
       "(617) 426-1350"
@@ -4857,7 +4861,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -4877,7 +4881,9 @@
     "service_class_level_2": [], 
     "target_populations": [], 
     "age_range": "", 
-    "additional_notes": ""
+    "additional_notes": "", 
+    "lat": 42.3173199, 
+    "lng": -72.6339517
   }, 
   {
     "organization_name": "GLBT Counseling Referral Service", 
@@ -4886,7 +4892,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 586-2627"
@@ -4916,7 +4922,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "http://www.glnh.org/hotline/index.html", 
     "phone_numbers": [
       "1 (888) THE-GLNH (1-888-843-4564)"
@@ -4947,7 +4953,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "http://www.utec-lowell.org/teenspace/resources", 
     "phone_numbers": [
       "(978) 812-9294"
@@ -4977,7 +4983,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": " 02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.glbtqdvp.org/aboutus/", 
     "phone_numbers": [
       "(617) 354-6056"
@@ -5015,7 +5021,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.fenwayhealth.org/site/PageServer?pagename=FCHC_srv_services_tollfree", 
     "phone_numbers": [
       "1 (800) 340-4528"
@@ -5047,7 +5053,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "http://www.glnh.org/talkline/index.html", 
     "phone_numbers": [
       "1 (800) 246-PRIDE (1-800-246-7743)"
@@ -5078,7 +5084,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 584-1116"
@@ -5115,7 +5121,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02205", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://glsen.org/chapters/massachusetts", 
     "phone_numbers": [
       "(617) 684-5736"
@@ -5150,7 +5156,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02114", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "glbs.org", 
     "phone_numbers": [
       "(617) 371-1234"
@@ -5167,8 +5173,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.36409949999999, 
-    "lng": -71.0605823
+    "lat": 42.3642348, 
+    "lng": -71.0603951
   }, 
   {
     "organization_name": "Greater Boston Legal Services (GLBS)", 
@@ -5177,7 +5183,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02141", 
-    "community": "Cambridge ", 
+    "city": "Cambridge ", 
     "web_url": "glbs.org", 
     "phone_numbers": [
       "(617) 603-2700"
@@ -5204,7 +5210,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02453", 
-    "community": "Waltham", 
+    "city": "Waltham", 
     "web_url": "http://www.gbpflag.org/", 
     "phone_numbers": [
       "(781) 891-5966"
@@ -5244,7 +5250,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Greenfield", 
+    "city": "Greenfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 774-7028"
@@ -5275,7 +5281,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 756-4646"
@@ -5306,7 +5312,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01603", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.hadwenparkchurch.org", 
     "phone_numbers": [
       "(508) 752-7489"
@@ -5333,7 +5339,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://www.hampshire.edu/studentlife/queercommunityalliancenter.htm", 
     "phone_numbers": [
       "(413) 559-6234"
@@ -5371,7 +5377,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.hcs.harvard.edu/~qsa/", 
     "phone_numbers": [
       ""
@@ -5408,7 +5414,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.hcs.harvard.edu/~harvardqrc/index.html", 
     "phone_numbers": [
       ""
@@ -5449,7 +5455,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "thehav.org", 
     "phone_numbers": [
       "(617) 623-3376"
@@ -5484,7 +5490,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "02301", 
-    "community": "Brockton", 
+    "city": "Brockton", 
     "web_url": "healthimperatives.org/glys", 
     "phone_numbers": [
       "(800) 530-2770 x 229"
@@ -5517,7 +5523,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01915", 
-    "community": "Beverly", 
+    "city": "Beverly", 
     "web_url": "http://www.healthq.org/", 
     "phone_numbers": [
       "(978) 922-4490"
@@ -5555,7 +5561,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01830", 
-    "community": "Haverhill", 
+    "city": "Haverhill", 
     "web_url": "http://www.healthq.org/", 
     "phone_numbers": [
       "(978) 521-4444"
@@ -5593,7 +5599,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01840", 
-    "community": "Lawrence", 
+    "city": "Lawrence", 
     "web_url": "http://www.healthq.org/", 
     "phone_numbers": [
       "(978) 681-5258"
@@ -5631,7 +5637,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02118", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.hbgc-boston.org", 
     "phone_numbers": [
       "(617) 487-4242"
@@ -5659,8 +5665,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3430658, 
-    "lng": -71.07875849999999
+    "lat": 42.3431303, 
+    "lng": -71.0792629
   }, 
   {
     "organization_name": "Holyoke Equal Rights Association (HERA)", 
@@ -5669,7 +5675,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://youthtaskforce.org/youth/h-e-r-a-2/", 
     "phone_numbers": [
       "(413) 537-8713"
@@ -5705,7 +5711,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://www.hhcinc.org/en/", 
     "phone_numbers": [
       "(413) 420-2200"
@@ -5748,7 +5754,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://hrcboston.org/", 
     "phone_numbers": [
       ""
@@ -5780,7 +5786,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "http://www.hydesquare.org/", 
     "phone_numbers": [
       "(617) 524-8303"
@@ -5804,8 +5810,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.32227580000001, 
-    "lng": -71.1089093
+    "lat": 42.3224592, 
+    "lng": -71.1089643
   }, 
   {
     "organization_name": "Independence House, Inc.", 
@@ -5814,7 +5820,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02601", 
-    "community": "Falmouth", 
+    "city": "Falmouth", 
     "web_url": "http://indhouse.net/", 
     "phone_numbers": [
       "(508) 771-6507"
@@ -5839,8 +5845,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 41.6550165, 
-    "lng": -70.2784763
+    "lat": 41.552355, 
+    "lng": -70.615861
   }, 
   {
     "organization_name": "Independence House, Inc.", 
@@ -5849,7 +5855,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02601", 
-    "community": "Hyannis", 
+    "city": "Hyannis", 
     "web_url": "http://indhouse.net/", 
     "phone_numbers": [
       "(508) 771-6507"
@@ -5884,7 +5890,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02653", 
-    "community": "Orleans", 
+    "city": "Orleans", 
     "web_url": "http://indhouse.net/", 
     "phone_numbers": [
       "(508) 771-6507"
@@ -5909,8 +5915,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 41.6549391, 
-    "lng": -70.28323639999999
+    "lat": 41.7858903, 
+    "lng": -69.9874834
   }, 
   {
     "organization_name": "Independence House, Inc.", 
@@ -5919,7 +5925,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02657", 
-    "community": "Provincetown", 
+    "city": "Provincetown", 
     "web_url": "http://indhouse.net/", 
     "phone_numbers": [
       "(508) 771-6507"
@@ -5954,7 +5960,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01027", 
-    "community": "Easthampton", 
+    "city": "Easthampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 773-5420"
@@ -5987,7 +5993,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01302", 
-    "community": "Greenfield", 
+    "city": "Greenfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 773-5420"
@@ -6022,7 +6028,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01207", 
-    "community": "Easthampton", 
+    "city": "Easthampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 695-6633"
@@ -6043,8 +6049,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3334619, 
-    "lng": -73.0806961
+    "lat": 42.272256, 
+    "lng": -72.66456699999999
   }, 
   {
     "organization_name": "Jeff Brody, LMHC, ATR-BC", 
@@ -6053,7 +6059,7 @@
     "county": "Norfolk", 
     "state": "MA", 
     "zipcode": "02184", 
-    "community": "Braintree", 
+    "city": "Braintree", 
     "web_url": "", 
     "phone_numbers": [
       "(718) 848-8898"
@@ -6084,7 +6090,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://www.joannafrost.com/Joanna_Frost/Welcome.html", 
     "phone_numbers": [
       "(413) 534-3033"
@@ -6123,7 +6129,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01199", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 794-7031"
@@ -6155,7 +6161,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01970", 
-    "community": "Salem", 
+    "city": "Salem", 
     "web_url": "http://johma.org/", 
     "phone_numbers": [
       "(978) 500-7478"
@@ -6191,7 +6197,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.baconwilson.com/attorneys/dialessi-lafley", 
     "phone_numbers": [
       "(413) 781-0560"
@@ -6224,7 +6230,7 @@
     "county": "Norfolk", 
     "state": "MA", 
     "zipcode": "02494", 
-    "community": "Needham", 
+    "city": "Needham", 
     "web_url": "jri.org", 
     "phone_numbers": [
       "(781) 559-4900"
@@ -6254,7 +6260,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02115", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.k-street.com/", 
     "phone_numbers": [
       "(617) 777-0702"
@@ -6290,7 +6296,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "keshetonline.org", 
     "phone_numbers": [
       "(617) 524-9227"
@@ -6322,7 +6328,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "http://www.keshetonline.org/program/support-families/", 
     "phone_numbers": [
       "(617) 524-9227"
@@ -6355,7 +6361,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01107", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://baystatehealth.com/Baystate/bmc", 
     "phone_numbers": [
       "(413) 734-4661"
@@ -6390,7 +6396,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.esq50.com/", 
     "phone_numbers": [
       "(413) 781-4800"
@@ -6424,7 +6430,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "www.laalianza.org", 
     "phone_numbers": [
       "(617) 327-7175 ext. 200"
@@ -6464,7 +6470,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.tapestryhealth.org/index.php/services/prevention/la-voz", 
     "phone_numbers": [
       "(413) 363-9472"
@@ -6500,7 +6506,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01960", 
-    "community": "Peabody", 
+    "city": "Peabody", 
     "web_url": "http://www.nebhealth.org/", 
     "phone_numbers": [
       "(978) 968-1700"
@@ -6532,7 +6538,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01604", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 756-5857"
@@ -6559,7 +6565,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.lhi.org/Homepage.aspx", 
     "phone_numbers": [
       "(617) 350-6900"
@@ -6601,7 +6607,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "02302", 
-    "community": "Brockton", 
+    "city": "Brockton", 
     "web_url": "http://www.lhi.org/Homepage.aspx", 
     "phone_numbers": [
       "(508) 941-0005"
@@ -6645,7 +6651,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01852", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "http://www.lhi.org/Homepage.aspx", 
     "phone_numbers": [
       "(978) 459-3366"
@@ -6686,7 +6692,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01033", 
-    "community": "Granby", 
+    "city": "Granby", 
     "web_url": "http://www.masstherapist.com/LGBTQQIAServices.en.html", 
     "phone_numbers": [
       "(413) 222-0998"
@@ -6724,7 +6730,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester ", 
+    "city": "Worcester ", 
     "web_url": "http://lgbtasylum.org/home.htm", 
     "phone_numbers": [
       ""
@@ -6754,7 +6760,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.lgbtcoalitionwma.org/", 
     "phone_numbers": [
       "(413) 588-1018"
@@ -6786,7 +6792,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://umass.hillel.org/home.aspx", 
     "phone_numbers": [
       ""
@@ -6821,7 +6827,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://lbgt.mit.edu/", 
     "phone_numbers": [
       "(617) 253-5440"
@@ -6863,7 +6869,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01104", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://bhninc.org/content/bhn-liberty-street-clinic", 
     "phone_numbers": [
       "(413) 301-9335 (Michelle)  (413) 301-9476 (Madeline)  (413) 301-9461 (John)  (413) 301-9465 (Lindsay)"
@@ -6905,7 +6911,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01061", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.lifecourse.net", 
     "phone_numbers": [
       "(413) 585-1655"
@@ -6939,7 +6945,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01201", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "http://www.affirmativecounseling.net/liveoutloudyouthgroup.html", 
     "phone_numbers": [
       "(413) 358-5697"
@@ -6975,7 +6981,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01852", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "http://www.healthq.org/", 
     "phone_numbers": [
       "(978) 446-0236"
@@ -7013,7 +7019,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01852", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "http://www.lchealth.org/support.shtml", 
     "phone_numbers": [
       "(978) 322-8521"
@@ -7046,7 +7052,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01852", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "http://www.lchealth.org/", 
     "phone_numbers": [
       "(978) 322-8949"
@@ -7075,7 +7081,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01905", 
-    "community": "Lynn", 
+    "city": "Lynn", 
     "web_url": "http://www.healthq.org/", 
     "phone_numbers": [
       "(781) 593-1115"
@@ -7113,7 +7119,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02108", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.mass.gov/cgly", 
     "phone_numbers": [
       "(617) 624-5495"
@@ -7148,7 +7154,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02108", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/dvip/violence/safe-spaces.html", 
     "phone_numbers": [
       "(617) 624-5490"
@@ -7182,7 +7188,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.maphealth.org/programs/asian-pride/", 
     "phone_numbers": [
       "(617) 426-6755"
@@ -7220,7 +7226,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01109", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://baystatehealth.com/Baystate/Main+Nav/About+Us/Locations/Baystate+Medical+Practices/Primary+Care/Mason+Square+Neighborhood+Health+Center", 
     "phone_numbers": [
       "(413) 794-3710"
@@ -7255,7 +7261,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02110", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "mareinc.org", 
     "phone_numbers": [
       "(617) 54-ADOPT (617 542-3678) or 1 (800) 882-1176"
@@ -7286,7 +7292,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01105", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "mareinc.org", 
     "phone_numbers": [
       "(413) 452-3431"
@@ -7319,7 +7325,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02135", 
-    "community": "Brighton", 
+    "city": "Brighton", 
     "web_url": "maps-inc.org", 
     "phone_numbers": [
       "(617) 787-0557"
@@ -7351,7 +7357,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02125", 
-    "community": "Dorchester", 
+    "city": "Dorchester", 
     "web_url": "maps-inc.org", 
     "phone_numbers": [
       "(617) 825-5897"
@@ -7383,7 +7389,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01702", 
-    "community": "Framingham", 
+    "city": "Framingham", 
     "web_url": "maps-inc.org", 
     "phone_numbers": [
       "(508) 872-2652"
@@ -7415,7 +7421,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01852", 
-    "community": "Lowell", 
+    "city": "Lowell", 
     "web_url": "maps-inc.org", 
     "phone_numbers": [
       "(978) 970-1250"
@@ -7447,7 +7453,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02143", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "maps-inc.org", 
     "phone_numbers": [
       "(617) 764-2091"
@@ -7477,7 +7483,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "https://www.facebook.com/MCPHSGSA", 
     "phone_numbers": [
       ""
@@ -7510,7 +7516,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.mass.gov/mcad/index.html", 
     "phone_numbers": [
       "(413) 739-2145"
@@ -7541,7 +7547,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.mass.gov/mcad/index.html", 
     "phone_numbers": [
       "(508) 799-8010"
@@ -7570,7 +7576,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02108", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "https://www.facebook.com/mglpc.org", 
     "phone_numbers": [
       "(617) 248-0776"
@@ -7590,8 +7596,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3582561, 
-    "lng": -71.0617444
+    "lat": 42.3584272, 
+    "lng": -71.06171309999999
   }, 
   {
     "organization_name": "Massachusetts Transgender Political Coalition", 
@@ -7600,7 +7606,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02108", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.masstpc.org/", 
     "phone_numbers": [
       "(617) 778-0519"
@@ -7637,7 +7643,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02109", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "massequality.org", 
     "phone_numbers": [
       "(617) 878-2300"
@@ -7668,7 +7674,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01845", 
-    "community": "North Andover", 
+    "city": "North Andover", 
     "web_url": "www.mcvagly.org", 
     "phone_numbers": [
       ""
@@ -7706,7 +7712,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01107", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.pioneervalleyplasticsurgery.com/", 
     "phone_numbers": [
       "(413) 731-7877"
@@ -7741,7 +7747,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01004", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://www.mrcforchange.org", 
     "phone_numbers": [
       "(413) 253-9887"
@@ -7773,7 +7779,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Brockton", 
+    "city": "Brockton", 
     "web_url": "Was this replaced by BRAGLY?", 
     "phone_numbers": [
       "(508) 583-2350"
@@ -7804,7 +7810,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02114", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "mccboston.org", 
     "phone_numbers": [
       "(617) 973-0404"
@@ -7835,7 +7841,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "", 
     "phone_numbers": [
       "(617) 457-8140"
@@ -7866,7 +7872,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02129 ", 
-    "community": "Charlestown", 
+    "city": "Charlestown", 
     "web_url": "http://www.missionsafe.org/home.asp", 
     "phone_numbers": [
       "(617) 427-0377"
@@ -7894,8 +7900,8 @@
     ], 
     "age_range": "11", 
     "additional_notes": "24", 
-    "lat": 42.37954089999999, 
-    "lng": -71.0646337
+    "lat": 42.3782065, 
+    "lng": -71.0602131
   }, 
   {
     "organization_name": "MissionSAFE", 
@@ -7904,7 +7910,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02120 ", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://www.missionsafe.org/home.asp", 
     "phone_numbers": [
       "(617) 427-0377"
@@ -7940,7 +7946,7 @@
     "county": "", 
     "state": "", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -7961,7 +7967,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02118", 
-    "community": "South End", 
+    "city": "South End", 
     "web_url": "http://mtwyouth.org/", 
     "phone_numbers": [
       "(617) 674-5550"
@@ -7996,7 +8002,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": " 02453", 
-    "community": "Waltham", 
+    "city": "Waltham", 
     "web_url": "http://mtwyouth.org/", 
     "phone_numbers": [
       "(617) 674-5550"
@@ -8033,7 +8039,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://bhninc.org/content/mt-tom-center-mental-health-recovery", 
     "phone_numbers": [
       "(413) 536-5473"
@@ -8068,7 +8074,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://bhninc.org/content/mt-tom-city-clinic", 
     "phone_numbers": [
       "(413) 532-0389"
@@ -8105,7 +8111,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "http://www.mac-boston.org/", 
     "phone_numbers": [
       "(617) 442-1622"
@@ -8146,7 +8152,7 @@
     "county": "Nantucket", 
     "state": "MA", 
     "zipcode": "02554", 
-    "community": "Nantucket", 
+    "city": "Nantucket", 
     "web_url": "http://www.nantucketaids.org/home.php", 
     "phone_numbers": [
       "(508) 228-3955"
@@ -8191,7 +8197,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.thetaskforce.org/issues/youth", 
     "phone_numbers": [
       "(202) 393-5177"
@@ -8218,7 +8224,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02740", 
-    "community": "New Bedford", 
+    "city": "New Bedford", 
     "web_url": "http://aperfectplace.org/", 
     "phone_numbers": [
       "(508) 994-4521 x105"
@@ -8252,7 +8258,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://neaces.org/", 
     "phone_numbers": [
       ""
@@ -8286,7 +8292,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01061", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.site.nohopride.org/LGBT_Scholarship.html", 
     "phone_numbers": [
       "(413) 586-5602"
@@ -8316,7 +8322,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 799-3370"
@@ -8345,7 +8351,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01970", 
-    "community": "Salem", 
+    "city": "Salem", 
     "web_url": "http://www.nagly.org/", 
     "phone_numbers": [
       "(617) 927-6088"
@@ -8381,7 +8387,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01930", 
-    "community": "Gloucester", 
+    "city": "Gloucester", 
     "web_url": "http://healthproject.org/index.htm", 
     "phone_numbers": [
       "(978) 283-0101"
@@ -8414,7 +8420,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02115", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.northeastern.edu/lgbtqa/index.html", 
     "phone_numbers": [
       "(617) 373-2738"
@@ -8446,7 +8452,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.somervillema.gov/departments/health/somerville-commissions", 
     "phone_numbers": [
       "(617) 625-6600"
@@ -8475,7 +8481,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://oldcambridgebaptist.org/", 
     "phone_numbers": [
       "(617) 864-8068"
@@ -8506,7 +8512,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01984", 
-    "community": "Wenham", 
+    "city": "Wenham", 
     "web_url": "https://www.facebook.com/OneGordonLGBTQ", 
     "phone_numbers": [
       ""
@@ -8542,7 +8548,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Pioneer Valley", 
+    "city": "Pioneer Valley", 
     "web_url": "http://www.outbooksonwheels.org/Contact.html", 
     "phone_numbers": [
       "(413) 588-4019"
@@ -8570,7 +8576,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://outnowyouth.org/who-we-are-2/our-home/", 
     "phone_numbers": [
       "(413) 736-4610"
@@ -8606,7 +8612,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://patriciajenkinstherapy.com/", 
     "phone_numbers": [
       "(413) 584-2590"
@@ -8640,7 +8646,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.fenwayhealth.org/site/PageServer?pagename=FCHC_srv_services_tollfree", 
     "phone_numbers": [
       "1 (800) 399-PEER/1 (800) 399-7337"
@@ -8672,7 +8678,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01004", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 586-2111"
@@ -8704,7 +8710,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02454", 
-    "community": "Waltham", 
+    "city": "Waltham", 
     "web_url": "", 
     "phone_numbers": [
       "(781) 891-5966"
@@ -8730,8 +8736,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3135177, 
-    "lng": -71.29920179999999
+    "lat": 42.416968, 
+    "lng": -71.25249910000001
   }, 
   {
     "organization_name": "PFLAG Cape Cod", 
@@ -8740,7 +8746,7 @@
     "county": "Barnstable", 
     "state": "MA", 
     "zipcode": "02653", 
-    "community": "Orleans", 
+    "city": "Orleans", 
     "web_url": "http://www.pflagcapecod.org/", 
     "phone_numbers": [
       "(508) 737-5832"
@@ -8766,8 +8772,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 41.6684472, 
-    "lng": -70.3167029
+    "lat": 41.7898313, 
+    "lng": -69.9897397
   }, 
   {
     "organization_name": "PFLAG Concord/Minuteman", 
@@ -8776,7 +8782,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01775", 
-    "community": "Stow", 
+    "city": "Stow", 
     "web_url": "", 
     "phone_numbers": [
       "(781) 891-5966"
@@ -8800,8 +8806,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.4195323, 
-    "lng": -71.51304449999999
+    "lat": 42.4370374, 
+    "lng": -71.5056199
   }, 
   {
     "organization_name": "PFLAG Easton", 
@@ -8810,7 +8816,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02356-1498", 
-    "community": "North Easton", 
+    "city": "North Easton", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 238-6373"
@@ -8836,8 +8842,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.0709329, 
-    "lng": -71.106353
+    "lat": 42.07218109999999, 
+    "lng": -71.10648239999999
   }, 
   {
     "organization_name": "PFLAG Franklin-Hampshire", 
@@ -8846,7 +8852,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01370", 
-    "community": "Shellbourne Falls", 
+    "city": "Shellbourne Falls", 
     "web_url": "http://community.pflag.org/page.aspx?pid=803", 
     "phone_numbers": [
       "(413) 625-6636"
@@ -8881,7 +8887,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 243-2382"
@@ -8915,7 +8921,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01062", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 625-6636"
@@ -8952,7 +8958,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01602", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.worcesterpflag.org/index.html", 
     "phone_numbers": [
       "(508) 631-2699"
@@ -8990,7 +8996,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02356-1498", 
-    "community": "Reading", 
+    "city": "Reading", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -9026,7 +9032,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01027", 
-    "community": "Easthampton", 
+    "city": "Easthampton", 
     "web_url": "http://www.meetup.com/pioneervalleywomen/", 
     "phone_numbers": [
       ""
@@ -9056,7 +9062,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01199", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://groups.yahoo.com/group/unity-of-the-pioneer-valley/", 
     "phone_numbers": [
       "(413) 231-8834, (860)604-6343"
@@ -9094,7 +9100,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02215", 
-    "community": "Allston", 
+    "city": "Allston", 
     "web_url": "www.pplm.org", 
     "phone_numbers": [
       "(617) 616-1660"
@@ -9130,7 +9136,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01602", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.plannedparenthood.org/health-center/centerDetails.asp?f=2660", 
     "phone_numbers": [
       "(800) 258-4448"
@@ -9169,7 +9175,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01201", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "http://www.facebook.com/pages/Pride-BCC/295380640479573", 
     "phone_numbers": [
       "(413) 236-1625"
@@ -9204,7 +9210,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02720", 
-    "community": "Fall River", 
+    "city": "Fall River", 
     "web_url": "http://www.sstar.org/project-aware-hivaids-services/", 
     "phone_numbers": [
       "(508) 324-3561"
@@ -9235,7 +9241,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02720", 
-    "community": "Fall River", 
+    "city": "Fall River", 
     "web_url": "http://www.sstar.org/project-aware-hivaids-services/", 
     "phone_numbers": [
       "(508) 324-3561"
@@ -9266,7 +9272,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://www.projecthiphop.org/", 
     "phone_numbers": [
       "(617) 427-7950"
@@ -9302,7 +9308,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01364", 
-    "community": "Orange", 
+    "city": "Orange", 
     "web_url": "http://www.quabbinmediation.org/", 
     "phone_numbers": [
       "(978) 544-6142"
@@ -9332,7 +9338,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "http://qapa.org/", 
     "phone_numbers": [
       ""
@@ -9365,7 +9371,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "qwocboston.org", 
     "phone_numbers": [
       ""
@@ -9398,7 +9404,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 854-4339"
@@ -9431,7 +9437,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02125", 
-    "community": "Dorcester", 
+    "city": "Dorcester", 
     "web_url": "http://www.reflectandstrengthen.org/", 
     "phone_numbers": [
       "(617) 442-2355"
@@ -9465,7 +9471,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01063", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.smith.edu/ose/rcsg.php", 
     "phone_numbers": [
       "(413) 585-6014"
@@ -9501,7 +9507,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01608", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 341-3379"
@@ -9532,7 +9538,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02118", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "www.rosiesplace.org", 
     "phone_numbers": [
       "(617) 442-9322"
@@ -9573,7 +9579,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://www.thehome.org/site/PageServer?pagename=programs_independent_living#.Uaj3NErloQo", 
     "phone_numbers": [
       "(617) 267-3700"
@@ -9602,7 +9608,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02124", 
-    "community": "Dorcester", 
+    "city": "Dorcester", 
     "web_url": "http://www.roxburyyouthworks.org/", 
     "phone_numbers": [
       "(617) 427-8095"
@@ -9633,7 +9639,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01602", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.safehomesma.org/", 
     "phone_numbers": [
       "(508) 755-0333"
@@ -9670,7 +9676,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.safepass.org", 
     "phone_numbers": [
       "(413) 586-1125 (office)", 
@@ -9711,7 +9717,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01970", 
-    "community": "Salem", 
+    "city": "Salem", 
     "web_url": "http://www.healthq.org/", 
     "phone_numbers": [
       "(978) 744-8388"
@@ -9749,7 +9755,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02111", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://samaritanshope.org/", 
     "phone_numbers": [
       "(617) 536-2460"
@@ -9790,7 +9796,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01201", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 358-3038"
@@ -9821,7 +9827,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01105", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://bhninc.org/content/school-street-counseling", 
     "phone_numbers": [
       "(413) 846-4300"
@@ -9856,7 +9862,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01109", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://baystatehealth.com/Baystate/Main+Nav/ch.Find+a+Doctor.Print", 
     "phone_numbers": [
       "(413) 794-3710"
@@ -9888,7 +9894,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.waysideyouth.org/shortstop-transitional-housing-co-ed/", 
     "phone_numbers": [
       "(617) 776-3377"
@@ -9918,7 +9924,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02111", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://sidneyborum.org/", 
     "phone_numbers": [
       "(617) 457-8140"
@@ -9953,8 +9959,8 @@
     ], 
     "age_range": "12", 
     "additional_notes": "29", 
-    "lat": 42.3503851, 
-    "lng": -71.06064789999999
+    "lat": 42.3502805, 
+    "lng": -71.0607747
   }, 
   {
     "organization_name": "Somerville High School Gay/Straight Alliance (GSA)", 
@@ -9963,7 +9969,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02143", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.somerville.k12.ma.us/education/club/club.php?sectiondetailid=15808", 
     "phone_numbers": [
       "(617) 635-6600 x 6100"
@@ -9993,7 +9999,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.somervillehomelesscoalition.org/", 
     "phone_numbers": [
       "(617) 623-6111"
@@ -10024,7 +10030,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.ci.somerville.ma.us/departments/health/somerville-commissions/lgbt", 
     "phone_numbers": [
       "(617) 625-6600 ext. 2400"
@@ -10061,7 +10067,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 799-3325"
@@ -10088,7 +10094,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02742", 
-    "community": "New Bedford", 
+    "city": "New Bedford", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 996-3147"
@@ -10119,7 +10125,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "http://www.brighamandwomens.org/Departments_and_Services/medicine/services/primarycare/sjphc/default.aspx", 
     "phone_numbers": [
       "(617) 983-4100"
@@ -10151,7 +10157,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "speakoutboston.org", 
     "phone_numbers": [
       "(877) 223-9390"
@@ -10179,7 +10185,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "http://www.spontaneouscelebrations.org/", 
     "phone_numbers": [
       "(617) 524-6373"
@@ -10217,7 +10223,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "02061", 
-    "community": "Norwell", 
+    "city": "Norwell", 
     "web_url": "https://www.facebook.com/sshagly.southshore", 
     "phone_numbers": [
       "(781) 312-8073"
@@ -10251,7 +10257,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.stjamessomerville.org/", 
     "phone_numbers": [
       ""
@@ -10280,7 +10286,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02114", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://stjev.org/", 
     "phone_numbers": [
       "(617) 227-5242"
@@ -10307,7 +10313,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.stjohnsnorthampton.org", 
     "phone_numbers": [
       "(413) 584-1757"
@@ -10341,7 +10347,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01607", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.nesnyod.org", 
     "phone_numbers": [
       "(508) 791-1530"
@@ -10368,7 +10374,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://www.hhcinc.org/", 
     "phone_numbers": [
       "(413) 420-2200 x2272"
@@ -10402,7 +10408,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02114", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "https://suffolk.collegiatelink.net/organization/rainbowalliance", 
     "phone_numbers": [
       "(617) 573-8327"
@@ -10438,7 +10444,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01604", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.aidsprojectworcester.org/", 
     "phone_numbers": [
       "(508) 755-3773, ext 36"
@@ -10474,7 +10480,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 548-9992"
@@ -10514,7 +10520,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01062", 
-    "community": "Florence", 
+    "city": "Florence", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 586-2016"
@@ -10554,7 +10560,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01230", 
-    "community": "Great Barrington", 
+    "city": "Great Barrington", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 528-4238"
@@ -10594,7 +10600,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01301", 
-    "community": "Greenfield", 
+    "city": "Greenfield", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 773-8888"
@@ -10634,7 +10640,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 536-8777"
@@ -10674,7 +10680,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01247", 
-    "community": "North Adams", 
+    "city": "North Adams", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 664-5659"
@@ -10714,7 +10720,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 586-2539"
@@ -10754,7 +10760,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01201", 
-    "community": "Pittsfield", 
+    "city": "Pittsfield", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 443-2844"
@@ -10794,7 +10800,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 733-6639"
@@ -10834,7 +10840,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01103", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://www.tapestryhealth.org/", 
     "phone_numbers": [
       "(413) 363-9472"
@@ -10874,7 +10880,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "http://www.tapestryhealth.org/index.php/services/prevention/needle-exchange", 
     "phone_numbers": [
       "(413) 363-9472"
@@ -10904,8 +10910,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.056276, 
-    "lng": -72.4387962
+    "lat": 42.205333, 
+    "lng": -72.602491
   }, 
   {
     "organization_name": "Tapestry Health Needle Exchange", 
@@ -10914,7 +10920,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.tapestryhealth.org/index.php/services/prevention/needle-exchange", 
     "phone_numbers": [
       "(413) 586-0310"
@@ -10954,7 +10960,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02125", 
-    "community": "Dorcester", 
+    "city": "Dorcester", 
     "web_url": "http://www.teenempowerment.org/", 
     "phone_numbers": [
       "(617) 427-1488"
@@ -10991,7 +10997,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://www.teenempowerment.org/", 
     "phone_numbers": [
       "(617) 442-4684"
@@ -11028,7 +11034,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02145", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.teenempowerment.org/", 
     "phone_numbers": [
       "(617) 625-6600 ext. 2256"
@@ -11062,7 +11068,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02459", 
-    "community": "Newton Centre", 
+    "city": "Newton Centre", 
     "web_url": "http://www.bethavodah.org/", 
     "phone_numbers": [
       "(617) 527-0045"
@@ -11093,7 +11099,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.tremontstreetshul.org/index.html", 
     "phone_numbers": [
       "(617) 864-6388"
@@ -11122,7 +11128,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01602", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.temple-emanuel.org", 
     "phone_numbers": [
       "(508) 755-1257"
@@ -11151,7 +11157,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.templesinaiworceter.org", 
     "phone_numbers": [
       "(508) 755-2519"
@@ -11178,7 +11184,7 @@
     "county": "Plymouth", 
     "state": "MA", 
     "zipcode": "02301", 
-    "community": "Brockton", 
+    "city": "Brockton", 
     "web_url": "http://www.hcsm.org/glys/home", 
     "phone_numbers": [
       "(800) 530-2770 ext. 229"
@@ -11215,7 +11221,7 @@
     "county": "Berkshire", 
     "state": "MA", 
     "zipcode": "01245", 
-    "community": "Monterey", 
+    "city": "Monterey", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 499-2425"
@@ -11245,7 +11251,7 @@
     "county": "Norfolk", 
     "state": "MA", 
     "zipcode": "02269", 
-    "community": "Quincy", 
+    "city": "Quincy", 
     "web_url": "http://www.locscollective.org/#", 
     "phone_numbers": [
       ""
@@ -11267,8 +11273,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.28353, 
-    "lng": -71.253507
+    "lat": 42.25, 
+    "lng": -71.0
   }, 
   {
     "organization_name": "The Meeting Point", 
@@ -11277,7 +11283,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02130", 
-    "community": "Jamaica Plain", 
+    "city": "Jamaica Plain", 
     "web_url": "http://themeetingpoint.org", 
     "phone_numbers": [
       "(508) 308-3242"
@@ -11309,7 +11315,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02118", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "malecenter.org", 
     "phone_numbers": [
       "(617) 450-1987"
@@ -11334,8 +11340,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3407948, 
-    "lng": -71.0815787
+    "lat": 42.3409589, 
+    "lng": -71.0816789
   }, 
   {
     "organization_name": "The Network La Red", 
@@ -11344,7 +11350,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02114", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://tnlr.org/", 
     "phone_numbers": [
       ""
@@ -11379,7 +11385,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01035", 
-    "community": "Hadley", 
+    "city": "Hadley", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 586-5004"
@@ -11411,7 +11417,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02116", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://www.thetheateroffensive.org", 
     "phone_numbers": [
       "(617) 661-1600"
@@ -11448,7 +11454,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02446", 
-    "community": "Brookline", 
+    "city": "Brookline", 
     "web_url": "http://www.arbourhealth.com/about/programs-for-gay-lesbian-bisexual-and-transgender-individuals/", 
     "phone_numbers": [
       "(617) 731-3200"
@@ -11479,7 +11485,7 @@
     "county": "", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "www.cambridgewomenscenter.org", 
     "phone_numbers": [
       "(617) 354-6394"
@@ -11500,7 +11506,9 @@
       "Transgender"
     ], 
     "age_range": "", 
-    "additional_notes": ""
+    "additional_notes": "", 
+    "lat": 42.3636974, 
+    "lng": -71.1083491
   }, 
   {
     "organization_name": "Thrive Counseling", 
@@ -11509,7 +11517,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02139", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "www.thriveboston.com/ Cambridge-Counseling-Therapy.html", 
     "phone_numbers": [
       "(617) 395-5806"
@@ -11541,7 +11549,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02451", 
-    "community": "Waltham", 
+    "city": "Waltham", 
     "web_url": "http://tcne.org/", 
     "phone_numbers": [
       "(781) 891-9325"
@@ -11576,7 +11584,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Boston", 
+    "city": "Boston", 
     "web_url": "http://transcendboston.org/en/about", 
     "phone_numbers": [
       "(617) 450-1016"
@@ -11611,7 +11619,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://transformation-center.org/", 
     "phone_numbers": [
       "(617) 442-4111"
@@ -11652,7 +11660,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01040", 
-    "community": "Holyoke", 
+    "city": "Holyoke", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 695-7686"
@@ -11688,7 +11696,7 @@
     "county": "", 
     "state": "", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -11709,7 +11717,7 @@
     "county": "", 
     "state": "", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -11730,7 +11738,7 @@
     "county": "", 
     "state": "", 
     "zipcode": "", 
-    "community": "", 
+    "city": "", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -11751,7 +11759,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01027", 
-    "community": "Easthampton", 
+    "city": "Easthampton", 
     "web_url": "http://refca.net/home-page", 
     "phone_numbers": [
       "(413) 527-7966"
@@ -11783,7 +11791,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.trinityworc.org", 
     "phone_numbers": [
       "(508) 753-2989"
@@ -11814,7 +11822,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01075", 
-    "community": "South Hadley", 
+    "city": "South Hadley", 
     "web_url": "https://www.mtholyoke.edu/org/colors/", 
     "phone_numbers": [
       ""
@@ -11849,7 +11857,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02155", 
-    "community": "Medford", 
+    "city": "Medford", 
     "web_url": "http://ase.tufts.edu/lgbt/resources/index.asp", 
     "phone_numbers": [
       "(617) 627-3770"
@@ -11887,7 +11895,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01003", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://www.umass.edu/ewc", 
     "phone_numbers": [
       "(413) 545-0883"
@@ -11924,7 +11932,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01003", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "http://www.umass.edu/stonewall/", 
     "phone_numbers": [
       "(413) 545-4824"
@@ -11959,7 +11967,7 @@
     "county": "Bristol", 
     "state": "MA", 
     "zipcode": "02747", 
-    "community": "North Dartmouth", 
+    "city": "North Dartmouth", 
     "web_url": "http://www.umassd.edu/cwgs/", 
     "phone_numbers": [
       "(508) 910-6567"
@@ -11996,7 +12004,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.umassmed.edu/Content.aspx?id=57972", 
     "phone_numbers": [
       ""
@@ -12027,7 +12035,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -12057,7 +12065,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01606", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.uucworcester.org", 
     "phone_numbers": [
       "(508) 853-1942"
@@ -12088,7 +12096,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02119", 
-    "community": "Roxbury", 
+    "city": "Roxbury", 
     "web_url": "http://www.uuum.org/", 
     "phone_numbers": [
       "(617) 318-6010"
@@ -12128,7 +12136,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01609", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.ucc-worcester.org", 
     "phone_numbers": [
       "(508) 752-3785"
@@ -12157,7 +12165,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.unitygreaterboston.org/home.html", 
     "phone_numbers": [
       "(617) 623-1212"
@@ -12186,7 +12194,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.visitnorthampton.net/gay-northampton/northampton-glbt-resources.html", 
     "phone_numbers": [
       "(413) 584-8764"
@@ -12217,7 +12225,7 @@
     "county": "Norfolk", 
     "state": "MA", 
     "zipcode": "02481", 
-    "community": "Wellesley Hills", 
+    "city": "Wellesley Hills", 
     "web_url": "www.wagly.org", 
     "phone_numbers": [
       "(781) 235-7423 x112"
@@ -12251,7 +12259,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02451", 
-    "community": "Waltham", 
+    "city": "Waltham", 
     "web_url": "http://www.thehome.org/site/PageServer?pagename=programs_waltham_house#.UZTtTKJwfSg", 
     "phone_numbers": [
       "(617) 267-3700"
@@ -12282,7 +12290,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02747", 
-    "community": "Arlington", 
+    "city": "Arlington", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(781) 643-1668"
@@ -12315,8 +12323,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.68227419999999, 
-    "lng": -71.5982228
+    "lat": 42.41713499999999, 
+    "lng": -71.152451
   }, 
   {
     "organization_name": "Wayside Youth", 
@@ -12325,7 +12333,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01701", 
-    "community": "Framingham", 
+    "city": "Framingham", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(508) 879-9800"
@@ -12368,7 +12376,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01701", 
-    "community": "Framingham", 
+    "city": "Framingham", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(508) 620-0010"
@@ -12401,8 +12409,8 @@
     ], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.3993248, 
-    "lng": -71.5713683
+    "lat": 42.2836281, 
+    "lng": -71.4187259
   }, 
   {
     "organization_name": "Wayside Youth", 
@@ -12411,7 +12419,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "01702", 
-    "community": "Framingham", 
+    "city": "Framingham", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(508) 879-1424"
@@ -12454,7 +12462,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02148", 
-    "community": "Malden", 
+    "city": "Malden", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(781) 338-2640"
@@ -12497,7 +12505,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01757", 
-    "community": "Milford", 
+    "city": "Milford", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(508) 478-6888"
@@ -12540,7 +12548,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02453", 
-    "community": "Waltham", 
+    "city": "Waltham", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(781) 647-1432"
@@ -12583,7 +12591,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02472", 
-    "community": "Watertown", 
+    "city": "Watertown", 
     "web_url": "http://www.waysideyouth.org/", 
     "phone_numbers": [
       "(617) 924-1027", 
@@ -12627,7 +12635,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01608", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "www.wesleyworc.org", 
     "phone_numbers": [
       "(508) 799-4191"
@@ -12654,7 +12662,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "eswa.org", 
     "phone_numbers": [
       "1 (800) 243-5111 or (508) 756-1545"
@@ -12683,7 +12691,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://www.avvo.com/attorneys/01604-ma-richard-bates-1430508.html", 
     "phone_numbers": [
       "(508) 799-8694"
@@ -12714,7 +12722,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       ""
@@ -12747,7 +12755,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 929-8117 - Office", 
@@ -12783,7 +12791,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "01602", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "http://worcester.edu/StudentInvolvement/clubs/WSCPrideAlliance/default.aspx", 
     "phone_numbers": [
       ""
@@ -12818,7 +12826,7 @@
     "county": "Worcester", 
     "state": "MA", 
     "zipcode": "", 
-    "community": "Worcester", 
+    "city": "Worcester", 
     "web_url": "", 
     "phone_numbers": [
       "(508) 799-1940"
@@ -12845,7 +12853,7 @@
     "county": "Suffolk", 
     "state": "MA", 
     "zipcode": "02122", 
-    "community": "Dorcester", 
+    "city": "Dorcester", 
     "web_url": "http://www.thehome.org/site/PageServer?pagename=programs_independent_living#.Uaj3NErloQo", 
     "phone_numbers": [
       "(617) 287-0160"
@@ -12877,7 +12885,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02144", 
-    "community": "Somerville", 
+    "city": "Somerville", 
     "web_url": "http://www.biresource.net/bostongroups.shtml", 
     "phone_numbers": [
       "(617) 424-9595"
@@ -12911,7 +12919,7 @@
     "county": "Middlesex", 
     "state": "MA", 
     "zipcode": "02138", 
-    "community": "Cambridge", 
+    "city": "Cambridge", 
     "web_url": "http://www.aac.org/about/our-work/youth-on-fire.html", 
     "phone_numbers": [
       "(617) 661-2508"
@@ -12954,7 +12962,7 @@
     "county": "Essex", 
     "state": "MA", 
     "zipcode": "01901", 
-    "community": " Lynn", 
+    "city": " Lynn", 
     "web_url": "www.nsrcc.org", 
     "phone_numbers": [
       "(781) 477-2313"
@@ -12986,7 +12994,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01105", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "http://valleypsychiatric.com/", 
     "phone_numbers": [
       "(413) 827-8959 x1583"
@@ -13024,7 +13032,7 @@
     "county": "Norfolk", 
     "state": "MA", 
     "zipcode": "02481", 
-    "community": "Wellesley", 
+    "city": "Wellesley", 
     "web_url": "http://www.wellesley.edu/studentlife/diverse/lgbtq", 
     "phone_numbers": [
       "(781) 283-2682"
@@ -13059,7 +13067,7 @@
     "county": "Hampden", 
     "state": "MA", 
     "zipcode": "01199", 
-    "community": "Springfield", 
+    "city": "Springfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 794-1316"
@@ -13088,7 +13096,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 587-0408"
@@ -13118,7 +13126,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 387-5305"
@@ -13150,7 +13158,7 @@
     "county": "Springfield", 
     "state": "MA", 
     "zipcode": "01151", 
-    "community": "Indian Orchard", 
+    "city": "Indian Orchard", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 519-2212"
@@ -13181,7 +13189,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 584-6464"
@@ -13212,7 +13220,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": " 01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 887-8187"
@@ -13241,7 +13249,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 584-1766\u200e"
@@ -13270,7 +13278,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01301", 
-    "community": "Greenfield", 
+    "city": "Greenfield", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 774-1000, ext. 2037"
@@ -13289,8 +13297,8 @@
     "target_populations": [], 
     "age_range": "", 
     "additional_notes": "", 
-    "lat": 42.6334135, 
-    "lng": -72.6032895
+    "lat": 42.592048, 
+    "lng": -72.604179
   }, 
   {
     "organization_name": "Beth Tabor Lev, Ph.D.", 
@@ -13299,7 +13307,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 585-5180"
@@ -13328,7 +13336,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "", 
     "phone_numbers": [
       "(413) 585-0689"
@@ -13357,7 +13365,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01027", 
-    "community": "Easthampton", 
+    "city": "Easthampton", 
     "web_url": "www.manfredmelcher.com", 
     "phone_numbers": [
       "(413) 230-7131"
@@ -13386,7 +13394,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01002", 
-    "community": "Amherst", 
+    "city": "Amherst", 
     "web_url": " www.umass.edu/psc", 
     "phone_numbers": [
       "(413) 545-5943"
@@ -13415,7 +13423,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01060", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "http://www.katherinepangborn.com/", 
     "phone_numbers": [
       "(414) 437-4484"
@@ -13446,7 +13454,7 @@
     "county": "Franklin", 
     "state": "MA", 
     "zipcode": "01301", 
-    "community": "Greenfield", 
+    "city": "Greenfield", 
     "web_url": "www.chd.org", 
     "phone_numbers": [
       "(413) 774-6252, x104"
@@ -13475,7 +13483,7 @@
     "county": "Hampshire", 
     "state": "MA", 
     "zipcode": "01061", 
-    "community": "Northampton", 
+    "city": "Northampton", 
     "web_url": "www.lifecourse.net", 
     "phone_numbers": [
       "(413) 585-1655"

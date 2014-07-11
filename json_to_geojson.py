@@ -9,7 +9,7 @@ ORDERED_KEYS = ["organization_name",
     #"county",
     #"state",
     #"zipcode",
-    "community",
+    "city",
     "web_url",
     "phone_numbers",
     "contact_names",
@@ -22,7 +22,7 @@ ORDERED_KEYS = ["organization_name",
     "additional_notes"]
 
 #labels to title case
-TITLES = ["community",
+TITLES = ["city",
           "youth_category",
           "service_class_level_1",
           "service_class_level_2",
