@@ -34,8 +34,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -68,8 +66,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -107,8 +103,6 @@
           "Hotline Services"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "A New Day, formerly Womansplace Crisis Center, is a program of Health Imperatives. We promote healing and create solutions to end sexual violence and relationship violence. Services are open to all people regardless of gender, age, sexual orientation, race, and language."
       }
     }, 
@@ -142,8 +136,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Alcoholics Anonymous is a fellowship of men and women who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism. "
       }
     }, 
@@ -176,8 +168,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": 7, 
-        "max_age": NaN, 
         "additional_notes": "Adoption & Foster Care Mentoring (AFC) is the only mentoring organization in Massachusetts that exclusively serves youth in foster care. Founded in 2001, AFC empowers foster youth in Greater Boston to flourish through committed mentoring relationships and the development of essential life skills. We provide long term one-to-one mentoring and life skills development for young people who have been removed from their homes due to abuse or neglect. AFC\u2019s volunteer mentors are often the only adults in our youth\u2019s lives who are not paid to spend time with them."
       }
     }, 
@@ -214,8 +204,6 @@
           "Family", 
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission is to support and nurture individuals and couples who want to expand their family through adoption. We believe strongly in the importance of serving all who come to us without regard for family structure, sexual orientation, race, ethnicity or income level. We are committed to educating, counseling, and offering support. Our goal is to empower adoptive parents throughout the entire adoption process."
       }
     }, 
@@ -259,8 +247,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "At Affirmative Counseling we believe that each person has the ability to heal and grow; to create a life that is satisfying and meaningful; to build life-giving relationships; to accept imperfection in self and others; and to find the strength to cope with the challenges that life presents.  We use a variety of traditional and holistic therapeutic techniques to support you in your journey of physical, emotional, intellectual, and spiritual well-being."
       }
     }, 
@@ -295,8 +281,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -341,8 +325,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "AIDS Action Committee of Massachusetts is a leader in the fight against HIV/AIDS, advocating at the city, state, and federal levels for fair and effective AIDS policies, conducting cutting edge HIV prevention programs, and providing health and wellness services to people already living with HIV. "
       }
     }, 
@@ -387,8 +369,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "AIDS Action Committee of Massachusetts is a leader in the fight against HIV/AIDS, advocating at the city, state, and federal levels for fair and effective AIDS policies, conducting cutting edge HIV prevention programs, and providing health and wellness services to people already living with HIV. "
       }
     }, 
@@ -426,8 +406,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The AIDS Foundation of Western Massachusetts (AFWM) was founded to provide emergency financial assistance to those in our communities who are limited as a direct or indirect result of HIV/AIDS. The organization also helps children who are infected or affected by HIV/AIDS attend the summer camp of their choice through our Camperships Program, providing a sense of normalcy and relief from day-to-day stressors of living with HIV/AIDS. "
       }
     }, 
@@ -476,8 +454,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 14, 
-        "max_age": 25, 
         "additional_notes": "AIDS Project Worcester is a nonprofit organization in Central Massachusetts dedicated to ending the HIV/AIDS pandemic and fostering wellness through service, advocacy, prevention, education, and collaborative initiatives.  We empower and enhance the lives of people infected and affected by HIV/AIDS by fighting stigma and discrimination and through individualized services and best practices in a supportive, multicultural setting."
       }
     }, 
@@ -513,8 +489,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The AIDS Support Group of Cape Cod, one of the first AIDS organizations established in the United States, works to foster health, independence and dignity for people living with HIV/AIDS and Viral Hepatitis by providing care, support and housing.  We work to help reduce the spread of HIV and other sexually transmitted infections through prevention, education and testing services. "
       }
     }, 
@@ -550,8 +524,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The AIDS Support Group of Cape Cod, one of the first AIDS organizations established in the United States, works to foster health, independence and dignity for people living with HIV/AIDS and Viral Hepatitis by providing care, support and housing.  We work to help reduce the spread of HIV and other sexually transmitted infections through prevention, education and testing services. "
       }
     }, 
@@ -586,8 +558,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The AIDS Support Group of Cape Cod, one of the first AIDS organizations established in the United States, works to foster health, independence and dignity for people living with HIV/AIDS and Viral Hepatitis by providing care, support and housing.  We work to help reduce the spread of HIV and other sexually transmitted infections through prevention, education and testing services. "
       }
     }, 
@@ -622,8 +592,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -659,8 +627,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -697,8 +663,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -733,8 +697,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "As a visible sign of God's presence in the world, All Saints Church is a welcoming, diverse, and urban Christian community, actively proclaiming and living the Gospel."
       }
     }, 
@@ -775,8 +737,6 @@
           "Family", 
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -813,8 +773,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The American Civil Liberties Union (ACLU) is a private, voluntary, nonpartisan organization that works daily in courts, legislatures, and communities to defend and preserve our country\u2019s basic civic values--the individual rights and liberties guaranteed to all by the Constitution and Bill of Rights. The ACLU of Massachusetts, with over 20,000 supporters across the Commonwealth, is a state affiliate of the national ACLU. We defend the principles enshrined in the Massachusetts Declaration of Rights as well as the U.S. Constitution."
       }
     }, 
@@ -851,8 +809,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The American Civil Liberties Union (ACLU) is a private, voluntary, nonpartisan organization that works daily in courts, legislatures, and communities to defend and preserve our country\u2019s basic civic values--the individual rights and liberties guaranteed to all by the Constitution and Bill of Rights. The ACLU of Massachusetts, with over 20,000 supporters across the Commonwealth, is a state affiliate of the national ACLU. We defend the principles enshrined in the Massachusetts Declaration of Rights as well as the U.S. Constitution."
       }
     }, 
@@ -891,8 +847,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The American Civil Liberties Union (ACLU) is a private, voluntary, nonpartisan organization that works daily in courts, legislatures, and communities to defend and preserve our country\u2019s basic civic values--the individual rights and liberties guaranteed to all by the Constitution and Bill of Rights. The ACLU of Massachusetts, with over 20,000 supporters across the Commonwealth, is a state affiliate of the national ACLU. We defend the principles enshrined in the Massachusetts Declaration of Rights as well as the U.S. Constitution."
       }
     }, 
@@ -929,8 +883,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -965,8 +917,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -1003,8 +953,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -1040,8 +988,6 @@
           "Clinical Counseling"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Arbour Counseling provides individual, couple, family and group counseling for all ages, emergency assessments and responsive assistance, evaluation and treatment for: stress-related issues, depression and anxiety disorders, bipolar and psychotic disorders, aspergers, obsessive compulsive disorders, personality disorders and ADD/ADHD, among others."
       }
     }, 
@@ -1079,8 +1025,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Arlington Street Church belongs to the Unitarian Universalist association.  The denomination is organized on the basis of congregational church government.  The local church strongly emphasizes individual freedom of belief and democratic participation in church affairs. "
       }
     }, 
@@ -1121,8 +1065,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": 22, 
         "additional_notes": "BAGLY: The Boston Alliance of Lesbian, Gay, Bisexual and Transgender Youth, is a youth led, adult supported social support organization, committed to social justice, and creating, sustaining and advocating for programs, policies and services for the LGBTQ youth community. "
       }
     }, 
@@ -1155,8 +1097,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a United Methodist and United Church of Christ congregation. If you are moving into the Andover area or searching for a church home, Ballard Vale United Church offers a wonderful network of support through worship, fellowship, service, and study opportunities."
       }
     }, 
@@ -1191,8 +1131,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "I offer my clients passionate advocacy in courts, administrative proceedings and negotiations. No matter what your case involves, from fender-benders to civil rights violations, I am unequivocally in your corner. Much of my work is concentrated on: personal injury, auto accidents, criminal defense, business disputes, employment discrimination, and more."
       }
     }, 
@@ -1227,8 +1165,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -1265,8 +1201,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -1303,8 +1237,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -1342,8 +1274,6 @@
           "Job-targeted Educational and Skills Development Activities"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": 21, 
         "additional_notes": "The Mission of the Bird Community Center is to provide low income, high-risk youth with all of the critical programs and services that allow inner-city children and youth to rise above poverty, to become the first in their families to graduate from college, to lead the community as a place of peace and prosperity, and to thrive as the adults of tomorrow."
       }
     }, 
@@ -1388,8 +1318,6 @@
           "Case Management"
         ], 
         "target_populations": [], 
-        "min_age": 12, 
-        "max_age": NaN, 
         "additional_notes": "The Boston Area Rape Crisis Center (BARCC) is the only rape crisis center in the Greater Boston area and the oldest and largest center in Massachusetts. Our vision is to end sexual violence through healing and social change."
       }
     }, 
@@ -1434,8 +1362,6 @@
           "Case Management"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Boston Area Rape Crisis Center (BARCC) is the only rape crisis center in the Greater Boston area and the oldest and largest center in Massachusetts. Our vision is to end sexual violence through healing and social change."
       }
     }, 
@@ -1473,8 +1399,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our team of clinicians in the Disorders of Sexual Development (DSD) and Gender Management Service (GeMS) provide some answers to those questions here.  When you meet with our team of experts, they\u2019ll be able to explain your child\u2019s condition and options in more detail."
       }
     }, 
@@ -1509,8 +1433,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "In partnership with others in our community, the Boston Children\u2019s Hospital Department of Psychiatry will provide excellence and leadership in clinical care, education, research and mental health advocacy for children and their families."
       }
     }, 
@@ -1551,8 +1473,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": 13, 
-        "max_age": 25, 
         "additional_notes": "Justice Resource Institute (JRI) is dedicated to addressing the most confounding challenges of both the human services and educational systems and the persons and families these systems were created to serve.  Although our range of services is as varied as those we serve, our approach is uniformly characterized by compassionate support, innovation, and community leadership. We work in partnership with individuals, families, communities and government to address their shared challenges in a comprehensive, coordinated, systematic, and effective manner. "
       }
     }, 
@@ -1590,8 +1510,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "For 29 years, our mission has remained the same: to provide or assure access to the highest quality health care for all homeless men, women and children in the greater Boston area. We believe it has been and continues to be medicine that matters. "
       }
     }, 
@@ -1632,8 +1550,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Boston Living Center (BLC) is a nonprofit community and resource center whose mission is to foster the wellness of all HIV positive people and respond to the changing needs of the HIV/AIDS community."
       }
     }, 
@@ -1669,8 +1585,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Project TRUST was established in 1987 and is one of Boston's oldest drop-in centers. Project TRUST is part of Boston Medical Center's public health initatives. Project TRUST provides HIV/HCV/STI testing services as well as conducts prevention projects and linkage to medical care and services."
       }
     }, 
@@ -1707,8 +1621,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -1746,8 +1658,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 13, 
-        "max_age": 22, 
         "additional_notes": "To ensure safe and supportive communities for gay, lesbian, bisexual, transgender and questioning (GLBTQ) youth, adults, and their families."
       }
     }, 
@@ -1794,8 +1704,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 14, 
-        "max_age": 24, 
         "additional_notes": "Bridge Over Troubled Waters (Bridge) is Boston's premier organization dedicated to transforming the lives of runaway, homeless, and high-risk youth through safe, supportive, and encouraging relationships and effective and innovative services that guide them toward self-sufficiency."
       }
     }, 
@@ -1837,8 +1745,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 12, 
-        "max_age": 17, 
         "additional_notes": "Dedicated to empowering the youth of Boston."
       }
     }, 
@@ -1879,8 +1785,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of the Cambridge GLBT Commission is to advocate for a culture of respect and to monitor progress toward equality of all persons with regard to sexual orientation and gender identity. We are committed to promoting and monitoring policies and practices that have a positive effect on the health, welfare, and safety of all persons who live, visit, or work in the City of Cambridge with regard to sexual orientation and gender identity."
       }
     }, 
@@ -1916,8 +1820,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -1967,8 +1869,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2004,8 +1904,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2041,8 +1939,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2078,8 +1974,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2115,8 +2009,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2152,8 +2044,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2189,8 +2079,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2226,8 +2114,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2263,8 +2149,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2300,8 +2184,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2337,8 +2219,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2374,8 +2254,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2411,8 +2289,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2448,8 +2324,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2485,8 +2359,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2522,8 +2394,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2559,8 +2429,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CHA provides a wide range of services with a focus on wellness and prevention. In addition to its strong primary care network, it offers nationally-renowned behavioral health services, specialty care, innovative planned care programs for chronic disease, women\u2019s health and maternity, inpatient care, and a three-site emergency department with 100,000 annual visits."
       }
     }, 
@@ -2597,8 +2465,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The goal of the Women's Center is justice. We celebrate the victories, voices, and the survival of women - individually and collectively. Our mission is: To provide women with the resources and support they need to emerge from conditions of domestic violence, sexual abuse, poverty, discrimination, social isolation, and degradation. To challenge and change the attitudes, actions, and institutions that subjugate women."
       }
     }, 
@@ -2636,8 +2502,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "Camp Lightbulb is an overnight summer camp for LGBT youth aged 14 to 18 in Provincetown, MA. "
       }
     }, 
@@ -2676,8 +2540,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "CIGSYA (The Cape & Islands Gay & Straight Youth Alliance) is a community-based alliance of young people from fourteen to twenty-two that exists to improve the lives of LGBTIQQS (lesbian, gay, bisexual, transgender, intersex, queer, questioning and straight) youth on Cape Cod and the Islands by addressing key risk factors such as the self hate, isolation and fear. CIGSYA works toward eliminating all forms of discrimination based on differences through education and training, and by providing a space where young people come together in an environment of respect, free from judgment and harassment."
       }
     }, 
@@ -2718,8 +2580,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 13, 
-        "max_age": NaN, 
         "additional_notes": "We have been working to support survivors and create community free from sexual violence for over 35 years and are conveniently located in downtown Lowell."
       }
     }, 
@@ -2756,8 +2616,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -2793,8 +2651,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -2834,8 +2690,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -2875,8 +2729,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -2918,8 +2770,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -2959,8 +2809,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -3000,8 +2848,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -3041,8 +2887,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -3082,8 +2926,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -3123,8 +2965,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Child & Family Services offers comprehensive mental health and child welfare services to children, adults, families and those with special needs. Child and Family\u2019s highly specialized, experienced and culturally sensitive staff are deeply committed to serving each consumer with compassion and respect while maintaining the highest professional and ethical standards."
       }
     }, 
@@ -3163,8 +3003,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": 22, 
         "additional_notes": "The mission of the Children's Law Center of Massachusetts is to promote and secure equal justice and to maximize opportunity for low-income children and youth by providing quality advocacy and legal services."
       }
     }, 
@@ -3199,8 +3037,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Christ Church is a parish of the Episcopal Diocese of Massachusetts serving the town of Andover and surrounding communities. It was established in 1835 and continues to enjoy a thriving congregational life of worship, fellowship, and service. Parishioners come from all walks of life, and from many denominational backgrounds. We are a community of young and old, of those who are firm in the faith and those struggling to make sense of it all. We welcome people of all ages and stages in life and in the journey of faith. Everyone is encouraged to participate in our programs of Christian Formation, where we strive to present the faith in ways that are understandable and accessible to all. We are a community of support for individuals and families -- traditional families and non-traditional families alike. All are welcome here."
       }
     }, 
@@ -3235,8 +3071,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Christ Church United in Lowell stands for being loved by God, loving our neighbors, and walking the way of justice."
       }
     }, 
@@ -3271,8 +3105,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We think our beliefs should govern our actions as we grow in faith together to do God\u2019s work in the world: serving others and working for peace and justice. Mission is important to us. Our building near Tufts University is a community resource and gathering place, a venue for musical practice and performance, and home to the philanthropic Nave Art Gallery and other arts organizations. We house mission-based tenants, including the Open Center for Children (a mixed-income day care center) and the office for Volunteers of America\u2019s Veteran\u2019s Housing Program. We welcome Girl Scouts and 12-step groups, among others. We have worked with local inter-faith groups to further the cause of peace and nonviolence in our communities. We have a strong commitment to peace and justice in places such as the Middle East and Africa through members whose homes or work are in these parts of the world."
       }
     }, 
@@ -3314,8 +3146,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 14, 
-        "max_age": 21, 
         "additional_notes": "Generation Q is a confidential social and support group for gay, lesbian, bisexual, transgender, queer, and questioning youth and their straight allies."
       }
     }, 
@@ -3357,8 +3187,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 14, 
-        "max_age": 21, 
         "additional_notes": "Generation Q is a confidential social and support group for gay, lesbian, bisexual, transgender, queer, and questioning youth and their straight allies."
       }
     }, 
@@ -3394,8 +3222,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of CLA is to improve the lives of low-income and elderly people through legal assistance that protects fundamental rights, secures access to basic needs, and challenges policies and practices that harm our clients."
       }
     }, 
@@ -3433,8 +3259,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "Community Legal Services and Counseling Center provides free civil legal aid and affordable psychological counseling to low-income people. Our services combat the effects of poverty and violence by helping clients and their children meet basic human needs for safety, income, health and housing. CLSACC draws on the expertise of dedicated volunteer professionals to provide direct services to our community's most vulnerable members. "
       }
     }, 
@@ -3469,8 +3293,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission is to lead the way in clinical HIV/AIDS and Hepatitis C research and to ensure access to lifesaving drugs to those in need."
       }
     }, 
@@ -3507,8 +3329,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Serving Boston's LGBT Jewish Community Since 1976"
       }
     }, 
@@ -3543,8 +3363,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Dorshei Tzedek is a dynamic and growing Reconstructionist congregation in West Newton, Massachusetts. We are dedicated to Jewish learning and to ethical Jewish living in the modern world. Our Reconstructionist educational program is committed to making Judaism relevant and meaningful for children as well as adults."
       }
     }, 
@@ -3581,8 +3399,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Connexion is a diverse community of faith in Somerville, Massachusetts living out the vision that life is better connected to each other and God."
       }
     }, 
@@ -3619,8 +3435,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Dignity/Boston is a progressive, inclusive community of gay, lesbian, bisexual and transgendered Catholics and friends. We are a member chapter of DignityUSA, a national organization with dozens of chapters and thousands of members."
       }
     }, 
@@ -3662,8 +3476,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Azimuth Psychological is a group of clinical psychologists in Cambridge and Boston, MA dedicated to providing exceptionally thoughtful psychological testing and therapy. "
       }
     }, 
@@ -3704,8 +3516,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "I have been providing quality care and services for the LGBTIQQ community for over 20 years.  In consultation with our team of  professional associates, we offer a wide range of expert counseling, consultation and referral services.   We specialize in assisting and supporting gender-variant people of all ages, and in working with bisexual people.  Some of our services are listed below.  "
       }
     }, 
@@ -3746,8 +3556,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -3792,8 +3600,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "I am a Doctor in Clinical Psychology and a Licensed Mental Health Counselor. My general practice focuses on the treatment of depression, anxiety, trauma, substance abuse, impulse control disorders, and the emotional consequences of bullying (for youths and adults) and other social issues. I specialize in the diagnosis and treatment of sexual dysfunction as well as in sexual orientation and gender-related issues."
       }
     }, 
@@ -3837,8 +3643,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "I am a Doctor in Clinical Psychology and a Licensed Mental Health Counselor. My general practice focuses on the treatment of depression, anxiety, trauma, substance abuse, impulse control disorders, and the emotional consequences of bullying (for youths and adults) and other social issues. I specialize in the diagnosis and treatment of sexual dysfunction as well as in sexual orientation and gender-related issues."
       }
     }, 
@@ -3890,8 +3694,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of Fenway Health is to enhance the wellbeing of the lesbian, gay, bisexual and transgender community and all people in our neighborhoods and beyond through access to the highest quality health care, education, research and advocacy."
       }
     }, 
@@ -3926,8 +3728,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "God's abounding love and grace are offered to all and is meant to be shared and celebrated by all. It embraces persons of every age, race, sexual orientation, denomination, cultural background and economic means as vital and integral members of God's family. We welcome EVERYONE to participate in the membership life, worship and activities of this church."
       }
     }, 
@@ -3962,8 +3762,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Curious, fun-loving, warm, open. Progressive, justice-doing, questioning. Young and young at heart. Boundary-busting community. Just as God made us, and as we are becoming."
       }
     }, 
@@ -3998,8 +3796,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are an active and vibrant church serving the north central communities of Massachusetts in and around the city of Leominster. "
       }
     }, 
@@ -4034,8 +3830,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a liberal religious community in the Unitarian Universalist tradition. We do not hold one another to any creed or doctrine. Our mission is to be a welcoming, inclusive and nurturing environment for worship and spiritual growth. Our community promotes and encourages respect for each individual in his/her search for truth and development of personal values; learning through an open-minded exchange of ideas; and compassion for and commitment to each other and the world."
       }
     }, 
@@ -4070,8 +3864,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We congregate, rejuvenate, celebrate and console to better commit ourselves and our resources to service the community and our world.  "
       }
     }, 
@@ -4107,8 +3899,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We come together as a community of people to deepen our spiritual lives and to live in right relationship with our fellow human beings and with all creation. We are committed to moving closer to truth, to reality, to God. We covenant to unite in the love of truth, and in the Spirit of Jesus, for the worship of God and the service of all."
       }
     }, 
@@ -4144,8 +3934,6 @@
           "LGBTQ", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Friends of GLBT Youth is a non-profit organization dedicated to eradicating the prejudice and stigma facing GLBT youth and allowing all youth to thrive and reach their potential equally."
       }
     }, 
@@ -4181,8 +3969,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -4219,8 +4005,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The GLBT Alliance of North Central Massachusetts is a partnership project to promote the vitality and well being of the region by developing and piloting a series of monthly cultural, social, and recreational events for the GLBT population and their advocates. The intent is to help build awareness and understanding of GLBT issues among local schools, organizations, and communities while providing GLBT persons with venues for personal growth and development."
       }
     }, 
@@ -4257,8 +4041,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The GLBT Alliance of North Central Massachusetts is a partnership project to promote the vitality and well being of the region by developing and piloting a series of monthly cultural, social, and recreational events for the GLBT population and their advocates. The intent is to help build awareness and understanding of GLBT issues among local schools, organizations, and communities while providing GLBT persons with venues for personal growth and development."
       }
     }, 
@@ -4291,8 +4073,6 @@
         "service_class_level_1": [], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -4332,8 +4112,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": 21, 
         "additional_notes": "The GLBTQA Youth Alliance is open to all youth aged 21 and under. We meet every Thursday from 7 to 8:30 p.m. During meeting times youth engage in a weekly check-in and then move on to either discussions that have come up during the check-in time or other discussions and/or trainings that youth have decided upon as a group."
       }
     }, 
@@ -4371,8 +4149,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Gay, Lesbian & Straight Education Network strives to assure that each member of every school community is valued and respected regardless of sexual orientation or gender identity/expression.We believe that such an atmosphere engenders a positive sense of self, which is the basis of educational achievement and personal growth. Since homophobia and heterosexism undermine a healthy school climate, we work to educate teachers, students and the public at large about the damaging effects these forces have on youth and adults alike."
       }
     }, 
@@ -4414,8 +4190,6 @@
           "Family", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Greater Boston PFLAG works to create environments of understanding so that all people can live with dignity and respect through support, education and advocacy."
       }
     }, 
@@ -4455,8 +4229,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Founded in 1968, Havurat Shalom is an egalitarian Jewish community in Somerville, Massachusetts where women and men come to pray and learn; explore, celebrate and grapple with Jewish tradition; work for social justice; and discuss a variety of Jewish concerns."
       }
     }, 
@@ -4493,8 +4265,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To support the healing process of abuse and to change social norms and behaviors that perpetuate violence and oppression."
       }
     }, 
@@ -4539,8 +4309,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Health Quarters offers an environment free of discrimination.  We work with people of all different sexual orientations, gender identities and gender expressions.  And we respect each individual\u2019s life choices.  We\u2019re proud to provide high quality, affordable sexual health care, treating all patients with an equal level of respect and dignity."
       }
     }, 
@@ -4585,8 +4353,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Health Quarters offers an environment free of discrimination.  We work with people of all different sexual orientations, gender identities and gender expressions.  And we respect each individual\u2019s life choices.  We\u2019re proud to provide high quality, affordable sexual health care, treating all patients with an equal level of respect and dignity."
       }
     }, 
@@ -4631,8 +4397,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Health Quarters offers an environment free of discrimination.  We work with people of all different sexual orientations, gender identities and gender expressions.  And we respect each individual\u2019s life choices.  We\u2019re proud to provide high quality, affordable sexual health care, treating all patients with an equal level of respect and dignity."
       }
     }, 
@@ -4673,8 +4437,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Hispanic Black Gay Coalition (HBGC) is one of few non-profit organizations in Boston dedicated to the unique and complex needs of the Black, Hispanic and Latin@ LGBTQ community. Founded in 2009, we work to inspire and empower Latin@, Hispanic and Black LGBTQ individuals to improve their livelihood through activism, education, community outreach, and counseling."
       }
     }, 
@@ -4714,8 +4476,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 13, 
-        "max_age": 21, 
         "additional_notes": "H.E.R.A. provide Holyoke\u2019s LGBTQ youth and their allies a safe and bully free space, in where they can be themselves, receive safer sex information, develop their leadership, and more."
       }
     }, 
@@ -4755,8 +4515,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 6, 
-        "max_age": 25, 
         "additional_notes": "Hyde Square Task Force was founded by a group of committed local residents and youth in order to address daily pressing challenges including violence and lack of resources for youth and families. From organizing to create more systemic accountability to creating programs that fulfill immediate needs, we have always believed that solutions lie with those most affected. "
       }
     }, 
@@ -4793,8 +4551,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -4837,8 +4593,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "An independent Licensed Clinical Social Worker providing a range of services, including those related to gender identity"
       }
     }, 
@@ -4880,8 +4634,6 @@
           "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
-        "min_age": 18, 
-        "max_age": 23, 
         "additional_notes": "Journeys of Hope, Inc. is a non-profit organization on the North Shore of Boston, serving homeless and at-risk young adults between the ages of 18 to 23. The goal is to assist this age group to move from a homeless lifestyle to one of sustained shelter through a productive lifestyle."
       }
     }, 
@@ -4917,8 +4669,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "My philosophy is that I am here for my clients and it should not be the other way around. I strive to service my clients in the most professional and efficient manner from both a time and cost perspective, while ultimately achieving the desired end result.  By establishing long term relationships with my clients and with the community through civic involvement, I am able to give back to each individual and the community as a whole."
       }
     }, 
@@ -4957,8 +4707,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Safe meeting space for LGBT individuals seeking recovery from addition, abuse, or discrimination"
       }
     }, 
@@ -4998,8 +4746,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": 10, 
-        "max_age": 100, 
         "additional_notes": ""
       }
     }, 
@@ -5037,8 +4783,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -5077,8 +4821,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -5123,8 +4865,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 14, 
-        "max_age": NaN, 
         "additional_notes": "Keshet is a national grassroots organization that works for the full equality and inclusion of lesbian, gay, bisexual, and transgender (LGBT) Jews in Jewish life. Led and supported by LGBT Jews and straight allies, Keshet strives to cultivate the spirit and practice of inclusion in all parts of the Jewish community. We began as a small, grassroots group working for change in the Greater Boston area, and we are now a national organization with offices in the Bay Area and Denver, in addition to our national office in Boston."
       }
     }, 
@@ -5165,8 +4905,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are parents and family members of LGBTQ (lesbian, gay, bisexual, transgender, and queer) Jews who are coming together to transform the Jewish community through peer support, public events, and advocating for institutional change. We come from all streams of the Jewish world, have children of all genders and sexual orientations, and are driven by personal journeys of struggle and celebration."
       }
     }, 
@@ -5213,8 +4951,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Latin American Health Institute is a community-based professional organization that promotes the health of the community, its institutions, families, and individuals through effective interventions that are culturally competent and technologically appropriate."
       }
     }, 
@@ -5261,8 +4997,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Latin American Health Institute is a community-based professional organization that promotes the health of the community, its institutions, families, and individuals through effective interventions that are culturally competent and technologically appropriate."
       }
     }, 
@@ -5309,8 +5043,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Latin American Health Institute is a community-based professional organization that promotes the health of the community, its institutions, families, and individuals through effective interventions that are culturally competent and technologically appropriate."
       }
     }, 
@@ -5347,8 +5079,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -5388,8 +5118,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "LifeCourse Counseling Center was established in 1980 and provides LGBTQI people therapy, counseling, psychotherapy, consultation and education throughout the Pioneer Valley of Western Mass and telephone and web cam therapy nation-wide."
       }
     }, 
@@ -5428,8 +5156,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Come meet other Gay, Lesbian, Bisexual, Transgender, Questioning, and Allied youth in a safe, fun, supportive social setting.  Be a part of planning events for LGBT youth in your community."
       }
     }, 
@@ -5474,8 +5200,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Welcome to Health Quarters, a provider of confidential reproductive healthcare, prevention, and education services for women, men, and teens on the North Shore and Merrimack Valley of Massachusetts.  Our friendly, approachable, bi-lingual providers are knowledgeable and focused on delivering the highest level of health and counseling services using the most modern procedures and services."
       }
     }, 
@@ -5510,8 +5234,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Health Center's Teen Coalition supports the healthy development of young people and empowers them to become leaders in the community by working to reduce risky behaviors that lead to teen pregnancy, HIV/STIs, substance abuse and violence in Lowell, with the belief that promoting healthy behaviors will enhance future prospects for young people. "
       }
     }, 
@@ -5556,8 +5278,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Welcome to Health Quarters, a provider of confidential reproductive healthcare, prevention, and education services for women, men, and teens on the North Shore and Merrimack Valley of Massachusetts.  Our friendly, approachable, bi-lingual providers are knowledgeable and focused on delivering the highest level of health and counseling services using the most modern procedures and services."
       }
     }, 
@@ -5596,8 +5316,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 12, 
-        "max_age": 23, 
         "additional_notes": "The Massachusetts Commission on LGBT Youth is established by law as an independent agency of the Commonwealth to recommend and advocate to all branches of state government effective policies, programs, and resources for LGBT youth to thrive."
       }
     }, 
@@ -5635,8 +5353,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 12, 
-        "max_age": 24, 
         "additional_notes": "Safe Spaces for GLBT Youth is committed to providing opportunities for gay, lesbian, bisexual and transgender youth to develop their full potential in a safe and supportive environment."
       }
     }, 
@@ -5677,8 +5393,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": 16, 
-        "max_age": 24, 
         "additional_notes": "This is a youth development and leadership program that provides services for lesbian, gay, bisexual, transgender, and queer (LGBTQ) youth of Asian and Pacific Islander descent"
       }
     }, 
@@ -5718,8 +5432,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Founded in 2001, the Massachusetts Transgender Political Coalition (MTPC) is dedicated to ending discrimination on the basis of gender identity and gender expression. We envision a world where persons of all genders are treated with respect and fully participate in all areas of society, free from fear of prohibition, harassment or violence based on their gender identity and/or expression."
       }
     }, 
@@ -5756,8 +5468,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "MassEquality is the leading statewide grassroots advocacy organization working to ensure that everyone across Massachusetts can thrive from cradle to grave without discrimination and oppression based on sexual orientation, gender identity, or gender expression. We do this by partnering across issues, identities and communities to build a broad, inclusive and politically powerful movement that changes hearts and minds and achieves policy and electoral victories"
       }
     }, 
@@ -5798,8 +5508,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 15, 
-        "max_age": 23, 
         "additional_notes": "McVAGLY aims to provide LGBT youth from the Merrimack Valley a safe environment to gather weekly to discuss issues that may not be adequately addressed elsewhere. These issues may include coming out, safe sex, the effectiveness of high school and middle school GSAs, suicide, and GLBT rights in the community."
       }
     }, 
@@ -5838,8 +5546,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "A human rights church ministering to the Lesbian, Gay, Bisexual, Transgender, and Queer Communities Christian worship - inclusive and affirming for all people. "
       }
     }, 
@@ -5876,8 +5582,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -5919,8 +5623,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 11, 
-        "max_age": 24, 
         "additional_notes": "MissionSAFE works with highly and proven at-risk youth and young adults from challenged situations and communities, working with them to gain the skills and confidence they need to succeed and thrive, not merely survive, and to be agents for positive change in their communities and the larger world."
       }
     }, 
@@ -5961,8 +5663,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 11, 
-        "max_age": 24, 
         "additional_notes": "MissionSAFE works with highly and proven at-risk youth and young adults from challenged situations and communities, working with them to gain the skills and confidence they need to succeed and thrive, not merely survive, and to be agents for positive change in their communities and the larger world."
       }
     }, 
@@ -6002,8 +5702,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 16, 
-        "max_age": 21, 
         "additional_notes": "More Than Words is a nonprofit social enterprise that empowers youth who are in the foster care system, court involved, homeless, or out of school to take charge of their lives by taking charge of a business."
       }
     }, 
@@ -6044,8 +5742,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 16, 
-        "max_age": 21, 
         "additional_notes": "More Than Words is a nonprofit social enterprise that empowers youth who are in the foster care system, court involved, homeless, or out of school to take charge of their lives by taking charge of a business."
       }
     }, 
@@ -6090,8 +5786,6 @@
           "LGBTQ", 
           "POC"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "We work to ensure high quality, accessible prevention and treatment services for people living with HIV, at high risk for becoming infected, or closely affected by the disease.  We also support broader community efforts to eradicate conditions that fuel the epidemic, including substance abuse, lack of health care access, homelessness, incarceration and oppression based on race, ethnicity, gender and sexual orientation."
       }
     }, 
@@ -6138,8 +5832,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Nantucket AIDS Network (NAN) was founded in 1989. Since that time, NAN has remained committed to providing compassion and care for persons living with HIV/AIDS and/or Hepatitis C, as well as providing prevention, education and awareness to the Nantucket community."
       }
     }, 
@@ -6175,8 +5867,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": 14, 
-        "max_age": 24, 
         "additional_notes": "We are a community based LGBTQ youth organization, located in New Bedford, MA. Here youth between the ages of 14-24 come together to support each other and talk about issues affecting LGBTQ youth and their allies. We have drop-in hours every Thursday evening from 5-7. Our center has become our home, our \"Perfect Place.\" "
       }
     }, 
@@ -6211,8 +5901,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Empowered by love, we are an inclusive, free-thinking faith community that awakens curiosity, nourishes the spirit, encourages growth, and inspires compassionate action."
       }
     }, 
@@ -6250,8 +5938,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "nAGLY's mission is to create, sustain and advocate for programs, policies, and services for the lesbian/gay/bisexual/transgender youth community, particularly including the establishment of regular support meetings, and to defend and enhance the human and civil rights of lesbian, gay, bisexual and transgender youth on the North Shore of Massachusetts."
       }
     }, 
@@ -6285,8 +5971,6 @@
         "service_class_level_1": [], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The OSC provides leadership, representation, and administrative support to the Commissions for Women, Human Rights, and Multicultural Affairs along with supporting the LGBT community with the City's LGBT Liaison. In addition, the OSC promotes commissions in the community. "
       }
     }, 
@@ -6322,8 +6006,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Old Cambridge Baptist Church is located in Cambridge, Massachusetts three blocks south-east of the redline Harvard Square T-Stop.  We are a progressive and inclusive Christian community in the American Baptist tradition that seeks to answer God's call to hold fast to love and justice for all the earth and its peoples."
       }
     }, 
@@ -6363,8 +6045,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Out Now originated in 1995 as a weekly support group for LGTB youth from the greater Springfield area. Since then, Out Now has grown its youth membership, added advisors, and increased visibility, become a nonprofit, and now holds an important voice in the local movement for peace and justice."
       }
     }, 
@@ -6399,8 +6079,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Pawtucket Congregational Church welcomes all. Our mission is to share God\u2019s love in the community and beyond as we follow the teachings of Jesus Christ and seek the guidance of the Holy Spirit. We foster openness, compassion, and individual creativity through God\u2019s word and love. We actively build community partnerships and strive to make a difference in the world through service, support and education."
       }
     }, 
@@ -6436,8 +6114,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a support group for family and friends of the LGBTQ community. We meet once a month at South Church. "
       }
     }, 
@@ -6478,8 +6154,6 @@
           "Family", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -6521,8 +6195,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -6564,8 +6236,6 @@
           "Family", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -6607,8 +6277,6 @@
           "Family", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -6650,8 +6318,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -6692,8 +6358,6 @@
           "Family", 
           "LGBTQ"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG of Greater Worcester promotes the health and well-being of gay, lesbian, bisexual and transgender people, their families and friends through: Support, to cope with an adverse society; Education, to enlighten an ill-informed public; and Advocacy, to end discrimination and to secure equal civil rights. PFLAG provides opportunity for dialogue about sexual orientation and gender identity and acts to create a society that is healthy and respectful of human diversity. "
       }
     }, 
@@ -6734,8 +6398,6 @@
           "Family", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -6775,8 +6437,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Project HIP-HOP (Highways Into the Past \u2013 History, Organizing and Power) is a youth-led organization that works at the intersection of arts and organizing. Our mission is to teach the hip hop generation how to use hip hop as a cultural tool to educate and motivate our community."
       }
     }, 
@@ -6809,8 +6469,6 @@
         "service_class_level_1": [], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -6848,8 +6506,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 14, 
-        "max_age": 30, 
         "additional_notes": "Reflect and Strengthen (R&S) is a grassroots collective of young working class women from the urban neighborhoods of Boston who take a holistic approach to organizing to create personal and social transformation. Our programming focuses are political education, healing form trauma, creative expression, community building and campaign work to end racial disparities in the juvenile justice system."
       }
     }, 
@@ -6889,8 +6545,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -6933,8 +6587,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "To provide a safe and nurturing environment to help poor and homeless women maintain their dignity, seek opportunity and find security in their lives. "
       }
     }, 
@@ -6974,8 +6626,6 @@
           "LGBTQ", 
           "Allies"
         ], 
-        "min_age": 14, 
-        "max_age": 23, 
         "additional_notes": "Safe Homes is a program for gay, lesbian, bisexual, transgender, and questioning young people between the ages of 14 and 23. Led by youth and professional staff, as well as volunteer adult advisers. We offer support and resources in a safe and nurturing environment."
       }
     }, 
@@ -7021,8 +6671,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Safe Passage is committed to ending domestic violence and oppression in women's lives. All Safe Passage programs are free, accessible and confidential. Our comprehensive services include shelter, peer-support, counseling, education, advocacy, legal support and community education."
       }
     }, 
@@ -7057,8 +6705,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Believing that God calls us to love and serve, the mission of St. Anne\u2019s Church is to restore all people to unity with God and each other in Christ, through service, worship, evangelism, education and pastoral care."
       }
     }, 
@@ -7093,8 +6739,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Cathedral functions as the center of mission for the Diocese. As such, we offer liturgy and music in the best of the Anglican tradition\u2013past and present. The Cathedral is a site of gatherings of leaders from throughout the Diocese and community. Amid the very active life of the Episcopal Diocese of Massachusetts, one of the largest in the United States, the Cathedral\u2019s doors remain open to all, with scheduled worship and quiet sanctuary available nearly every day. More than a building, we continue to uphold our mission as a house of prayer for all people."
       }
     }, 
@@ -7139,8 +6783,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Welcome to Health Quarters, a provider of confidential reproductive healthcare, prevention, and education services for women, men, and teens on the North Shore and Merrimack Valley of Massachusetts.  Our friendly, approachable, bi-lingual providers are knowledgeable and focused on delivering the highest level of health and counseling services using the most modern procedures and services. :"
       }
     }, 
@@ -7182,8 +6824,6 @@
           "LGBTQ", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Samaritans\u2019 mission is to reduce the incidence of suicide by alleviating despair, isolation, distress and suicidal feelings among individuals in our community, 24 hours a day; to educate the public about suicide prevention; and to reduce the stigma associated with suicide. We accomplish this through services that emphasize confidential, non-judgmental, and compassionate listening."
       }
     }, 
@@ -7220,8 +6860,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We believe in a loving, forgiving, and merciful God who is creator and sustainer of all."
       }
     }, 
@@ -7270,8 +6908,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": 12, 
-        "max_age": 29, 
         "additional_notes": "At the Borum, we offer quality, open care to young adults ages 12\u201329 who need a health center that really gets them."
       }
     }, 
@@ -7310,8 +6946,6 @@
           "LGBTQ", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The LGBT Liaison for the City of Somerville acts as the emissary between the Mayor\u2019s Office and the lesbian, gay, bisexual and transgender communities of Somerville. The Office provides information, referral services, guidance, coordination, and technical assistance to the City and its residents on initiatives intended to serve the LGBT community. "
       }
     }, 
@@ -7346,8 +6980,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a Christ-centered community that celebrates the love of God. Although we are of varied minds, we are one body, bound together in Christ. We recognize the uniqueness of every individual as God's beloved child. We seek to respond faithfully to God's call for justice for all creation. We strive in word and deed to be faithful to Jesus' model of loving acceptance. We seek to create a sanctuary where all will know they are welcomed and included. You are welcomed, no matter your age, gender, gender identity, gender expression, sexual orientation, marital status, race and ethnicity, physical and mental ability or economic circumstance, into the full life and ministry of South Church, including worship, sacraments and rites. Join us as we grow together in God's love."
       }
     }, 
@@ -7386,8 +7018,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Spontaneous Celebrations is Jamaica Plain's community arts headquarters, serving JP and Roxbury for over 30 years."
       }
     }, 
@@ -7422,8 +7052,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "SSHAGLY is a youth-led adult supported social support organization committed to create a safe haven where everyone feels welcome. 14 Years of age to 22 Years of age for the GLBT youth community."
       }
     }, 
@@ -7458,8 +7086,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our liturgy might be described as \u201cBroad-Middle\u201d. We\u2019re a parish that loves to sing. Our hymns come from The Hymnal 1982, the standard hymnal in the Episcopal Church, and from Lift Every Voice and Sing, a collection that draws upon the rich heritage of African-American hymnody. Our preaching is relevant and insightful. In addition to Rev\u2019d. Dr. Karen Coleman, our priest, we have several theologically-trained lay-preachers who regularly bring their voices to the pulpit. Children are a vital part of our ministry at St. James. Our Sunday School meets during the first part of the service, after which the children join the rest of the congregation for the celebration of the Holy Eucharist. Children are encouraged to take communion if their parents are so inclined. During our weekly celebration of the Holy Communion, all are welcome to come to the Lord\u2019s table, regardless of where they find themselves on their spiritual journeys. Your presence and participation in our worship would enrich all of us. In the name of the Risen Christ, we extend a warm welcome to everyone."
       }
     }, 
@@ -7497,8 +7123,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a community of Christ at edge of the Smith College campus. "
       }
     }, 
@@ -7533,8 +7157,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "St. Paul\u2019s is a joyful faith-based community of hope and worship proclaiming the good news of Jesus Christ. We invite all to join us in spiritual nurturing and growth through ministry and service, helping create God\u2019s Kingdom on Earth."
       }
     }, 
@@ -7573,8 +7195,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "SWAGLY (Supporters of Worcester Area Gay Lesbian Bisexual Transgender Youth) is one of the oldest/longest running GLBT youth support organizations in Massachusetts. A youth-led, adult-supported, drop-in group, SWAGLY provides emotional and social support for GLBT youth in Worcester County. "
       }
     }, 
@@ -7616,8 +7236,6 @@
           "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
-        "min_age": 14, 
-        "max_age": 21, 
         "additional_notes": "The mission of the Center for Teen Empowerment is to empower youth and adults as agents of individual, institutional, and social change."
       }
     }, 
@@ -7659,8 +7277,6 @@
           "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
-        "min_age": 14, 
-        "max_age": 21, 
         "additional_notes": "The mission of the Center for Teen Empowerment is to empower youth and adults as agents of individual, institutional, and social change."
       }
     }, 
@@ -7702,8 +7318,6 @@
           "Para-professional Counseling, Therapy and Support"
         ], 
         "target_populations": [], 
-        "min_age": 14, 
-        "max_age": 21, 
         "additional_notes": "The mission of the Center for Teen Empowerment is to empower youth and adults as agents of individual, institutional, and social change."
       }
     }, 
@@ -7739,8 +7353,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission at Temple Beth Avodah is one of a vibrant Reform Jewish Congregation that honors and upholds Jewish values and traditions. Through prayer, ritual, learning, and social action, we seek spiritual growth and connection to God, the Jewish people, to Israel, and to one another. "
       }
     }, 
@@ -7777,8 +7389,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a Reform congregation that believes in the ever-developing progressive evolution of Judaism as a way of life. We provide many opportunities for all of our members to participate actively in the congregation and its programs."
       }
     }, 
@@ -7813,8 +7423,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -7851,8 +7459,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Center for Human Development (CHD) provides a broad range of high quality, community-oriented human services dedicated to promoting, enhancing and protecting the dignity and welfare of people in need."
       }
     }, 
@@ -7887,8 +7493,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Every week, every day, by God\u2019s grace, we try to live it out."
       }
     }, 
@@ -7929,8 +7533,6 @@
         "target_populations": [
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To ensure safe and supportive communities for gay, lesbian, bisexual, transgender and questioning (GLBTQ) youth, adults, and their families."
       }
     }, 
@@ -7968,8 +7570,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "LOCS Collective\u2019s purpose is to address the gross disparities that exist regarding access to community and resources for LBTQ women of color in Boston and surrounding areas.  Concurrently, there are few organizations dedicated to providing services solely to LBTQ women of color. Our vision is to create spaces/platforms for LBTQ identified women of color in Boston and surrounding areas to celebrate our vibrant culture, solidify our community and increase our visibility. "
       }
     }, 
@@ -8014,8 +7614,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Men\u2019s Action Life Empowerment (MALE) Center is a community resource for gay and bisexual men in Boston. We affirm the value of the diversity of gay and bisexual men regardless of race, ethnicity, physical ability, HIV status, socioeconomic status and age. We welcome gay, bisexual and questioning men, regardless of HIV status. We also welcome allies of the community who want to work in an affirming way with a diverse group of men."
       }
     }, 
@@ -8055,8 +7653,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Theater Offensive\u2019s mission is to form and present the diverse realities of queer lives in art so bold it breaks through personal isolation and political orthodoxy to help build an honest, progressive community."
       }
     }, 
@@ -8094,8 +7690,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "TCNE is registered as a non-profit corporation in the state of Massachusetts with offices in Waltham, Massachusetts.  TCNE\u2019s primary mission is that of being a social and support club for transgender peoples in the New England region."
       }
     }, 
@@ -8138,8 +7732,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "TransCEND (Transgender Care and Education Needs Diversity) provides support and risk reduction services to transgender women (male to female), transgender men (female to male) and their sex partners . The program offers member support, assistance with accessing basic services, medical care, support groups, educational groups, risk reduction materials, and individual case management."
       }
     }, 
@@ -8184,8 +7776,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "The Transformation Center is a peer-operated center with a mental health focus on wellness and life recovery through dialogue, education, systems change advocacy, and peer support."
       }
     }, 
@@ -8222,8 +7812,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Since 1856 Trinity has worshipped and endeavored to serve our Lord Jesus Christ in Haverhill, MA.  Located in the heart of the city, Trinity is an Episcopal church, a parish of the Diocese of Massachusetts and a member of the world-wide Anglican communion.   We welcome you to join us for worship and fellowship!"
       }
     }, 
@@ -8261,8 +7849,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Centered in the life, death and resurrection of Jesus Christ, celebrating the gift of God\u2019s welcoming love, and committed to serving our neighbor, Trinity Evangelical Lutheran Church is a community of faith that respects each individual\u2019s dignity and worth and welcomes people of every ability, age, sexual orientation, gender identity, race and socioeconomic situation."
       }
     }, 
@@ -8301,8 +7887,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "UMBRELLA is the WAGLY group specifically intended to provide additional support for transgender and gender-nonconforming youth. It is a social group led by peer leaders and trans- and cisgender adults."
       }
     }, 
@@ -8339,8 +7923,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The LGBTQI and Allies of the Unitarian Universalist Church of Worcester strives to further the affirmation and celebration of LGBTQI individuals in all aspects of the church community.  We also seek to increase the visibility of UUCW as a Welcoming Congregation within the greater community."
       }
     }, 
@@ -8375,8 +7957,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We hope you will find among us an invitation: to celebrate life together in a caring community, to welcome children in the communal experience, to honor the diverse religious backgrounds of an interfaith constituency, to engage in personal spiritual growth, to be present for others who also search, to cooperate in supporting the community centered in worship, deepened by educational and social opportunities, and to work together with others for a just world. If the journey begins with the first step, we hope it may be in our company."
       }
     }, 
@@ -8418,8 +7998,6 @@
           "Hotline Services"
         ], 
         "target_populations": [], 
-        "min_age": 18, 
-        "max_age": NaN, 
         "additional_notes": "Renewal House is a domestic violence shelter for individuals and families who are fleeing violence or abuse. Since 1980, Renewal House has provided temporary emergency shelter and advocacy services to more than 1,000 individuals and families escaping domestic violence. Renewal House was one of the first domestic violence shelters in the state to provide shelter for male survivors as well as female, and is sought out by other agencies for its expertise in attending to the spiritual needs of survivors. Renewal House works closely with other programs that serve the LGBTQ communities, as well as those that serve elders and individuals with disabilities to provide the best support we can to these under-served populations."
       }
     }, 
@@ -8454,8 +8032,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -8490,8 +8066,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -8527,8 +8101,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a progressive faith community that welcomes just you as you are. This is a church where you can bring your dreams and your doubts, your hopes and your longings. Here you'll find a lively spirituality: joyful worship, caring people, spiritual depth, ways to serve. Our mission is to be a faith community transforming lives and the world."
       }
     }, 
@@ -8567,8 +8139,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 12, 
-        "max_age": 19, 
         "additional_notes": "The mission of the West Suburban Alliance of Gay, Lesbian, Bisexual, Transgender, and Queer Youth (WAGLY) is to support the health and emotional well-being of GLBTQ teens in the Boston MetroWest area by offering youth-led and adult-supported social and educational programs."
       }
     }, 
@@ -8604,8 +8174,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "At West Parish Church we are committed to bringing about Jesus' vision of compassion, justice and peace. Empowered by the Spirit, we strive to live our faith in service to one another, our neighbors and the world."
       }
     }, 
@@ -8642,8 +8210,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 20, 
-        "max_age": 29, 
         "additional_notes": "If you are between the ages of 20-29 and identify somewhere along the lines of bisexual/omni/pan/fluid, or are questioning, please join us once a month for a few hours of discussion and support. Meetings are held on second Thursdays of each month at the back table at The Diesel Cafe, 257 Elm St, Somerville. All genders welcome!"
       }
     }, 
@@ -8692,8 +8258,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": 14, 
-        "max_age": 24, 
         "additional_notes": "Youth on Fire (YOF), a program of AIDS Action Committee of Massachusetts, is a drop-in center for homeless and street - involved youth, ages 14-24, located in Harvard Square, Cambridge. The primary goals of Youth on Fire are to respond to the basic and urgent needs of homeless and street-involved young adults, connect homeless and street-involved youth to age-appropriate services, and create safe and supportive relationships and a sense of community. "
       }
     }, 
@@ -8733,8 +8297,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": 12, 
-        "max_age": NaN, 
         "additional_notes": "The North Shore Rape Crisis Center provides services to all sexual assault survivors ages 12 years old or older and their significant others. We welcome all survivors regardless of race, ethnicity, gender, gender identity/expression, sexual orientation, disability, economic status, or legal status. All of our services are free and confidential."
       }
     }, 
@@ -8777,8 +8339,6 @@
           "Primary Care Services"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Child Guidance Clinic provides comprehensive mental health,educational, developmental, behavioral, and consultative services to Springfield and surrounding communities.  Our multidisciplinary staff offers a variety of culturally competent programs in our clinic, at numerous community sites, and in homes."
       }
     }, 
@@ -8819,8 +8379,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Division of Adolescent/Young Adult Medicine at Boston Children's Hospital provides state-of-the-art, comprehensive primary care and specialty care to patients, ages 10 to 23 years old.  Whether your teen has a common affliction or complex conditions requiring coordinated care, she is in good hands with us."
       }
     }, 
@@ -8857,8 +8415,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -8896,8 +8452,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -8934,8 +8488,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -8968,8 +8520,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9006,8 +8556,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9040,8 +8588,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Congregation Beth Israel is a warm, welcoming egalitarian community affiliated with The United Synagogue of Conservative Judaism.  Our synagogue focuses on Jewish core values: studying Torah, joining in communal prayer, and engaging in acts of loving kindness.  We encourage life long learning and seek to strengthen our connection to the Jewish people and to the State of Israel."
       }
     }, 
@@ -9078,8 +8624,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9117,8 +8661,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Dr. Norton has particular interests in public and international health, and preventive care"
       }
     }, 
@@ -9155,8 +8697,6 @@
           "Transgender", 
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "A basic principle of at Davis Square Family Practice is to promote the highest level of health possible. At our office, we respect everybody\u2019s right to live their lives to the fullest as they see fit. "
       }
     }, 
@@ -9189,8 +8729,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9227,8 +8765,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9266,8 +8802,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9315,8 +8849,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of Fenway Health is to enhance the wellbeing of the lesbian, gay, bisexual and transgender community and all people in our neighborhoods and beyond through access to the highest quality health care, education, research and advocacy."
       }
     }, 
@@ -9364,8 +8896,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of Fenway Health is to enhance the wellbeing of the lesbian, gay, bisexual and transgender community and all people in our neighborhoods and beyond through access to the highest quality health care, education, research and advocacy."
       }
     }, 
@@ -9398,8 +8928,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "First Church\u2019s current vision -- The Way of Hospitality, God\u2019s Vision for Us \u2013 continues to inspire, enrich, stretch and challenge us as a community. For the last several years, this vision of \u201cthe four opens\u201d \u2013 Open Door, Open Spirit, Open Road and Open Table \u2013 has welcomed and created new life and leadership at First Church. Our current ministry balances a deep commitment to the spiritual formation of people of every age with a call to put our faith into action working toward a more peaceful and just social transformation of the world around us. While God\u2019s Vision For Us continues to guide our congregational life, we have begun to feel the stirrings of what may be yet another bold and transformative vision for First Church."
       }
     }, 
@@ -9440,8 +8968,6 @@
           "Dental Services"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Geiger Gibson Community Health Center o\udbff\udc00ers expert and compassionate primary care, along with Behavioral Health services, both in the o\udbff\udc03ce and in the home. We are a specialized HIV service as well. Our providers speak Spanish as well as English."
       }
     }, 
@@ -9476,8 +9002,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Since 1978, GLAD's bold and effective advocacy has achieved scores of precedent-setting legal victories to end discrimination based on sexual orientation, HIV status, and gender identity and expression."
       }
     }, 
@@ -9520,8 +9044,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The GLBTQ Domestic Violence Project provides free and confidential support and services for gay, lesbian, bisexual, transgender, and queer survivors of domestic and sexual violence. We work with victims and survivors to increase safety, security, and foster empowerment through direct services, education, and advocacy."
       }
     }, 
@@ -9557,8 +9079,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9591,8 +9111,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission is to provide free legal assistance to as many low-income families as possible to help them secure some of the most basic necessities of life. GBLS plays a unique role in the social service delivery system. It is the agency to which other providers refer clients when no one else can help and legal assistance is needed."
       }
     }, 
@@ -9625,8 +9143,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission is to provide free legal assistance to as many low-income families as possible to help them secure some of the most basic necessities of life. GBLS plays a unique role in the social service delivery system. It is the agency to which other providers refer clients when no one else can help and legal assistance is needed."
       }
     }, 
@@ -9663,8 +9179,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9697,8 +9211,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We believe that all people of every age, physical or mental ability, body image, race, ethnicity, gender identity, sexual orientation, social-economic background, family construct and faith tradition are equal in the eyes of God and this congregation. When entering our sanctuary, you will be greeted with a smile, an extended hand and feel the love of Christ surrounding you."
       }
     }, 
@@ -9747,8 +9259,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission at the Holyoke Health Center is to \u201cImprove the health of our patients through affordable, quality health care and comprehensive community-based programs to create a healthy community.\""
       }
     }, 
@@ -9785,8 +9295,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -9826,8 +9334,6 @@
           "Emergency Placement"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our Mission is to help all domestic violence and sexual assault victims, survivors and their children by creating opportunities to find safety and become empowered through crisis intervention, advocacy, counseling, referral, outreach, education and inspiring change in our community."
       }
     }, 
@@ -9867,8 +9373,6 @@
           "Emergency Placement"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our Mission is to help all domestic violence and sexual assault victims, survivors and their children by creating opportunities to find safety and become empowered through crisis intervention, advocacy, counseling, referral, outreach, education and inspiring change in our community."
       }
     }, 
@@ -9908,8 +9412,6 @@
           "Emergency Placement"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our Mission is to help all domestic violence and sexual assault victims, survivors and their children by creating opportunities to find safety and become empowered through crisis intervention, advocacy, counseling, referral, outreach, education and inspiring change in our community."
       }
     }, 
@@ -9949,8 +9451,6 @@
           "Emergency Placement"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our Mission is to help all domestic violence and sexual assault victims, survivors and their children by creating opportunities to find safety and become empowered through crisis intervention, advocacy, counseling, referral, outreach, education and inspiring change in our community."
       }
     }, 
@@ -9987,8 +9487,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10025,8 +9523,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10063,8 +9559,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10101,8 +9595,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10140,8 +9632,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10176,8 +9666,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10213,8 +9701,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Info from organization name:  NEED TO VERIFY (new Number, other location of N Main St)   2.jay haver F) practice manager and hiv aids NP kristin benjamin 794-7421 and 530 4918"
       }
     }, 
@@ -10249,8 +9735,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10287,8 +9771,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10322,8 +9804,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Justice Resource Institute works in partnership with individuals, families, communities and government to pursue the social justice inherent in opening doors to opportunity and independence.  "
       }
     }, 
@@ -10360,8 +9840,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10400,8 +9878,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10439,8 +9915,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10478,8 +9952,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Attorney Kyle R. Guelcher stands by clients and offers vigorous, powerful representation in a variety of areas of law including General Civil Litigation, Business Legal Services, Consumer Law, Intellectual Property Law, Entertainment Law, and many other additional areas of practice"
       }
     }, 
@@ -10523,8 +9995,6 @@
           "LGBTQ", 
           "Family"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "La Alianza Hispana, Inc. is a community based organization providing culturally and linguistically appropriate health and education programs to the Latino Community of Greater Boston. Founded in 1971, La Alianza Hispana has become the starting point for over 2,000 Latinos annually who seek support at all stages of life. La Alianza Hispana strengthens individuals, families and communities for ongoing success."
       }
     }, 
@@ -10565,8 +10035,6 @@
           "Medical Screening and Testing"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health's La Voz Program provides neighborhood-centered public health interventions to high risk and underserved populations"
       }
     }, 
@@ -10603,8 +10071,6 @@
           "Clinical Counseling"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Lahey Health Behavioral Services is a private, nonprofit agency that provides mental health counseling, addiction treatment and family and school-based services to residents in greater Boston, the North Shore and the Merrimack Valley, Massachusetts."
       }
     }, 
@@ -10637,8 +10103,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10674,8 +10138,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Lesbian, Gay, Bi-sexual and Transgender (LGBT) Asylum Support Task Force is a community-based organization of volunteers dedicated to supporting and empowering LGBT individuals who are seeking asylum or refuge in the United States."
       }
     }, 
@@ -10711,8 +10173,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "By offering a multitude of services using innovative advocacy, community outreach programs and events, referral services and more, the Coalition strives to build stronger communities and families by bridging the gaps that exist between members of the LGBT community itself and mainstream society."
       }
     }, 
@@ -10758,8 +10218,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10796,8 +10254,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "At Lowell Community Health Center our goal is to enrich patients' overall health and wellness by offering services and programs that take a holistic, or \"whole\" health approach. We seek to connect patients with information and skills for living a healthier lifestyle. "
       }
     }, 
@@ -10834,8 +10290,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10872,8 +10326,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10908,8 +10360,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -10949,8 +10399,6 @@
           "Medical Screening and Testing"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Baystate Health's charitable mission is to improve the health of the people in our communities every day, with quality and compassion."
       }
     }, 
@@ -10987,8 +10435,6 @@
           "Family", 
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Massachusetts Adoption Resource Exchange (MARE) was founded in 1957 to find \u201ca permanent place to call home\u201d for children and teens in foster care in Massachusetts, including sibling groups and children who are traditionally harder to place. We do this by recruiting, educating, supporting and advocating for families throughout the adoption process.  "
       }
     }, 
@@ -11027,8 +10473,6 @@
           "Family", 
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Massachusetts Adoption Resource Exchange (MARE) was founded in 1957 to find \u201ca permanent place to call home\u201d for children and teens in foster care in Massachusetts, including sibling groups and children who are traditionally harder to place. We do this by recruiting, educating, supporting and advocating for families throughout the adoption process.  "
       }
     }, 
@@ -11066,8 +10510,6 @@
         "target_populations": [
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To improve the lives of Portuguese-speaking individuals and families from Massachusetts and help them become contributing, active participants in American society while maintaining strong ethnic identity and a sense of community."
       }
     }, 
@@ -11105,8 +10547,6 @@
         "target_populations": [
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To improve the lives of Portuguese-speaking individuals and families from Massachusetts and help them become contributing, active participants in American society while maintaining strong ethnic identity and a sense of community."
       }
     }, 
@@ -11144,8 +10584,6 @@
         "target_populations": [
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To improve the lives of Portuguese-speaking individuals and families from Massachusetts and help them become contributing, active participants in American society while maintaining strong ethnic identity and a sense of community."
       }
     }, 
@@ -11183,8 +10621,6 @@
         "target_populations": [
           "POC"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To improve the lives of Portuguese-speaking individuals and families from Massachusetts and help them become contributing, active participants in American society while maintaining strong ethnic identity and a sense of community."
       }
     }, 
@@ -11220,8 +10656,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To improve the lives of Portuguese-speaking individuals and families from Massachusetts and help them become contributing, active participants in American society while maintaining strong ethnic identity and a sense of community."
       }
     }, 
@@ -11256,8 +10690,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Receives discrimination complaints regarding housing, education, public accommodation, employment, and hate crimes"
       }
     }, 
@@ -11290,8 +10722,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -11325,8 +10755,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "MGLPC is the most experienced and respected lobbying operation on Beacon Hill working for lesbian, gay, bisexual and transgender equal rights. For nearly 40 years, MGLPC has enjoyed enormous success advocating with professional lobbyists for the interests and needs of the LGBT community. "
       }
     }, 
@@ -11364,8 +10792,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -11404,8 +10830,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "As a physician and surgeon, it is my professional aspiration to advance patient awareness, education, and access to resources that will enhance care and improve outcomes. In my practice I carefully focus on providing doctor-patient communication that is thorough, honest, never rushed, and encompasses the full spectrum of management from initial consultation, to risk assessment, to pre- and post-surgical care."
       }
     }, 
@@ -11442,8 +10866,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -11483,8 +10905,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Mount Tom Center for Mental Health and Recovery is a community based licensed outpatient mental health and substance abuse program providing on-site and outreach services to the community"
       }
     }, 
@@ -11526,8 +10946,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "City Clinic is a community-based outpatient program providing bilingual (English/Spanish) culturally competent services to the Holyoke community. Our bilingual Master\u2019s and  Doctoral level Clinicians, Nurses, and Psychiatrists provide assessment and treatment to clients dealing with a wide range of mental health and substance abuse issues."
       }
     }, 
@@ -11564,8 +10982,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": 12, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -11598,8 +11014,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of the National Gay and Lesbian Task Force is to build the grassroots power of the lesbian, gay, bisexual and transgender (LGBT) community. We do this by training activists, equipping state and local organizations with the skills needed to organize broad-based campaigns to defeat anti-LGBT referenda and advance pro-LGBT legislation, and building the organizational capacity of our movement. "
       }
     }, 
@@ -11636,8 +11050,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Promoting wellness in people living with HIV/ AIDS and Hepatitis C by providing free holistic health care, support services, information and outreach in a safe, caring and confidential environment."
       }
     }, 
@@ -11676,8 +11088,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Patricia Jenkins MSW LICSW works as a psychotherapist in Northampton, MA.  She provides psychotherapy to adults, adolescents, children, couples and families.  Patricia also offers group therapy for adults who are dealing with specific issues."
       }
     }, 
@@ -11717,8 +11127,6 @@
           "Family", 
           "Allies"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face."
       }
     }, 
@@ -11757,8 +11165,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "This group is open to people who identify as transgender, as well as their allies, friends, significant others and family members. We are an inclusive group, and very much welcome supportive people from the larger GLBT community."
       }
     }, 
@@ -11799,8 +11205,6 @@
           "Medical Screening and Testing"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To protect and promote sexual and reproductive health and freedom of choice by providing clinical services, education and advocacy."
       }
     }, 
@@ -11844,8 +11248,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Offers education, resoures, and service referrals to the LGBTQ community"
       }
     }, 
@@ -11880,8 +11282,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Project Aware has been a leader in providing innovative services to people battling HIV/AIDS in the greater Fall River community since 1989. Our integrated medical case management program has led the way in providing quality case management for those living with HIV/AIDS while ensuring the greatest utilization of resources."
       }
     }, 
@@ -11916,8 +11316,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Project Aware has been a leader in providing innovative services to people battling HIV/AIDS in the greater Fall River community since 1989. Our integrated medical case management program has led the way in providing quality case management for those living with HIV/AIDS while ensuring the greatest utilization of resources."
       }
     }, 
@@ -11954,8 +11352,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -11992,8 +11388,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12031,8 +11425,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12070,8 +11462,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12108,8 +11498,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12149,8 +11537,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "SSCI provides outpatient psychotherapeutic clinical services to children, families, and adults.  We serve clients with a wide variety of mental health and substance abuse problems.  Our staff includes professional psychologists, social workers, school counselors and psychiatrists.  SSCI offers linguistically and culturally competent services, as our staff offers services in Spanish, Russian, Polish, and Hebrew."
       }
     }, 
@@ -12186,8 +11572,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12223,8 +11607,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12260,8 +11642,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Shortstop is a community-based program that provides housing and transitional care to homeless young adults, ages 18- 22, from the Somerville, Cambridge and Greater Boston areas.  ShortStop offers a variety of services including educational and vocational support services for young people transitioning to adulthood. Shortstop assists each young adult to make a successful transitional to stable permanent living situations by promoting independent living skills in a supportive environment."
       }
     }, 
@@ -12296,8 +11676,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The mission of the Somerville Homeless Coalition is to provide homeless and near homeless individuals and families with individualized supportive services and tailored housing solutions with a goal of obtaining and maintaining affordable housing."
       }
     }, 
@@ -12333,8 +11711,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Southern Jamaica Plain Health Center is a community health center licensed by Brigham and Women's Hospital."
       }
     }, 
@@ -12368,8 +11744,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "SpeakOUT works to create a world free of homo-bi-trans-phobia and other forms of prejudice by telling the truths of people\u2019s lives."
       }
     }, 
@@ -12402,8 +11776,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12441,8 +11813,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Our mission at the Holyoke Health Center is to \u201cImprove the health of our patients through affordable, quality health care and comprehensive community-based programs to create a healthy community.\""
       }
     }, 
@@ -12479,8 +11849,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12518,8 +11886,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12556,8 +11922,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -12602,8 +11966,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12648,8 +12010,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12694,8 +12054,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12740,8 +12098,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12786,8 +12142,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12832,8 +12186,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12878,8 +12230,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12924,8 +12274,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -12970,8 +12318,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -13016,8 +12362,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -13062,8 +12406,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -13108,8 +12450,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Tapestry Health has delivered family planning and reproductive health services throughout western Massachusetts for almost four decades."
       }
     }, 
@@ -13142,8 +12482,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -13181,8 +12519,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "We are a collaboration of bodyworkers and mental health practitioners. We create safe and inclusive spaces. We promote healing, growth, and empowerment. We provide access to education, connection, and therapeutic support for clients, colleagues, and community members."
       }
     }, 
@@ -13217,8 +12553,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Triangle Program aims to provide mental health treatment that is sensitive to the issues of gay, lesbian, bisexual and transgender people. Clinically sophisticated evaluation, consultation and intensive daily treatment provide stabilization and support for patients during times of crisis. The Triangle Program provides flexible and personalized treatment schedules and consistently preserves client relationships with outpatient therapists and community support systems."
       }
     }, 
@@ -13254,8 +12588,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "To provide women with the resources and support they need to emerge from conditions of domestic violence, sexual abuse, poverty, discrimination, social isolation, and degradation. To challenge and change the attitudes, actions, and institutions that subjugate women."
       }
     }, 
@@ -13292,8 +12624,6 @@
           "Clinical Counseling"
         ], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Therapists and Life Coaches at Thrive Counseling in Cambridge, MA provide expert, caring, and compassionate services to their valued clients. In fact, clients report that one of the most helpful things about Thrive is the \"strong relationship\" they build with their Therapist."
       }
     }, 
@@ -13329,8 +12659,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Treehouse Foundation promotes public investment in our most vulnerable children. We seek to inspire, implement and support innovative child welfare practices to ensure children who have experienced foster care find lifelong family relationships in supportive communities, which enable them to lead fulfilling and productive lives. Services include HEROES Youth Leadership program."
       }
     }, 
@@ -13377,8 +12705,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13425,8 +12751,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13473,8 +12797,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13521,8 +12843,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13569,8 +12889,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13617,8 +12935,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13665,8 +12981,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13714,8 +13028,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Wayside is dedicated to achieving the highest standards of quality and integrity in providing leading edge counseling, family support, residential and educational services for building strength, hope and resiliency in youth, families and communities."
       }
     }, 
@@ -13748,8 +13060,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -13792,8 +13102,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "Mental health clinician for LGBT individuals; gender evaluations and letters for change of gender identification, hormone therapy, sexual reassignment, and other surgery and legal matters"
       }
     }, 
@@ -13828,8 +13136,6 @@
         "target_populations": [
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "This group is open to people who identify as transgender, as well as their allies, friends, significant others and family members.  We are an inclusive group, and very much welcome supportive people from the larger GLBT community. "
       }
     }, 
@@ -13868,8 +13174,6 @@
           "LGBTQ", 
           "Transgender"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": ""
       }
     }, 
@@ -13907,8 +13211,6 @@
         ], 
         "service_class_level_2": [], 
         "target_populations": [], 
-        "min_age": 16, 
-        "max_age": NaN, 
         "additional_notes": "The Office of Human Rights strives to ensure that all city residents are treated fairly and equally by reducing bias, bigotry and prejudices. Through outreach, educational programs, events and advocacy the office promotes ways to increase respect in our community and safeguards full and equal access and opportunity for all. The office and the Human Rights Commission receive and investigate complaints, resolve cases through mediation and advocate in support of human rights issues in partnership with local, state and federal organizations and agencies."
       }
     }, 
@@ -13946,8 +13248,6 @@
         "target_populations": [
           "LGBTQ"
         ], 
-        "min_age": NaN, 
-        "max_age": NaN, 
         "additional_notes": "The Stonewall Center provides support, advocacy, and programming for LGBTQ and allied students, staff, and faculty at UMass Amherst and for the larger Pioneer Valley."
       }
     }
