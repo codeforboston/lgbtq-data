@@ -73,11 +73,13 @@ def parse(f, geocode=False):
       #pprint(row)
       org = row[0]
 
-      search_class = filter_out_empty(row[1:6])
-      service_class_L1 = filter_out_empty(row[7:11])
-      service_class_L2 = filter_out_empty(row[12:18])
+      new_search_class = filter_out_empty(row[1:2])
 
-      idk = filter_out_empty(row[19:21])
+      search_class = filter_out_empty(row[3:8])
+      service_class_L1 = filter_out_empty(row[9:12])
+      service_class_L2 = filter_out_empty(row[13:19])
+
+      #idk = filter_out_empty(row[21:23])
 
       url = row[22]
 
@@ -89,13 +91,15 @@ def parse(f, geocode=False):
       county = row[28]
 
       phones = [row[29]]
-      names = filter_out_empty([row[30], row[32]])
-      emails = cleanup_emails(filter_out_empty([row[31], row[33]]))
+      names = filter_out_empty([row[30], row[31]])
+      emails = cleanup_emails(filter_out_empty([row[32]]))
+      #row 33 email is not for public use
 
-      target_populations = filter_out_empty(row[34:37])
-      age_range = row[37]
+      target_populations = filter_out_empty(row[34:36])
+      min_age = numberify(row[37])
+      max_age = numberify(row[38])
 
-      notes = row[38]
+      notes = row[39]
 
 
       loc = OrderedDict()
@@ -111,10 +115,12 @@ def parse(f, geocode=False):
       loc["contact_names"] = expand_all(names)
       loc["contact_emails"] = expand_all(emails)
       loc["youth_category"] = search_class
+      loc["new_search_class"] = new_search_class
       loc["service_class_level_1"] = service_class_L1
       loc["service_class_level_2"] = service_class_L2
       loc["target_populations"] = target_populations
-      loc["age_range"] = age_range
+      loc["min_age"] = min_age
+      loc["max_age"] = max_age
       loc["additional_notes"] = notes
 
                       #empty string is false-y
@@ -146,6 +152,8 @@ def clean(l):
       value = element[key]
       if isinstance(value, float):
         pass
+      elif isinstance(value, int):
+        pass
       elif isinstance(value, str):
         element[key] = value.replace(u'\xa0', u' ') #replace non-breaking space
         #print(("str", value))
@@ -154,6 +162,11 @@ def clean(l):
           value[i] = v.replace(u'\xa0', u' ')
         #print(("not str", value))
 
+def numberify(n):
+  if n is not "":
+    return int(n)
+  else:
+    return float('NaN')
 
 # takes a list with "" and nulls in some fields
 # returns a shortened list with only good data

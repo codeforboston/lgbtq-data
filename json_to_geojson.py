@@ -9,25 +9,27 @@ ORDERED_KEYS = ["organization_name",
     #"county",
     #"state",
     #"zipcode",
-    "city",
+    #"city",
     "web_url",
     "phone_numbers",
     "contact_names",
     "contact_emails",
     "youth_category",
+    "new_search_class",
     "service_class_level_1",
     "service_class_level_2",
     "target_populations",
-    "age_range",
+    "min_age",
+    "max_age",
     "additional_notes"]
 
 #labels to title case
 TITLES = ["city",
           "youth_category",
+          "new_search_class",
           "service_class_level_1",
           "service_class_level_2",
-          "target_populations",
-          "age_range"]
+          "target_populations"]
 
 articles = ['a', 'an', 'of', 'the', 'is', 'and', 'lgbtq']
 
@@ -74,7 +76,7 @@ if __name__ == "__main__":
         full_address = d["address"] + '\n';
         if ("unit_number" in d and d["unit_number"] != ""):
           full_address += d["unit_number"] + '\n'
-        full_address += d["county"] + ", " + d["state"] + " " + d["zipcode"]
+        full_address += d["city"] + ", " + d["state"] + " " + d["zipcode"]
         properties["address"] = full_address
 
         # other properties
