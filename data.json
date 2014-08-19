@@ -312,8 +312,7 @@
       "(413) 358-3038"
     ], 
     "contact_names": [
-      "Sara Shuff", 
-      "sarashuff@affirmativecounseling.net"
+      "Sara Shuff"
     ], 
     "contact_emails": [
       "Kelly Heck"
@@ -353,9 +352,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "asset@crocker.com - EMAIL NOT WORKING"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -472,9 +469,7 @@
     "phone_numbers": [
       "(413) 301-0955"
     ], 
-    "contact_names": [
-      "info@aidsfoundationwm.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -508,9 +503,7 @@
     "phone_numbers": [
       "(508) 755-3773"
     ], 
-    "contact_names": [
-      "mailto:info@aidsprojectworcester.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Martha Akstin (508) 755-3773"
     ], 
@@ -522,7 +515,7 @@
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      " Physical Health"
+      "Physical Health"
     ], 
     "service_class_level_1": [
       "Para-professional Support Services", 
@@ -640,8 +633,8 @@
     "min_age": NaN, 
     "max_age": NaN, 
     "additional_notes": "The AIDS Support Group of Cape Cod, one of the first AIDS organizations established in the United States, works to foster health, independence and dignity for people living with HIV/AIDS and Viral Hepatitis by providing care, support and housing.  We work to help reduce the spread of HIV and other sexually transmitted infections through prevention, education and testing services. ", 
-    "lat": 42.0528707, 
-    "lng": -70.1849884
+    "lat": 42.0528686, 
+    "lng": -70.1849905
   }, 
   {
     "organization_name": "AIDS Support Group of Cape Cod (Provincetown Office)", 
@@ -790,9 +783,7 @@
     "phone_numbers": [
       "(508) 752-3766"
     ], 
-    "contact_names": [
-      "linda@allsaintsw.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -824,8 +815,7 @@
       "(413) 736-6803, (413) 592-8670"
     ], 
     "contact_names": [
-      "Ann Franczyk", 
-      "annrun76@aol.com -  EMAIL DOES NOT WORK"
+      "Ann Franczyk"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -862,9 +852,7 @@
     "phone_numbers": [
       "(617) 482-3170"
     ], 
-    "contact_names": [
-      "info@aclum.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services"
@@ -897,9 +885,7 @@
     "phone_numbers": [
       "(413) 586-9115"
     ], 
-    "contact_names": [
-      "info@aclum.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services"
@@ -932,9 +918,7 @@
     "phone_numbers": [
       "(508) 444-2258"
     ], 
-    "contact_names": [
-      "info@aclum.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Chris Robarge"
     ], 
@@ -954,7 +938,7 @@
     "min_age": NaN, 
     "max_age": NaN, 
     "additional_notes": "The American Civil Liberties Union (ACLU) is a private, voluntary, nonpartisan organization that works daily in courts, legislatures, and communities to defend and preserve our country\u2019s basic civic values--the individual rights and liberties guaranteed to all by the Constitution and Bill of Rights. The ACLU of Massachusetts, with over 20,000 supporters across the Commonwealth, is a state affiliate of the national ACLU. We defend the principles enshrined in the Massachusetts Declaration of Rights as well as the U.S. Constitution.", 
-    "lat": 42.265397, 
+    "lat": 42.2653091, 
     "lng": -71.8021009
   }, 
   {
@@ -1106,9 +1090,7 @@
     "phone_numbers": [
       "(617) 536-7050"
     ], 
-    "contact_names": [
-      "office@ascboston.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -1142,9 +1124,7 @@
     "phone_numbers": [
       "(617) 227-4313"
     ], 
-    "contact_names": [
-      "info@bagly.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Jessica Flaherty, Program Director (617) 227-4313 x 124"
     ], 
@@ -1212,9 +1192,7 @@
     "phone_numbers": [
       "(617) 807-0949"
     ], 
-    "contact_names": [
-      "matt@barisonlaw.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services"
@@ -1245,9 +1223,7 @@
     "phone_numbers": [
       "(413) 822-7268"
     ], 
-    "contact_names": [
-      "info@berkshirestonewall.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -1417,9 +1393,7 @@
     "phone_numbers": [
       "(617) 424-9595"
     ], 
-    "contact_names": [
-      "BRC@BIRESOURCE.NET"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ellyn Ruthstrom, BRC President"
     ], 
@@ -1452,9 +1426,7 @@
     "phone_numbers": [
       "(617) 492-8306"
     ], 
-    "contact_names": [
-      "volunteer@barcc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Megan Mulcahy (617) 649-1273"
     ], 
@@ -1495,9 +1467,7 @@
     "phone_numbers": [
       "(617) 492-8306"
     ], 
-    "contact_names": [
-      "volunteer@barcc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Megan Mulcahy (617) 649-1273"
     ], 
@@ -1538,9 +1508,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "biwomenboston@gmail.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -1641,8 +1609,7 @@
       "(617) 266-3349"
     ], 
     "contact_names": [
-      "Ismael Rivera", 
-      "mailto:irivera@jri.org"
+      "Ismael Rivera"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -1679,10 +1646,10 @@
     "phone_numbers": [
       "(857) 654-1000"
     ], 
-    "contact_names": [
-      "info@bhchp.org"
+    "contact_names": [], 
+    "contact_emails": [
+      "Pam Klein (857) 654-1635"
     ], 
-    "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
       "Primary Care Services", 
@@ -1716,8 +1683,7 @@
       "(617) 236-1012"
     ], 
     "contact_names": [
-      "Morrigan Phillips", 
-      "mphillips@vpi.org"
+      "Morrigan Phillips"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -1754,9 +1720,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "confidentialPT@bmc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Sexual Health Services", 
@@ -1788,9 +1752,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "confidentialsafetycounts@bmc.org - EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -1824,8 +1786,7 @@
       "(800) 530-2770 ext. 229"
     ], 
     "contact_names": [
-      "Missy Sturtevant", 
-      "msturtevant@healthimperatives.org"
+      "Missy Sturtevant"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -1859,9 +1820,7 @@
     "phone_numbers": [
       "(617) 423-9575"
     ], 
-    "contact_names": [
-      "mailto:bridge@bridgeotw.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -1869,7 +1828,7 @@
       "Housing and Shelter Services"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Placement Services", 
@@ -1905,8 +1864,7 @@
       "(617) 318-6917"
     ], 
     "contact_names": [
-      "Jovan Zuniga", 
-      "mailto:btgboston@gmail.com"
+      "Jovan Zuniga"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -1914,7 +1872,7 @@
       "Job Development and Placement"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Support Services", 
@@ -1944,9 +1902,7 @@
     "phone_numbers": [
       "(617) 349-3355"
     ], 
-    "contact_names": [
-      "glbtcommission@cambridgema.gov"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Aren Stone (617)876-2897"
     ], 
@@ -2610,8 +2566,7 @@
       "(617) 354-6304"
     ], 
     "contact_names": [
-      "Katie Heimer (617) 354-6394", 
-      "katie@cambridgewomenscenter.org."
+      "Katie Heimer (617) 354-6394"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -2644,9 +2599,7 @@
     "phone_numbers": [
       "(508) 237-7651"
     ], 
-    "contact_names": [
-      "camplightbulb@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -2665,8 +2618,8 @@
     "min_age": 18, 
     "max_age": NaN, 
     "additional_notes": "Camp Lightbulb is an overnight summer camp for LGBT youth aged 14 to 18 in Provincetown, MA. ", 
-    "lat": 42.0584412, 
-    "lng": -70.1786425
+    "lat": 42.0413342, 
+    "lng": -70.20511479999999
   }, 
   {
     "organization_name": "Cape and Islands Gay and Straight Youth Alliance (CIGSYA)", 
@@ -2680,9 +2633,7 @@
     "phone_numbers": [
       "(508) 778-7744"
     ], 
-    "contact_names": [
-      "info@cigsya.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Scott Fitzmaurice"
     ], 
@@ -2717,9 +2668,7 @@
     "phone_numbers": [
       "(978) 452-7721"
     ], 
-    "contact_names": [
-      "info@centerforhopehealing.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Daniel Basil Hamilton"
     ], 
@@ -3131,9 +3080,7 @@
     "phone_numbers": [
       "(888) 543-5298"
     ], 
-    "contact_names": [
-      "Info@CLCM.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Caroline Kazakis (781) 244-1432"
     ], 
@@ -3168,9 +3115,7 @@
     "phone_numbers": [
       "(978) 475-0529"
     ], 
-    "contact_names": [
-      "info@christchurchandover.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3201,9 +3146,7 @@
     "phone_numbers": [
       "(978) 459-9631"
     ], 
-    "contact_names": [
-      "Contact form on website"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3234,9 +3177,7 @@
     "phone_numbers": [
       "(617) 645-4823"
     ], 
-    "contact_names": [
-      "chpc@clarendonhillchurch.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3267,9 +3208,7 @@
     "phone_numbers": [
       "(413) 774-7028"
     ], 
-    "contact_names": [
-      "GenQ@communityaction.us"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ollie Schwartz (413) 475-1799"
     ], 
@@ -3307,9 +3246,7 @@
     "phone_numbers": [
       "(413) 774-7028"
     ], 
-    "contact_names": [
-      "GenQ@communityaction.us"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ollie Schwartz (413) 475-1799"
     ], 
@@ -3348,8 +3285,7 @@
       "(508) 752-3718"
     ], 
     "contact_names": [
-      "Linda Boss", 
-      "lboss@cla-ma.org"
+      "Linda Boss"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -3381,9 +3317,7 @@
     "phone_numbers": [
       "(617) 661-1010"
     ], 
-    "contact_names": [
-      "info@clsacc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services", 
@@ -3417,9 +3351,7 @@
     "phone_numbers": [
       "(617) 502-1700"
     ], 
-    "contact_names": [
-      "info@crine.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "HIV and AIDS Services"
@@ -3450,9 +3382,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "compassftm@comcast.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -3483,9 +3413,7 @@
     "phone_numbers": [
       "(617) 383-9539"
     ], 
-    "contact_names": [
-      "info@amtikva.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3518,9 +3446,7 @@
     "phone_numbers": [
       "(617) 965-0330"
     ], 
-    "contact_names": [
-      "info@dorsheitzedek.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3551,9 +3477,7 @@
     "phone_numbers": [
       "(617) 776-4172"
     ], 
-    "contact_names": [
-      "connect@connexionumc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Justin Hildebrandt"
     ], 
@@ -3586,9 +3510,7 @@
     "phone_numbers": [
       "(617) 421-1915"
     ], 
-    "contact_names": [
-      "info@dignityboston.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3621,9 +3543,7 @@
     "phone_numbers": [
       "(617) 396-4201"
     ], 
-    "contact_names": [
-      "drnicoleissa@yahoo.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -3661,9 +3581,7 @@
     "phone_numbers": [
       "(413) 222-0998"
     ], 
-    "contact_names": [
-      "info@masstherapist.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -3700,9 +3618,7 @@
     "phone_numbers": [
       "(617) 667-2952"
     ], 
-    "contact_names": [
-      "patientrelations@bidmc.harvard.edu"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Eileen Hughes"
     ], 
@@ -3740,8 +3656,7 @@
       "(413) 584-7616"
     ], 
     "contact_names": [
-      "Bet Power", 
-      "betpower@yahoo.com"
+      "Bet Power"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -3775,8 +3690,7 @@
       "(413) 657-6104"
     ], 
     "contact_names": [
-      "Eunice Aviles", 
-      "dr.euniceaviles@gmail.com"
+      "Eunice Aviles"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -3818,8 +3732,7 @@
       "(413) 657-6105"
     ], 
     "contact_names": [
-      "Eunice Aviles", 
-      "dr.euniceaviles@gmail.com"
+      "Eunice Aviles"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -3859,9 +3772,7 @@
     "phone_numbers": [
       "(617) 267-0900"
     ], 
-    "contact_names": [
-      "information@fenwayhealth.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Chris Viveiros  Phone: (617) 927-6342 | Mobile: (617) 721-7494 Thursday (April 10) at 1pm"
     ], 
@@ -3909,9 +3820,7 @@
     "phone_numbers": [
       "(508) 756-6143"
     ], 
-    "contact_names": [
-      "info@fbc-worc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3942,9 +3851,7 @@
     "phone_numbers": [
       "(617) 625-6485"
     ], 
-    "contact_names": [
-      "fcs@firstchurchsomerville.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -3975,9 +3882,7 @@
     "phone_numbers": [
       "(978) 537-0310"
     ], 
-    "contact_names": [
-      "1stchurchoffice@verizon.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -4008,9 +3913,7 @@
     "phone_numbers": [
       "(978) 256-5133"
     ], 
-    "contact_names": [
-      "office@uuchelmsford.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -4041,9 +3944,7 @@
     "phone_numbers": [
       "(978) 343-6307"
     ], 
-    "contact_names": [
-      "fitchburguu@verizon.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -4075,8 +3976,7 @@
       "(508) 757-2708"
     ], 
     "contact_names": [
-      "Donna Rossio", 
-      "office@firstunitarian.com"
+      "Donna Rossio"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -4108,9 +4008,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "board@friendsofglbtyouth.org - EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Awareness and Advocacy"
@@ -4142,9 +4040,7 @@
     "phone_numbers": [
       "(413) 582-0743"
     ], 
-    "contact_names": [
-      "valleyctr@hotmail.com -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Substance Abuse Services", 
@@ -4176,9 +4072,7 @@
     "phone_numbers": [
       "(978) 537-0310"
     ], 
-    "contact_names": [
-      "mailto:GLBTalliance@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -4211,9 +4105,7 @@
     "phone_numbers": [
       "(978) 537-0310"
     ], 
-    "contact_names": [
-      "mailto:GLBTalliance@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -4246,9 +4138,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "valleyctr@hotmail.com - EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -4309,8 +4199,7 @@
       "(413) 584-1116"
     ], 
     "contact_names": [
-      "Heather King", 
-      "przone@valinet.com - EMAIL DOES NOT WORK"
+      "Heather King"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -4346,9 +4235,7 @@
     "phone_numbers": [
       "(617) 684-5736"
     ], 
-    "contact_names": [
-      "mailto:massachusetts@chapters.glsen.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Awareness and Advocacy", 
@@ -4382,9 +4269,7 @@
     "phone_numbers": [
       "(781) 891-5966"
     ], 
-    "contact_names": [
-      "info@gbpflag.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Pam Garramone"
     ], 
@@ -4422,9 +4307,7 @@
     "phone_numbers": [
       "(413) 774-7028"
     ], 
-    "contact_names": [
-      "GLASS@fcac.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Drop-in Center"
@@ -4455,9 +4338,7 @@
     "phone_numbers": [
       "(617) 623-3376"
     ], 
-    "contact_names": [
-      "info@thehav.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Heidi Friedman"
     ], 
@@ -4493,9 +4374,7 @@
     "phone_numbers": [
       "(978) 744-8552"
     ], 
-    "contact_names": [
-      "Contact form on website"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Domestic and Sexual Violence Services", 
@@ -4528,9 +4407,7 @@
     "phone_numbers": [
       "(978) 521-4444"
     ], 
-    "contact_names": [
-      "info@healthq.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ruth Price"
     ], 
@@ -4571,9 +4448,7 @@
     "phone_numbers": [
       "(978) 681-5258"
     ], 
-    "contact_names": [
-      "info@healthq.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ruth Price"
     ], 
@@ -4614,9 +4489,7 @@
     "phone_numbers": [
       "(978) 922-4490"
     ], 
-    "contact_names": [
-      "info@healthq.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ruth Price"
     ], 
@@ -4657,16 +4530,14 @@
     "phone_numbers": [
       "(617) 487-4242"
     ], 
-    "contact_names": [
-      "mailto:Info@HBGC-Boston.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Awareness and Advocacy", 
       "Sexual Health Services"
     ], 
     "new_search_class": [
-      "Training  & Advocacy"
+      "Training & Advocacy"
     ], 
     "service_class_level_1": [
       "Awareness", 
@@ -4697,8 +4568,7 @@
       "(413) 537-8713"
     ], 
     "contact_names": [
-      "Anthony Wilson", 
-      "awilson@studyhome.org"
+      "Anthony Wilson"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -4734,16 +4604,14 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "membership@hrcboston.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Awareness and Advocacy", 
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      "Training  & Advocacy"
+      "Training & Advocacy"
     ], 
     "service_class_level_1": [
       "Training and Educational Activities"
@@ -4768,9 +4636,7 @@
     "phone_numbers": [
       "(617) 524-8303"
     ], 
-    "contact_names": [
-      "mailto:info@hydesquare.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Yi Chin Chen"
     ], 
@@ -4806,9 +4672,7 @@
     "phone_numbers": [
       "(413) 773-5420"
     ], 
-    "contact_names": [
-      "Email@RowanPsychotherapy.com -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -4842,8 +4706,7 @@
       "(413) 773-5420"
     ], 
     "contact_names": [
-      "SAME PHONE", 
-      "Email@RowanPsychotherapy.com - EMAIL DOES NOT WORK"
+      "SAME PHONE"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -4877,9 +4740,7 @@
     "phone_numbers": [
       "(413) 584-1110"
     ], 
-    "contact_names": [
-      "james@jameswinstonlaw.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services"
@@ -4913,8 +4774,7 @@
       "(413) 534-3033"
     ], 
     "contact_names": [
-      "Joanna Frost", 
-      "joannafrst@yahoo.com"
+      "Joanna Frost"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -4954,8 +4814,7 @@
       "(978) 500-7478"
     ], 
     "contact_names": [
-      "Phil Hayes", 
-      "phayes.journeysofhope@gmail.com\ufeff"
+      "Phil Hayes"
     ], 
     "contact_emails": [
       "Chris Judkins"
@@ -4966,7 +4825,7 @@
       "Housing and Shelter Services"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Para-professional Support Services"
@@ -4994,8 +4853,7 @@
       "(413) 781-0560"
     ], 
     "contact_names": [
-      "Julie Dialessi-Lafley", 
-      "JDialessi-lafley@BaconWilson.com"
+      "Julie Dialessi-Lafley"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -5027,9 +4885,7 @@
     "phone_numbers": [
       "(617) 777-0702"
     ], 
-    "contact_names": [
-      "mailto:chairperson@k-street.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5053,7 +4909,7 @@
     "lng": -71.09925489999999
   }, 
   {
-    "organization_name": "Karen Belleville ", 
+    "organization_name": "Karen Belleville - UNSURE waiting for email response with commitment to improving", 
     "address": "Bay State Electrolysis, 89 Old West Street ", 
     "unit_number": "", 
     "county": "Hampden", 
@@ -5064,9 +4920,7 @@
     "phone_numbers": [
       "(413) 210-5978"
     ], 
-    "contact_names": [
-      "kbelleville@charter.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5102,9 +4956,7 @@
     "phone_numbers": [
       "(413) 529-0190"
     ], 
-    "contact_names": [
-      "kessa@charter.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5138,9 +4990,7 @@
     "phone_numbers": [
       "(414) 437-4484"
     ], 
-    "contact_names": [
-      "Katherinepangborn@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5175,9 +5025,7 @@
     "phone_numbers": [
       "(617) 524-9227"
     ], 
-    "contact_names": [
-      "info@keshetonline.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Joanna Ware"
     ], 
@@ -5218,9 +5066,7 @@
     "phone_numbers": [
       "(617) 524-9227"
     ], 
-    "contact_names": [
-      "info@keshetonline.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -5257,9 +5103,7 @@
     "phone_numbers": [
       "(617) 350-6900"
     ], 
-    "contact_names": [
-      "boston@lhi.org -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5302,9 +5146,7 @@
     "phone_numbers": [
       "(508) 941-0005"
     ], 
-    "contact_names": [
-      "brockton@lhi.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5347,9 +5189,7 @@
     "phone_numbers": [
       "(978) 459-3366"
     ], 
-    "contact_names": [
-      "lowell@lhi.org -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -5392,9 +5232,7 @@
     "phone_numbers": [
       "(413) 586-0446"
     ], 
-    "contact_names": [
-      "leslie@lesliembrown.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services"
@@ -5428,8 +5266,7 @@
       "(413) 585-1655"
     ], 
     "contact_names": [
-      "Tetty Gorfine", 
-      "info@lifecourse.net"
+      "Tetty Gorfine"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -5466,8 +5303,7 @@
       "(413) 358-5697"
     ], 
     "contact_names": [
-      "Kelly Heck", 
-      "kellyheck@affirmativecounseling.net"
+      "Kelly Heck"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -5502,9 +5338,7 @@
     "phone_numbers": [
       "(978) 446-0236"
     ], 
-    "contact_names": [
-      "info@healthq.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ruth Price"
     ], 
@@ -5545,9 +5379,7 @@
     "phone_numbers": [
       "(978) 322-8949"
     ], 
-    "contact_names": [
-      "Info@lchealth.org - EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -5578,9 +5410,7 @@
     "phone_numbers": [
       "(781) 593-1115"
     ], 
-    "contact_names": [
-      "info@healthq.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ruth Price"
     ], 
@@ -5622,8 +5452,7 @@
       "(617) 624-5495"
     ], 
     "contact_names": [
-      "Landen Motyka", 
-      "landen.motyka@state.ma.us"
+      "Landen Motyka"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -5658,9 +5487,7 @@
     "phone_numbers": [
       "(617) 624-5490"
     ], 
-    "contact_names": [
-      "steven.smyth@state.ma.us"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Government Entity", 
@@ -5694,9 +5521,7 @@
     "phone_numbers": [
       "(617) 426-6755"
     ], 
-    "contact_names": [
-      "map@maphealth.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Andrea Machado"
     ], 
@@ -5733,9 +5558,7 @@
     "phone_numbers": [
       "(617) 778-0519"
     ], 
-    "contact_names": [
-      "mailto:info@masstpc.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -5771,9 +5594,7 @@
     "phone_numbers": [
       "(617) 878-2300"
     ], 
-    "contact_names": [
-      "info@massequality.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Education, Training, and Employment", 
@@ -5807,8 +5628,7 @@
       "(978) 397-4652"
     ], 
     "contact_names": [
-      "Tad", 
-      "tjbickford@comcast.net"
+      "Tad"
     ], 
     "contact_emails": [
       "Amy"
@@ -5845,9 +5665,7 @@
     "phone_numbers": [
       "(413) 253-9887"
     ], 
-    "contact_names": [
-      "mrc@mrcforchange.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Education, Training, and Employment"
@@ -5878,9 +5696,7 @@
     "phone_numbers": [
       "(617) 973-0404"
     ], 
-    "contact_names": [
-      "church@mccboston.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Paul Moyer (781) 245-5698"
     ], 
@@ -5915,9 +5731,7 @@
     "phone_numbers": [
       "(413) 563-1272"
     ], 
-    "contact_names": [
-      "mkb@valleymediation.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Legal Services"
@@ -5950,9 +5764,7 @@
     "phone_numbers": [
       "(617) 427-0377"
     ], 
-    "contact_names": [
-      "mailto:info@missionsafe.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Job Development and Placement", 
@@ -5990,9 +5802,7 @@
     "phone_numbers": [
       "(617) 427-0377"
     ], 
-    "contact_names": [
-      "mailto:info@missionsafe.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6029,9 +5839,7 @@
     "phone_numbers": [
       "(781) 788-0035"
     ], 
-    "contact_names": [
-      "mailto:info@mtwyouth.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Kelly Exley-Smith (781) 314-9335"
     ], 
@@ -6067,9 +5875,7 @@
     "phone_numbers": [
       "(781) 788-0035"
     ], 
-    "contact_names": [
-      "mailto:info@mtwyouth.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Kelly Exley-Smith (781) 314-9335"
     ], 
@@ -6107,8 +5913,7 @@
       "(617) 442-1622"
     ], 
     "contact_names": [
-      "Executive Director Gary Daffin (617) 238-2401", 
-      "gdaffin@mac-boston.org"
+      "Executive Director Gary Daffin (617) 238-2401"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6150,8 +5955,7 @@
       "(508) 228-3955"
     ], 
     "contact_names": [
-      "Francesca Ifantiedes", 
-      "francesca@nantucketaids.org"
+      "Francesca Ifantiedes"
     ], 
     "contact_emails": [
       "Libby Maynes"
@@ -6194,9 +5998,7 @@
     "phone_numbers": [
       "(508) 994-4521 x105"
     ], 
-    "contact_names": [
-      "nbagly@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6228,9 +6030,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "newenglandaces@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6263,9 +6063,7 @@
     "phone_numbers": [
       "(978) 712-0144"
     ], 
-    "contact_names": [
-      "admin@netranswomensalliance.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6299,9 +6097,7 @@
     "phone_numbers": [
       "(978) 687-7948"
     ], 
-    "contact_names": [
-      "Contact form on website"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -6332,9 +6128,7 @@
     "phone_numbers": [
       "(617) 927-6088"
     ], 
-    "contact_names": [
-      "naglyleaders@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6369,8 +6163,7 @@
       "(617) 625-6600"
     ], 
     "contact_names": [
-      "Sonja Darai", 
-      "sdarai@somervillema.org"
+      "Sonja Darai"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6401,8 +6194,7 @@
       "(617) 864-8068"
     ], 
     "contact_names": [
-      "Rev. Dr. Meg Hess", 
-      "pastor@oldcambridgebaptist.org"
+      "Rev. Dr. Meg Hess"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6434,9 +6226,7 @@
     "phone_numbers": [
       "(413) 588-4019"
     ], 
-    "contact_names": [
-      "ino@outbooksonwheels.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Education, Training, and Employment"
@@ -6466,8 +6256,7 @@
       "(413) 736-4610"
     ], 
     "contact_names": [
-      "Holly Richardson", 
-      "outnow@comcast.net"
+      "Holly Richardson"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6503,9 +6292,7 @@
     "phone_numbers": [
       "(978) 452-2144"
     ], 
-    "contact_names": [
-      "contact@pawtucketcongregationalchurch.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -6569,8 +6356,7 @@
       ""
     ], 
     "contact_names": [
-      "David", 
-      "merrimackvalleypflag@gmail.com"
+      "David"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6602,9 +6388,7 @@
     "phone_numbers": [
       "(781) 891-5966"
     ], 
-    "contact_names": [
-      "gbpflag@mail.com -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6641,9 +6425,7 @@
     "phone_numbers": [
       "(508) 737-5832"
     ], 
-    "contact_names": [
-      "info@pflagcapecod.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6681,9 +6463,7 @@
     "phone_numbers": [
       "(508) 238-6373"
     ], 
-    "contact_names": [
-      "PFLAGeaston@comcast.net -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6721,9 +6501,7 @@
     "phone_numbers": [
       "(413) 625-6636"
     ], 
-    "contact_names": [
-      "jcmalinski48@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6762,8 +6540,7 @@
       "(413) 243-2382"
     ], 
     "contact_names": [
-      "Judy Nardacci", 
-      "mssenn29@gmail.com"
+      "Judy Nardacci"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6800,9 +6577,7 @@
     "phone_numbers": [
       "(413) 625-6636"
     ], 
-    "contact_names": [
-      "jcmalinski48@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6841,8 +6616,7 @@
       "(508) 631-2699"
     ], 
     "contact_names": [
-      "Laura Farnsworth", 
-      "pflagworcester@iname.com"
+      "Laura Farnsworth"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -6879,9 +6653,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "pflagreading@aol.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -6918,9 +6690,7 @@
     "phone_numbers": [
       "(617) 427-7950"
     ], 
-    "contact_names": [
-      "info@projecthiphop.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -6956,9 +6726,7 @@
     "phone_numbers": [
       "(978) 544-6142"
     ], 
-    "contact_names": [
-      "info@quabbinmediation.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health"
@@ -6987,9 +6755,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "qapa@qapa.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Education, Training, and Employment", 
@@ -7022,9 +6788,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "events@qwocboston.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -7057,9 +6821,7 @@
     "phone_numbers": [
       "(617) 442-2355"
     ], 
-    "contact_names": [
-      "rands@reflectandstrengthen.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -7093,9 +6855,7 @@
     "phone_numbers": [
       "(413) 253-2214"
     ], 
-    "contact_names": [
-      "info@amherstlaser.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -7131,9 +6891,7 @@
     "phone_numbers": [
       "(617) 442-9322"
     ], 
-    "contact_names": [
-      "webmaster@rosiesplace.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Michele Chausse (617) 318-0210"
     ], 
@@ -7142,7 +6900,7 @@
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Placement Services", 
@@ -7173,8 +6931,7 @@
       "(617) 427-8095"
     ], 
     "contact_names": [
-      "Celenia Toledo (617) 427-8095 ext 223", 
-      "mailto:ctoledo@roxburyyouthworks.org"
+      "Celenia Toledo (617) 427-8095 ext 223"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -7208,8 +6965,7 @@
       "(508) 755-0333"
     ], 
     "contact_names": [
-      "Laura Farnsworth", 
-      "safehomes@thebridgecm.org"
+      "Laura Farnsworth"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -7246,9 +7002,7 @@
       "(413) 586-1125 (office)", 
       "(413) 586-5066 (hotline)"
     ], 
-    "contact_names": [
-      "info@safepass.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Marianne Winters, Executive Director (413) 586-1125 ext 20"
     ], 
@@ -7289,9 +7043,7 @@
     "phone_numbers": [
       "(978) 452-2150"
     ], 
-    "contact_names": [
-      "office@stanneslowell.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -7322,9 +7074,7 @@
     "phone_numbers": [
       "(617) 482-5800"
     ], 
-    "contact_names": [
-      "cathedral@diomass.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -7355,9 +7105,7 @@
     "phone_numbers": [
       "(978) 744-8388"
     ], 
-    "contact_names": [
-      "info@healthq.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ruth Price"
     ], 
@@ -7398,9 +7146,7 @@
     "phone_numbers": [
       "(617) 536-2460"
     ], 
-    "contact_names": [
-      "info@samaritanshope.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ron White"
     ], 
@@ -7438,9 +7184,7 @@
     "phone_numbers": [
       "(978) 352-2127"
     ], 
-    "contact_names": [
-      "ona@secondchurchboxford.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Rick Goodrich"
     ], 
@@ -7473,9 +7217,7 @@
     "phone_numbers": [
       "(617) 457-8140"
     ], 
-    "contact_names": [
-      "mailto:%20information@fenwayhealth.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -7484,7 +7226,9 @@
       "Substance Abuse Services", 
       "Sexual Health Services"
     ], 
-    "new_search_class": [], 
+    "new_search_class": [
+      "Physical Health"
+    ], 
     "service_class_level_1": [
       "Health Care", 
       " Behavioral Health Services", 
@@ -7520,9 +7264,7 @@
     "phone_numbers": [
       "(617) 625-6600 ext. 2400"
     ], 
-    "contact_names": [
-      "lgbtissues@somervillema.gov -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Government Entity", 
@@ -7557,9 +7299,7 @@
     "phone_numbers": [
       "(978) 475-0321"
     ], 
-    "contact_names": [
-      "scand@southchurch.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -7590,9 +7330,7 @@
     "phone_numbers": [
       "(617) 524-6373"
     ], 
-    "contact_names": [
-      "mailto:admin@spontaneouscelebrations.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "George Lee, Youth Programs"
     ], 
@@ -7627,9 +7365,7 @@
     "phone_numbers": [
       "(781) 312-8073"
     ], 
-    "contact_names": [
-      "Sshagly@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -7660,9 +7396,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "clergy@stjamessomerville.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -7693,9 +7427,7 @@
     "phone_numbers": [
       "(413) 584-1757"
     ], 
-    "contact_names": [
-      "stjohnsnorthampton@verizon.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -7729,9 +7461,7 @@
     "phone_numbers": [
       "(978) 683-0671"
     ], 
-    "contact_names": [
-      "stpaulsna@comcast.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -7763,8 +7493,7 @@
       "(508) 755-3773, ext 36"
     ], 
     "contact_names": [
-      "Luis Cantres", 
-      "mailto:swagly@aidsprojectworcester.org"
+      "Luis Cantres"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -7799,9 +7528,7 @@
     "phone_numbers": [
       "(617) 625-6600 ext. 2256"
     ], 
-    "contact_names": [
-      "danny@teenempowerment.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -7809,7 +7536,7 @@
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Awareness", 
@@ -7839,9 +7566,7 @@
     "phone_numbers": [
       "(617) 427-1488"
     ], 
-    "contact_names": [
-      "mailto: sheri@teenempowerment.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -7849,7 +7574,7 @@
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Awareness", 
@@ -7879,9 +7604,7 @@
     "phone_numbers": [
       "(617) 536-4266"
     ], 
-    "contact_names": [
-      "willmoy@teenempowerment.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -7889,7 +7612,7 @@
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Awareness", 
@@ -7908,7 +7631,7 @@
     "lng": -71.0818652
   }, 
   {
-    "organization_name": "Temple Beth Avodah- UNSURE", 
+    "organization_name": "Temple Beth Avodah- UNSURE waiting for email response with commitment to improving", 
     "address": "45 Puddingstone Lane", 
     "unit_number": "", 
     "county": "Middlesex", 
@@ -7920,8 +7643,7 @@
       "(617) 527-0045"
     ], 
     "contact_names": [
-      "Elise Hyman", 
-      "ehyman@bethavodah.org"
+      "Elise Hyman"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -7953,9 +7675,7 @@
     "phone_numbers": [
       "(978) 470-1356"
     ], 
-    "contact_names": [
-      "info@templeemanuel.net"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Trish Grant (978) 470-1356"
     ], 
@@ -7988,9 +7708,7 @@
     "phone_numbers": [
       "(508) 755-1257"
     ], 
-    "contact_names": [
-      "office@emanuelsinai.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -8021,9 +7739,7 @@
     "phone_numbers": [
       "(413) 732-0011"
     ], 
-    "contact_names": [
-      "Contact form on website"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Health and Mental Health", 
@@ -8056,10 +7772,10 @@
     "phone_numbers": [
       "(617) 482-4826x318"
     ], 
-    "contact_names": [
-      "info@thecrossingboston.org"
+    "contact_names": [], 
+    "contact_emails": [
+      "Isaac Everett (917) 306-2442"
     ], 
-    "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
     ], 
@@ -8071,8 +7787,8 @@
     ], 
     "service_class_level_2": [], 
     "target_populations": [], 
-    "min_age": NaN, 
-    "max_age": NaN, 
+    "min_age": 18, 
+    "max_age": 40, 
     "additional_notes": "Every week, every day, by God\u2019s grace, we try to live it out.", 
     "lat": 42.3558183, 
     "lng": -71.06238379999999
@@ -8090,8 +7806,7 @@
       "(800) 530-2770 ext. 229"
     ], 
     "contact_names": [
-      "Missy Sturtevant", 
-      "msturtevant@healthimperatives.org"
+      "Missy Sturtevant"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8128,9 +7843,7 @@
     "phone_numbers": [
       ""
     ], 
-    "contact_names": [
-      "info@locscollective.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group", 
@@ -8164,9 +7877,7 @@
     "phone_numbers": [
       "(617) 450-1987"
     ], 
-    "contact_names": [
-      "malecenter@aac.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Keith Orr (857) 313-6557"
     ], 
@@ -8207,9 +7918,7 @@
     "phone_numbers": [
       "(413) 586-5004"
     ], 
-    "contact_names": [
-      "rsteel@att.net -  EMAIL DOES NOT WORK"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -8240,9 +7949,7 @@
     "phone_numbers": [
       "(617) 661-1600"
     ], 
-    "contact_names": [
-      "info@thetheateroffensive.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Abraham Rybeck"
     ], 
@@ -8278,9 +7985,7 @@
     "phone_numbers": [
       "(781) 891-9325"
     ], 
-    "contact_names": [
-      "info@tcne.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -8314,9 +8019,7 @@
     "phone_numbers": [
       "(617) 437-6200"
     ], 
-    "contact_names": [
-      "mailto:transcend@aac.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ceugant Scolaidhe (617) 450-1401"
     ], 
@@ -8356,8 +8059,7 @@
       "(617) 442-4111"
     ], 
     "contact_names": [
-      "Scott Francis", 
-      "scottf@transformation-center.org"
+      "Scott Francis"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8399,8 +8101,7 @@
       "(413) 695-7686"
     ], 
     "contact_names": [
-      "Nancy", 
-      "pvtransparents1@gmail.com"
+      "Nancy"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8433,9 +8134,7 @@
     "phone_numbers": [
       "(978) 372-4244"
     ], 
-    "contact_names": [
-      "admin@trinityhaverhill.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Rev Jane Bearden"
     ], 
@@ -8469,8 +8168,7 @@
       "(508) 753-2989"
     ], 
     "contact_names": [
-      "Karen Allen", 
-      "admin@trinityworc.org"
+      "Karen Allen"
     ], 
     "contact_emails": [
       "Pr. Matthew James"
@@ -8504,9 +8202,7 @@
     "phone_numbers": [
       "(781) 235-7423 x112"
     ], 
-    "contact_names": [
-      "info@wagly.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Jack Patrick Lewis (508) 875-2122"
     ], 
@@ -8541,9 +8237,7 @@
     "phone_numbers": [
       "(508) 853-1942"
     ], 
-    "contact_names": [
-      "office@uucworcester.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -8576,9 +8270,7 @@
     "phone_numbers": [
       "(978) 475-4454"
     ], 
-    "contact_names": [
-      "Contact form on website"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -8610,8 +8302,7 @@
       "(617) 318-6010"
     ], 
     "contact_names": [
-      "Susan Chorley, Senior Program Director (617) 277-4194", 
-      "schorley@uuum.org"
+      "Susan Chorley, Senior Program Director (617) 277-4194"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8619,7 +8310,7 @@
       "Education, Training, and Employment"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Support Services", 
@@ -8649,9 +8340,7 @@
     "phone_numbers": [
       "(508) 752-3785"
     ], 
-    "contact_names": [
-      "staff@ucc-worcester.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -8682,9 +8371,7 @@
     "phone_numbers": [
       "(617) 623-1212"
     ], 
-    "contact_names": [
-      "unitysomerville@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Faith Based Organization"
@@ -8716,8 +8403,7 @@
       "(978) 372-5173"
     ], 
     "contact_names": [
-      "Lisa Compton", 
-      "office@uuhaverhill.org"
+      "Lisa Compton"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8749,9 +8435,7 @@
     "phone_numbers": [
       "(413) 584-8764"
     ], 
-    "contact_names": [
-      "ventureout.geo@yahoo.com - EMAIL NOT WORKING"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -8782,9 +8466,7 @@
     "phone_numbers": [
       "(781) 235-7423 x112"
     ], 
-    "contact_names": [
-      "info@wagly.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Jack Patrick Lewis (508) 875-2122"
     ], 
@@ -8819,9 +8501,7 @@
     "phone_numbers": [
       "(617) 267-3700"
     ], 
-    "contact_names": [
-      "rreed@thehome.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Katie Miller (781) 647-9976"
     ], 
@@ -8830,7 +8510,7 @@
       "Counseling, Therapy, Psychological and Psychiatric Services"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Support Services", 
@@ -8857,8 +8537,7 @@
       "(978) 475-3528"
     ], 
     "contact_names": [
-      "Betsy Collins", 
-      "westparishchurch@verizon.net"
+      "Betsy Collins"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8879,7 +8558,7 @@
     "lng": -71.1658021
   }, 
   {
-    "organization_name": "Worcester Police Department, LGBT Liaison Richard F. Bates", 
+    "organization_name": "Worcester Police Department LGBT Liaison Lt. Richard Bates", 
     "address": "", 
     "unit_number": "", 
     "county": "Worcester", 
@@ -8891,8 +8570,7 @@
       "(508) 799-8694"
     ], 
     "contact_names": [
-      "Richard F. Bates", 
-      "batesr@worcesterma.gov"
+      "Richard F. Bates"
     ], 
     "contact_emails": [], 
     "youth_category": [
@@ -8922,9 +8600,7 @@
     "phone_numbers": [
       "(617) 424-9595"
     ], 
-    "contact_names": [
-      "mailto:youngblissboston@gmail.com"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Community Group"
@@ -8957,9 +8633,7 @@
     "phone_numbers": [
       "(617) 661-2508"
     ], 
-    "contact_names": [
-      "mailto:yof@aac.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Ayala Livny (617) 661-2803"
     ], 
@@ -9004,9 +8678,7 @@
     "phone_numbers": [
       "(781) 477-2313"
     ], 
-    "contact_names": [
-      "teen@ywcalawrence.org"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Eliza Campbell"
     ], 
@@ -9266,7 +8938,9 @@
     "youth_category": [
       "Other Specialist: Voice Therapy"
     ], 
-    "new_search_class": [], 
+    "new_search_class": [
+      "Mental Health"
+    ], 
     "service_class_level_1": [
       "Other Professional Services"
     ], 
@@ -9299,7 +8973,7 @@
       "Other Specialist: Infectious Disease"
     ], 
     "new_search_class": [
-      "Mental  Health"
+      "Mental Health"
     ], 
     "service_class_level_1": [
       "Health Care"
@@ -9528,7 +9202,9 @@
     "youth_category": [
       "Other Specialist: Cosmology"
     ], 
-    "new_search_class": [], 
+    "new_search_class": [
+      "Mental Health"
+    ], 
     "service_class_level_1": [
       "Other Professional Services"
     ], 
@@ -10222,7 +9898,7 @@
       "Dental Services"
     ], 
     "new_search_class": [
-      "Physical  Health"
+      "Physical Health"
     ], 
     "service_class_level_1": [
       "Health Care", 
@@ -11734,9 +11410,7 @@
     ], 
     "min_age": NaN, 
     "max_age": NaN, 
-    "additional_notes": "", 
-    "lat": 42.315075, 
-    "lng": -72.630573
+    "additional_notes": ""
   }, 
   {
     "organization_name": "Melissa Johnson, Pioneer Valley Plastic Surgery", 
@@ -11938,7 +11612,7 @@
       "Counseling, Therapy, Psychological and Psychiatric Services"
     ], 
     "new_search_class": [
-      "Mental  Health"
+      "Mental Health"
     ], 
     "service_class_level_1": [
       "Health Care", 
@@ -12160,8 +11834,8 @@
     "min_age": NaN, 
     "max_age": NaN, 
     "additional_notes": "PFLAG supports LGBT people, their families and friends locally and nationally by providing PFLAG chapter helplines, support group meetings and resources. PFLAG also educates families and communities on sexual orientation, gender identity and LGBT issues. Local PFLAG chapters educate their communities through a variety of projects while PFLAG National continues to provide fair and accurate information about LGBT people, their loved ones, and the unique challenges they face.", 
-    "lat": 42.4370374, 
-    "lng": -71.5056199
+    "lat": 42.4195323, 
+    "lng": -71.51304449999999
   }, 
   {
     "organization_name": "Pioneer Valley LGBTQ Women's Meetup Group", 
@@ -12573,7 +12247,7 @@
       "Housing and Shelter Services"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Placement Services"
@@ -12712,7 +12386,7 @@
       "Counseling, Therapy, Psychological and Psychiatric Services"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Basic Support", 
@@ -12745,7 +12419,7 @@
       "Case Management"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Basic Support", 
@@ -13801,7 +13475,7 @@
       "Housing and Shelter Services"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Placement Services"
@@ -14227,7 +13901,7 @@
       "Job Development and Placement"
     ], 
     "new_search_class": [
-      "Employment & Housing Services"
+      "Employment & Housing"
     ], 
     "service_class_level_1": [
       "Employment", 
@@ -14263,7 +13937,7 @@
       "Substance Abuse Services"
     ], 
     "new_search_class": [
-      "Mental  Health"
+      "Mental Health"
     ], 
     "service_class_level_1": [
       "Health Care ", 
@@ -14366,9 +14040,7 @@
     "phone_numbers": [
       "(508) 799-1152,"
     ], 
-    "contact_names": [
-      "humanrights@worcesterma.gov"
-    ], 
+    "contact_names": [], 
     "contact_emails": [
       "Edward Robinson (508) 769-3267"
     ], 
@@ -14402,9 +14074,7 @@
     "phone_numbers": [
       "(413) 545-4824"
     ], 
-    "contact_names": [
-      "stonewall@stuaf.umass.edu"
-    ], 
+    "contact_names": [], 
     "contact_emails": [], 
     "youth_category": [
       "Awareness and Advocacy", 

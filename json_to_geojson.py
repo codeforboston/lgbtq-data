@@ -19,8 +19,8 @@ ORDERED_KEYS = ["organization_name",
     "service_class_level_1",
     "service_class_level_2",
     "target_populations",
-    "min_age",
-    "max_age",
+    #"min_age",
+    #"max_age",
     "additional_notes"]
 
 #labels to title case

@@ -91,9 +91,10 @@ def parse(f, geocode=False):
       county = row[28]
 
       phones = [row[29]]
-      names = filter_out_empty([row[30], row[31]])
+      names = filter_out_empty([row[30]])
+      # row 31 name is not for public use
       emails = cleanup_emails(filter_out_empty([row[32]]))
-      #row 33 email is not for public use
+      # row 33 email is not for public use
 
       target_populations = filter_out_empty(row[34:36])
       min_age = numberify(row[37])

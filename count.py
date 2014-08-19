@@ -36,6 +36,7 @@ data = json.loads("".join(inp.readlines()))
 service_class = {}
 all_target_populations = {}
 youth_category = {}
+search_class = {}
 
 for item in data["features"]:
   d = item['properties']
@@ -45,6 +46,8 @@ for item in data["features"]:
     add_to_map(all_target_populations, tp)
   for so in d.get("youth_category"):
     add_to_map(youth_category, so)
+  for clazz in d.get("new_search_class"):
+    add_to_map(search_class, clazz)
 
 print "\nSSERVICE CLASS"
 print_alphabetic(service_class)
@@ -54,5 +57,8 @@ print_alphabetic(all_target_populations)
 
 print "\nYOUTH CATEGORY"
 print_alphabetic(youth_category)
+
+print "\nSEARCH CLASS"
+print_alphabetic(search_class)
 
 
